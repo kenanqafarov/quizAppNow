@@ -1,0 +1,21 @@
+.app {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+  background: #f7f7f7;
+  min-height: 100vh;
+}
+
+.start-screen {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.start-screen button {
+  padding: 12px 24px;
+  font-size: 18px;
+  border: none;
+  border-radius: 6px;
+  background: #007bff;
+  color: white;
+  cursor: pointer;
+}

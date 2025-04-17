@@ -1,0 +1,110 @@
+// App.css
+.app {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+  background: #f7f7f7;
+  min-height: 100vh;
+}
+
+.start-screen {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.start-screen button {
+  padding: 12px 24px;
+  font-size: 18px;
+  border: none;
+  border-radius: 6px;
+  background: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+// Quiz.css
+.quiz-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.timer {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  font-weight: bold;
+  font-size: 16px;
+  color: #333;
+}
+
+.question-text {
+  font-size: 20px;
+  margin: 20px 0 10px;
+}
+
+.options {
+  list-style: none;
+  padding: 0;
+}
+
+.option {
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  background: #f0f0f0;
+  border-radius: 8px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  transition: all 0.2s;
+}
+
+.option:hover {
+  background: #e0e0e0;
+}
+
+.option.selected {
+  background: #d9ecff;
+  border-color: #3399ff;
+}
+
+.option.correct {
+  background: #d4edda;
+  border: 2px solid #28a745;
+  font-weight: bold;
+}
+
+.option.wrong {
+  background: #f8d7da;
+  border: 2px solid #dc3545;
+}
+
+.nav-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.nav-buttons button,
+.submit-section button {
+  padding: 10px 20px;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  background: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+.submit-section {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.done-msg {
+  color: green;
+  font-weight: bold;
+  font-size: 18px;
+}
