@@ -2,10 +2,10 @@
     {
       "question": "1. Cavablardan hansı Sahibkarın vəzifələrinə daxildir?",
       "options": [
-        "• əmək haqqının səviyyəsini durmadan artırmaq",
-        "• haqsız rəqabətdən qaçmaq",
-        "• bazarda yerini qorumaq",
-        "• sözünə əməl etmək",
+        " əmək haqqının səviyyəsini durmadan artırmaq",
+        " haqsız rəqabətdən qaçmaq",
+        " bazarda yerini qorumaq",
+        " sözünə əməl etmək",
         "işgüzar müqavilələrdən irəli gələn tələbləri yerinə yetirmək"
       ],
       "answer": "işgüzar müqavilələrdən irəli gələn tələbləri yerinə yetirmək"
@@ -13,21 +13,21 @@
     {
       "question": "2. Sahibkarliq və biznes fəaliyyətini birləşdirən fərqli cəhətlərə aid olmayanı seçin",
       "options": [
-        "• ixtisaslaşma səviyyəsi",
-        "• yaranma şərtləri",
-        "• biznesin üstün olması",
+        " ixtisaslaşma səviyyəsi",
+        " yaranma şərtləri",
+        " biznesin üstün olması",
         "hər ikisi ÜDM-da payının çoxalmasına can atır",
-        "• biznesin spesifikliyi"
+        " biznesin spesifikliyi"
       ],
       "answer": "hər ikisi ÜDM-da payının çoxalmasına can atır"
     },
     {
       "question": "3. Sahibkarliq və biznes fəaliyyətini birləşdirən ümumi cəhətlərə aid olmayanı seçin:",
       "options": [
-        "• hər ikisinin fəaliyyəti üçün zəruri iqtisadi mühit lazımdır",
-        "• Bütün variantlar doğrudur",
-        "• hər ikisinin bilavasitə məqsədi mənfəət əldə edilməsidir",
-        "• hər ikisi maddi maraği ödəmək məqsədi ilə əmtəə istehsali və yaxud xidmətlər göstərilməsi ilə bağlidir",
+        " hər ikisinin fəaliyyəti üçün zəruri iqtisadi mühit lazımdır",
+        " Bütün variantlar doğrudur",
+        " hər ikisinin bilavasitə məqsədi mənfəət əldə edilməsidir",
+        " hər ikisi maddi maraği ödəmək məqsədi ilə əmtəə istehsali və yaxud xidmətlər göstərilməsi ilə bağlidir",
         "kəmiyyət və keyfiyyət fərqləri"
       ],
       "answer": "kəmiyyət və keyfiyyət fərqləri"
@@ -35,21 +35,21 @@
     {
       "question": "4. Sahibkarlığa münasibəti hansı qrupda birləşdirmək olar?",
       "options": [
-        "• Konsultativ və kommersiya biznesi",
-        "• İqtisadi-inzibati və kapitalizm iqtisadiyyatı",
+        " Konsultativ və kommersiya biznesi",
+        " İqtisadi-inzibati və kapitalizm iqtisadiyyatı",
         "Liberalizm və institsional iqtisadiyyat",
-        "• Maliyyə və istehsal iqtisadiyyatı",
-        "• İqtisadi və siyasi iqtisadiyyat"
+        " Maliyyə və istehsal iqtisadiyyatı",
+        " İqtisadi və siyasi iqtisadiyyat"
       ],
       "answer": "Liberalizm və institsional iqtisadiyyat"
     },
     {
       "question": "5. Sahibkarlıq fəaliyyəti nəzəri və praktiki cəhətdən necə bir prosesdir?",
       "options": [
-        "• sosial bir prosesdir",
-        "• tərəqqinin ana xəttidir",
-        "• əlverişli bir sistemdir",
-        "• ehtiyacların qarşılanması sistemidir",
+        " sosial bir prosesdir",
+        " tərəqqinin ana xəttidir",
+        " əlverişli bir sistemdir",
+        " ehtiyacların qarşılanması sistemidir",
         "daim inkişaf edən bir prosesdir"
       ],
       "answer": "daim inkişaf edən bir prosesdir"
@@ -57,32 +57,32 @@
     {
       "question": "6. Sahibkarlığın nəticələrinə bunlardan hansı aiddir?",
       "options": [
-        "• istehsal vasitələri",
-        "• vergi siyasəti",
+        " istehsal vasitələri",
+        " vergi siyasəti",
         "mal və xidmətlərə dair təmin edilmiş ödəniş qabiliyyətli tələb",
-        "• sahibkarlığın subyekti",
-        "• istehsal amilləri"
+        " sahibkarlığın subyekti",
+        " istehsal amilləri"
       ],
       "answer": "mal və xidmətlərə dair təmin edilmiş ödəniş qabiliyyətli tələb"
     },
     {
       "question": "7. Sahibkarlığın əsas öhdəliklərinə nə aid edilmir?",
       "options": [
-        "• müəyyən formada maliyyə və digər orqanlara hesabat təqdim etmək",
+        " müəyyən formada maliyyə və digər orqanlara hesabat təqdim etmək",
         "antiinhisar qanunvericiliyinə riayət etmək",
-        "• dövlət sığorta, sosial və digər fondlara köçürmələr etmək",
-        "• iqtisadi təhlükəsizliyi təmin etmək",
-        "• maliyyə hesabatını təqdim etmək"
+        " dövlət sığorta, sosial və digər fondlara köçürmələr etmək",
+        " iqtisadi təhlükəsizliyi təmin etmək",
+        " maliyyə hesabatını təqdim etmək"
       ],
       "answer": "antiinhisar qanunvericiliyinə riayət etmək"
     },
     {
       "question": "8. Bazar iqtisadiyyatı şəraitində menecmentin funksiyası:",
       "options": [
-        "• firmanın səviyyəsi",
-        "• firmanın təhlükəsizliyi",
-        "• firmanın təsis edilməsi",
-        "• riskin aşağı salınması",
+        " firmanın səviyyəsi",
+        " firmanın təhlükəsizliyi",
+        " firmanın təsis edilməsi",
+        " riskin aşağı salınması",
         "firmanın idarəetmə sistemi"
       ],
       "answer": "firmanın idarəetmə sistemi"
@@ -90,21 +90,21 @@
     {
       "question": "9. Son faydalılıq nəzəriyyəsinin banisi kimdir?",
       "options": [
-        "• S.Bryu",
+        " S.Bryu",
         "Y.Bem-Baverk",
-        "• K.Makkonel",
-        "• K.Marks",
-        "• F.Kotler"
+        " K.Makkonel",
+        " K.Marks",
+        " F.Kotler"
       ],
       "answer": "Y.Bem-Baverk"
     },
     {
       "question": "10. Sahibkarlıq və biznes fəaliyyətinin fərqli cəhətləri:",
       "options": [
-        "• biznesin spesifikliyi",
-        "• biznesin üstün olması",
-        "• ixtisaslaşma səviyyəsi",
-        "• yaranma şərtləri",
+        " biznesin spesifikliyi",
+        " biznesin üstün olması",
+        " ixtisaslaşma səviyyəsi",
+        " yaranma şərtləri",
         "kəmiyyət və keyfiyyət fərqləri"
       ],
       "answer": "kəmiyyət və keyfiyyət fərqləri"
@@ -112,32 +112,32 @@
     {
       "question": "11. Sahibkarlıq və biznes fəaliyyətinin ümumi cəhətləri:",
       "options": [
-        "• hər ikisi uğurları üçün çalışır",
+        " hər ikisi uğurları üçün çalışır",
         "hər ikisinin reallaşdırılması bazar vasitəsilə baş verir",
-        "• hər ikisi ÜDM-da payının çoxalmasına can atır",
-        "• hər ikisi dövlət tapşırıqlarını yerinə yetirir",
-        "• hər ikisinin məqsədi eynidir"
+        " hər ikisi ÜDM-da payının çoxalmasına can atır",
+        " hər ikisi dövlət tapşırıqlarını yerinə yetirir",
+        " hər ikisinin məqsədi eynidir"
       ],
       "answer": "hər ikisinin reallaşdırılması bazar vasitəsilə baş verir"
     },
     {
       "question": "12. Sahibkarlıq ilə məşğul olmaq üçün zəruri şərtlər:",
       "options": [
-        "• resursların bolluğunu müəyyən etmək",
-        "• əlverişli start vəziyyəti yaratmaq",
+        " resursların bolluğunu müəyyən etmək",
+        " əlverişli start vəziyyəti yaratmaq",
         "zəruri kapitala malik olmaq",
-        "• texnoloji avadanlıqları müəyyənləşdirmək",
-        "• istehsal ehtiyyatlarını əldə etmək"
+        " texnoloji avadanlıqları müəyyənləşdirmək",
+        " istehsal ehtiyyatlarını əldə etmək"
       ],
       "answer": "zəruri kapitala malik olmaq"
     },
     {
       "question": "13. Sahibkarın hüquqlarına nələr aiddir?",
       "options": [
-        "• güzəştə getmək",
-        "• iqtisadi inkişaf",
-        "• sosial-psixoloji mühitin yaradılması",
-        "• təsisçilərin bir araya gətirilməsi",
+        " güzəştə getmək",
+        " iqtisadi inkişaf",
+        " sosial-psixoloji mühitin yaradılması",
+        " təsisçilərin bir araya gətirilməsi",
         "tərəfdaşları seçmək, müəssisə yaratmaq, işçiləri işə qəbul etmək, əldə etdiyi mənfəəti istədiyi kimi bölmək"
       ],
       "answer": "tərəfdaşları seçmək, müəssisə yaratmaq, işçiləri işə qəbul etmək, əldə etdiyi mənfəəti istədiyi kimi bölmək"
@@ -145,32 +145,32 @@
     {
       "question": "14. Sahibkarlıq fəaliyyətinin əsas məğzini nə təşkil edir?",
       "options": [
-        "• rentabellilik",
+        " rentabellilik",
         "təşəbbüskarlıq",
-        "• səmərəlilik",
-        "• bacarıq",
-        "• qabiliyyət"
+        " səmərəlilik",
+        " bacarıq",
+        " qabiliyyət"
       ],
       "answer": "təşəbbüskarlıq"
     },
     {
       "question": "15. Sahibkarlıq necə bir kateqoriyadır?",
       "options": [
-        "• mücərrəd",
-        "• etik",
+        " mücərrəd",
+        " etik",
         "sosial-psixoloji",
-        "• xüsusi",
-        "• mütərəqqi"
+        " xüsusi",
+        " mütərəqqi"
       ],
       "answer": "sosial-psixoloji"
     },
     {
       "question": "16. Bazar mexanizminə nələr aiddir?",
       "options": [
-        "• müqayisə",
-        "• bazarın tənzimlənməsi",
-        "• fayda götürmək",
-        "• fərdi yanaşma",
+        " müqayisə",
+        " bazarın tənzimlənməsi",
+        " fayda götürmək",
+        " fərdi yanaşma",
         "sərbəst qiymət sistemi, insanların sərbəstliyi"
       ],
       "answer": "sərbəst qiymət sistemi, insanların sərbəstliyi"
@@ -178,21 +178,21 @@
     {
       "question": "17. Sahibkarlıq fəaliyyətində rəqabətin rolu:",
       "options": [
-        "• uğur qazanmaq",
-        "• sağlam mübarizəni təmin edir",
-        "• insanların arzularını təmin edir",
+        " uğur qazanmaq",
+        " sağlam mübarizəni təmin edir",
+        " insanların arzularını təmin edir",
         "məhsulun keyfiyyətini yüksəldir, istehsal xərclərini və qiyməti aşağı salır",
-        "• istehlakçıları bir araya gətirir"
+        " istehlakçıları bir araya gətirir"
       ],
       "answer": "məhsulun keyfiyyətini yüksəldir, istehsal xərclərini və qiyməti aşağı salır"
     },
     {
       "question": "18. Aşağıdakı bəndlərdən hansı azad seçimə aiddir?",
       "options": [
-        "• biznes-planı hazırlamaq",
-        "• sahibkarlığın konsepsiyasını müəyyən etmək",
-        "• sərbəst qərar vermək",
-        "• mülkiyyəti seçmək",
+        " biznes-planı hazırlamaq",
+        " sahibkarlığın konsepsiyasını müəyyən etmək",
+        " sərbəst qərar vermək",
+        " mülkiyyəti seçmək",
         "istədiyi peşəni seçmək, təhsil almaq, gəlirləri sərbəst xərcləmək"
       ],
       "answer": "istədiyi peşəni seçmək, təhsil almaq, gəlirləri sərbəst xərcləmək"
@@ -200,21 +200,21 @@
     {
       "question": "19. K.Makkonel və S.Bryuya görə bazar iqtisadiyyatının xarakterik cəhətlərinə aiddir:",
       "options": [
-        "• iqtisadiyyatda dövlətin xüsusi rolu",
-        "• xüsusi sektora dövlət dəstəyi",
-        "• fərdi yanaşma",
+        " iqtisadiyyatda dövlətin xüsusi rolu",
+        " xüsusi sektora dövlət dəstəyi",
+        " fərdi yanaşma",
         "xüsusi mülkiyyət, azad sahibkarlıq və azad seçim, şəxsi maraq, rəqabət, bazar qiymətləri, iqtisadiyyatda dövlətin məhdud rolu",
-        "• sahibkarlıq faəliyyətinin imkanları"
+        " sahibkarlıq faəliyyətinin imkanları"
       ],
       "answer": "xüsusi mülkiyyət, azad sahibkarlıq və azad seçim, şəxsi maraq, rəqabət, bazar qiymətləri, iqtisadiyyatda dövlətin məhdud rolu"
     },
     {
       "question": "20. Bazar iqtisadiyyatının əsas fərqləndirici cəhətləri:",
       "options": [
-        "• azad idarəetmə sistemi",
-        "• şəxsi maraq",
-        "• muzdlu işçilərin çoxluğu",
-        "• sahibkarlığın çoxnövlülüyü",
+        " azad idarəetmə sistemi",
+        " şəxsi maraq",
+        " muzdlu işçilərin çoxluğu",
+        " sahibkarlığın çoxnövlülüyü",
         "azad sahibkarlıq və azad seçim"
       ],
       "answer": "azad sahibkarlıq və azad seçim"
@@ -222,33 +222,33 @@
     {
       "question": "21. Bazar iqtisadiyyatını digər cəmiyyətlərdən fərqləndirən şərtlər:",
       "options": [
-        "• iqtisadi siyasət",
-        "• siyasi azadlıq",
-        "• qərarların sərbəst qəbulu",
+        " iqtisadi siyasət",
+        " siyasi azadlıq",
+        " qərarların sərbəst qəbulu",
         "cəmiyyətin hər bir üzvünün və hər bir təsərrüfat vahidinin iqtisadi azadlığı",
-        "• demokratiya azadlığı"
+        " demokratiya azadlığı"
       ],
       "answer": "cəmiyyətin hər bir üzvünün və hər bir təsərrüfat vahidinin iqtisadi azadlığı"
     },
     {
       "question": "22. Sahibkarlıq fəaliyyəti bazar münasibətlərinə xas iqtisadi münasibətlərin təzahürüdür dedikdə nələri əhatə edir?",
       "options": [
-        "• əmtəələrin satışını təşkil edir",
-        "• bazara cəld daxil olur",
+        " əmtəələrin satışını təşkil edir",
+        " bazara cəld daxil olur",
         "o, bazarla əlaqəli olur, yəni o, əmtəə təsərrüfatı şəraitində real məzmun alır",
-        "• əmtəə istehsalını təşkil edir",
-        "• əmtəələrin qiymətini sərbəst müəyyən edir"
+        " əmtəə istehsalını təşkil edir",
+        " əmtəələrin qiymətini sərbəst müəyyən edir"
       ],
       "answer": "o, bazarla əlaqəli olur, yəni o, əmtəə təsərrüfatı şəraitində real məzmun alır"
     },
     {
       "question": "23. Sahibkarlıq fəaliyyətinin tarixi bir kateqoriya olmasını müəyyən edən amillər:",
       "options": [
-        "• istehsalın həcmi",
+        " istehsalın həcmi",
         "istehsal vasitələri üzərində mülkiyyət forması və xüsusi mülkiyyətlə sıx əlaqə",
-        "• mülkiyyətin çoxnövlülüyü",
-        "• rentabelliyin səviyyəsi",
-        "• maliyyə nəticələri"
+        " mülkiyyətin çoxnövlülüyü",
+        " rentabelliyin səviyyəsi",
+        " maliyyə nəticələri"
       ],
       "answer": "istehsal vasitələri üzərində mülkiyyət forması və xüsusi mülkiyyətlə sıx əlaqə"
     },
@@ -256,20 +256,20 @@
       "question": "24. Sahibkarlıq fəaliyyəti haqqında iqtisadi təlimlər ilk dəfə hansı cəmiyyət daxilində meydana gəlmişdir?",
       "options": [
         "kapitalizm",
-        "• sosializm",
-        "• feodalizm",
-        "• ibtidai icma",
-        "• quldarlıq"
+        " sosializm",
+        " feodalizm",
+        " ibtidai icma",
+        " quldarlıq"
       ],
       "answer": "kapitalizm"
     },
     {
       "question": "25. Aşağıda qeyd edilənlərdən hansını sahibkar anlayışına aid etmək olar?",
       "options": [
-        "• Ailə büdcəsini formalaşdıran şəxs",
-        "• şəxsi mataığını güdən şəxs",
-        "• Mənfəətin əldə edilməsi məqsədi ilə xidmətlər göstərən şəxs",
-        "• Gəlir haqqında fikirləşən şəxs",
+        " Ailə büdcəsini formalaşdıran şəxs",
+        " şəxsi mataığını güdən şəxs",
+        " Mənfəətin əldə edilməsi məqsədi ilə xidmətlər göstərən şəxs",
+        " Gəlir haqqında fikirləşən şəxs",
         "Gələcək inkişaf haqqında düşünən təşəbbüskar, riskə gedən şəxs, novator"
       ],
       "answer": "Gələcək inkişaf haqqında düşünən təşəbbüskar, riskə gedən şəxs, novator"
@@ -277,21 +277,21 @@
     {
       "question": "26. Sahibkarlıq faəliyyətinin məzmununa aşağıdakılardan hansını aid etmək olar?",
       "options": [
-        "• müəssisənin strukturu",
-        "• işçilərin sayı",
+        " müəssisənin strukturu",
+        " işçilərin sayı",
         "iqtisadi, hüquqi, sosial, psixoloji məsələlər",
-        "• iqtisadi sistem",
-        "• biznesin sosial-psixoloji amili"
+        " iqtisadi sistem",
+        " biznesin sosial-psixoloji amili"
       ],
       "answer": "iqtisadi, hüquqi, sosial, psixoloji məsələlər"
     },
     {
       "question": "27. Aşağıda qeyd edilən bəndlərdən hansı sahibkarlığın mahiyyətini əhatə edir?",
       "options": [
-        "• Ödənişli xidmətlər göstərən istənilən şəxs",
-        "• mənfəət üçün çalışan şəxs",
-        "• Mənfəətin əldə edilməsi məqsədi ilə xidmətlər göstərən şəxs",
-        "• Gəlir əldə etməsi məqsədi ilə istənilən fəaliyyət növü ilə məşğul olan şəxs",
+        " Ödənişli xidmətlər göstərən istənilən şəxs",
+        " mənfəət üçün çalışan şəxs",
+        " Mənfəətin əldə edilməsi məqsədi ilə xidmətlər göstərən şəxs",
+        " Gəlir əldə etməsi məqsədi ilə istənilən fəaliyyət növü ilə məşğul olan şəxs",
         "İnsanlara lazım olan məhsullar istehsalı və iş bilmək sistemi"
       ],
       "answer": "İnsanlara lazım olan məhsullar istehsalı və iş bilmək sistemi"
@@ -299,32 +299,32 @@
     {
       "question": "28. Sahibkarliq haqqında elmi baxışların təkamülünün ikinci mərhələsi nə zaman yaranmışdır",
       "options": [
-        "• XX əsrin 20-ci illəri",
-        "• XIX əsrin 30-cu illəri",
-        "• XX əsrin 50-ci illəri",
+        " XX əsrin 20-ci illəri",
+        " XIX əsrin 30-cu illəri",
+        " XX əsrin 50-ci illəri",
         "XX əsrin 30-cu illəri",
-        "• XX əsrin 60-cı illəri"
+        " XX əsrin 60-cı illəri"
       ],
       "answer": "XX əsrin 30-cu illəri"
     },
     {
       "question": "29. Y.Şumpeterin fikrincə sahibkar kimdir?",
       "options": [
-        "• özü haqqında düşünən şəxs",
+        " özü haqqında düşünən şəxs",
         "yenilikçi (novator) şəxs",
-        "• bilikli və bacarıqlı şəxs",
-        "• özünə hörmət edən şəxs",
-        "• varlanmaq istəyən şəxs"
+        " bilikli və bacarıqlı şəxs",
+        " özünə hörmət edən şəxs",
+        " varlanmaq istəyən şəxs"
       ],
       "answer": "yenilikçi (novator) şəxs"
     },
     {
       "question": "30. Hansı iqtisadçı sahibkarı novator adlandırmışdır",
       "options": [
-        "• B.Spinoza",
-        "• Makiavelli",
-        "• J.B.Sey",
-        "• Kantilyon",
+        " B.Spinoza",
+        " Makiavelli",
+        " J.B.Sey",
+        " Kantilyon",
         "Şumpeter"
       ],
       "answer": "Şumpeter"
@@ -332,65 +332,65 @@
     {
       "question": "31. Sahibkarliq fəaliyyəti ağıl və fantaziyanın vəhdətidir-ifadəsinin müəllifi kimdir",
       "options": [
-        "• A.Smit",
-        "• Kantilyon",
-        "• Marks",
+        " A.Smit",
+        " Kantilyon",
+        " Marks",
         "V.Zombart",
-        "• Lenin"
+        " Lenin"
       ],
       "answer": "V.Zombart"
     },
     {
       "question": "32. Sahibkarlıq fəaliyyəti ilə kimlər məşğul ola bilməz:",
       "options": [
-        "• Xarici dövlətlərin Azərbaycandakı nümayəndəlikləri",
+        " Xarici dövlətlərin Azərbaycandakı nümayəndəlikləri",
         "Millət vəkilləri",
-        "• Rezidentlər",
-        "• Bütün cavablar səhvdir",
-        "• Qeyri-rezidentlər"
+        " Rezidentlər",
+        " Bütün cavablar səhvdir",
+        " Qeyri-rezidentlər"
       ],
       "answer": "Millət vəkilləri"
     },
     {
       "question": "33. A.Smit hansı illərdə yaşamışdır:",
       "options": [
-        "• 1634-1685",
-        "• 1701-1756",
-        "• 1615-1682",
+        " 1634-1685",
+        " 1701-1756",
+        " 1615-1682",
         "1723-1790",
-        "• 1710-1785"
+        " 1710-1785"
       ],
       "answer": "1723-1790"
     },
     {
       "question": "34. “Mənfəət əldə edilməsi sahibkarlıq fəaliyyətinin əsası deyil, ikinci dərəcəli məqsədidir” fikri kimə məxsusdur?",
       "options": [
-        "• Y.Şumpeterə",
-        "• K.Marksa",
-        "• V.Leninə",
+        " Y.Şumpeterə",
+        " K.Marksa",
+        " V.Leninə",
         "V.Zombarta",
-        "• İ.Seyə"
+        " İ.Seyə"
       ],
       "answer": "V.Zombarta"
     },
     {
       "question": "35. V.Zombarta görə sahibkarlıq aşağıdakılardan hansının vəhdətidir?",
       "options": [
-        "• dəyər və zərərin",
-        "• idxal və ixracın",
-        "• sadə və mürəkkəbin",
+        " dəyər və zərərin",
+        " idxal və ixracın",
+        " sadə və mürəkkəbin",
         "ağıl və fantaziyanın",
-        "• idarəetmə və menecmentin"
+        " idarəetmə və menecmentin"
       ],
       "answer": "ağıl və fantaziyanın"
     },
     {
       "question": "36. A.Smitə görə sahibkar kimdir?",
       "options": [
-        "• tərəfdaş axtaran şəxs",
-        "• müqavilə bağlayan şəxs",
-        "• menecer",
-        "• kütləvi istehsalla məşğul olan şəxs",
+        " tərəfdaş axtaran şəxs",
+        " müqavilə bağlayan şəxs",
+        " menecer",
+        " kütləvi istehsalla məşğul olan şəxs",
         "öz istehsalını planlaşdıran və təşkil edən, müstəqil qərar verən və risk edən şəxs"
       ],
       "answer": "öz istehsalını planlaşdıran və təşkil edən, müstəqil qərar verən və risk edən şəxs"
@@ -398,10 +398,10 @@
     {
       "question": "37. Sahibkar kimdir?",
       "options": [
-        "• kommersiya fəaliyyəti ilə məşğul olan şəxs",
-        "• əmtəə istehsal edən şəxs",
-        "• əmtəə satan şəxs",
-        "• əmtəələri mübadilə edən şəxs",
+        " kommersiya fəaliyyəti ilə məşğul olan şəxs",
+        " əmtəə istehsal edən şəxs",
+        " əmtəə satan şəxs",
+        " əmtəələri mübadilə edən şəxs",
         "risk edən şəxs"
       ],
       "answer": "risk edən şəxs"
@@ -410,43 +410,43 @@
       "question": "38. “Sahibkar” ifadəsinin mahiyyəti haqqında fikir söyləyən ilk müəllif kimdir?",
       "options": [
         "R.Kantilyon",
-        "• V.Lenin",
-        "• K.Marks",
-        "• F.Engels",
-        "• A.Smit"
+        " V.Lenin",
+        " K.Marks",
+        " F.Engels",
+        " A.Smit"
       ],
       "answer": "R.Kantilyon"
     },
     {
       "question": "39. R.Xizricin sahibkarlığa verdiyi tərif hansıdır?",
       "options": [
-        "• Sahibkarlıq – ictimaiyyətlə əlaqədir.",
-        "• Sahibkarlıq – gələcəyə inamdır",
-        "• Sahibkarlıq – inkişaf strategiyasıdır.",
+        " Sahibkarlıq – ictimaiyyətlə əlaqədir.",
+        " Sahibkarlıq – gələcəyə inamdır",
+        " Sahibkarlıq – inkişaf strategiyasıdır.",
         "Sahibkarlıq – dəyərə malik nə isə yeni bir şeyin yaradılması prosesidir.",
-        "• Sahibkarlıq – marketinqin funksiyasıdır."
+        " Sahibkarlıq – marketinqin funksiyasıdır."
       ],
       "answer": "Sahibkarlıq – dəyərə malik nə isə yeni bir şeyin yaradılması prosesidir."
     },
     {
       "question": "40. P.Drukerin sahibkarlığa verdiyi məzmun aşağıdakı bəndlərdən hansıdır?",
       "options": [
-        "• cəmiyyətin inkişafına təsiri",
-        "• dəyişiklikləri idarəetmə bacarığı",
-        "• daima axtarışda olmaq",
+        " cəmiyyətin inkişafına təsiri",
+        " dəyişiklikləri idarəetmə bacarığı",
+        " daima axtarışda olmaq",
         "idarəetmədəki yeniliklərin təşkili",
-        "• ölkənin inkişafına təkan"
+        " ölkənin inkişafına təkan"
       ],
       "answer": "idarəetmədəki yeniliklərin təşkili"
     },
     {
       "question": "41. F.Hayekə görə sahibkarlığa verilən tərif hansıdır?",
       "options": [
-        "• Sahibkarlıq – xüsusi fəaliyyət növüdür.",
-        "• Sahibkarlıq - uğurdur",
-        "• Sahibkarlıq – çеviklikdir.",
+        " Sahibkarlıq – xüsusi fəaliyyət növüdür.",
+        " Sahibkarlıq - uğurdur",
+        " Sahibkarlıq – çеviklikdir.",
         "Sahibkarlıq – yeni iqtisadi imkanların axtarışıdır.",
-        "• Sahibkarlıq – imkanların reallaşdırılmasıdır."
+        " Sahibkarlıq – imkanların reallaşdırılmasıdır."
       ],
       "answer": "Sahibkarlıq – yeni iqtisadi imkanların axtarışıdır."
     },
@@ -454,32 +454,32 @@
       "question": "42. A.Busiqinin baxışlarına görə sahibkarlığa aşağıdakılardan hansı aiddir?",
       "options": [
         "sahibkarlıq – obyektiv iqtisadi və subyektiv psixoloji cəhətlərin vəhdəti",
-        "• ixtisaslaşma",
-        "• ideyaların bir araya gətirilməsi",
-        "• resursların ilkin emalı",
-        "• təmərküzləşmə"
+        " ixtisaslaşma",
+        " ideyaların bir araya gətirilməsi",
+        " resursların ilkin emalı",
+        " təmərküzləşmə"
       ],
       "answer": "sahibkarlıq – obyektiv iqtisadi və subyektiv psixoloji cəhətlərin vəhdəti"
     },
     {
       "question": "43. V.Korolevin fikrinə görə sahibkarlıq nədir?",
       "options": [
-        "• istehsal amillərini əldə etmək",
-        "• iş görmək",
-        "• nəticə əldə etmək",
+        " istehsal amillərini əldə etmək",
+        " iş görmək",
+        " nəticə əldə etmək",
         "öz ideyalarını reallaşdırmaq və sosial səmərəyə nail olmaq",
-        "• səmərəli iş qurmaq"
+        " səmərəli iş qurmaq"
       ],
       "answer": "öz ideyalarını reallaşdırmaq və sosial səmərəyə nail olmaq"
     },
     {
       "question": "44. A.Şəkərəliyevə görə sahibkarlıq?",
       "options": [
-        "• özəl sektorun inkişafı",
-        "• bazarın böyüməsi",
-        "• varlılar təbəqəsinin yaranması",
+        " özəl sektorun inkişafı",
+        " bazarın böyüməsi",
+        " varlılar təbəqəsinin yaranması",
         "işgüzar münasibətlərin formalaşması",
-        "• xüsusi marağın artması"
+        " xüsusi marağın artması"
       ],
       "answer": "işgüzar münasibətlərin formalaşması"
     },
@@ -487,53 +487,53 @@
       "question": "45. Ə.Əlirzayevin qənaətinə görə sahibkarlıq?",
       "options": [
         "bazar iqtisadiyyatının ilkin şəraiti",
-        "• münasibətlərin formalaşması",
-        "• yoxsulluğun aradan qaldırılması",
-        "• kölgə iqtisadiyyatı",
-        "• keçid iqtisadiyyatı"
+        " münasibətlərin formalaşması",
+        " yoxsulluğun aradan qaldırılması",
+        " kölgə iqtisadiyyatı",
+        " keçid iqtisadiyyatı"
       ],
       "answer": "bazar iqtisadiyyatının ilkin şəraiti"
     },
     {
       "question": "46. S.Səfərova görə sahibkarlıq nədir?",
       "options": [
-        "• özəl sektordur",
+        " özəl sektordur",
         "iqtisadi inkişafın təməl daşıdır",
-        "• tərəfdaşlıqdır",
-        "• təminatçıdır",
-        "• himayəçidir"
+        " tərəfdaşlıqdır",
+        " təminatçıdır",
+        " himayəçidir"
       ],
       "answer": "iqtisadi inkişafın təməl daşıdır"
     },
     {
       "question": "47. Akademik Z.Səmədzadəyə görə sahibkarlıq nədir?",
       "options": [
-        "• Sahibkarlıq – bir varlıqdır.",
-        "• Sahibkarlıq – ehtiyyat mənbəyidir.",
-        "• Sahibkarlıq – gəlir məndəyidir.",
+        " Sahibkarlıq – bir varlıqdır.",
+        " Sahibkarlıq – ehtiyyat mənbəyidir.",
+        " Sahibkarlıq – gəlir məndəyidir.",
         "Sahibkarlıq – iqtisadi artımın strateji resursudur.",
-        "• Sahibkarlıq – qazanc mənbəyidir"
+        " Sahibkarlıq – qazanc mənbəyidir"
       ],
       "answer": "Sahibkarlıq – iqtisadi artımın strateji resursudur."
     },
     {
       "question": "48. Sahibkarlıq fəaliyyəti necə bir funksiyadır?",
       "options": [
-        "• sosial",
+        " sosial",
         "iqtisadi",
-        "• ictimai",
-        "• özəl",
-        "• siyasi"
+        " ictimai",
+        " özəl",
+        " siyasi"
       ],
       "answer": "iqtisadi"
     },
     {
       "question": "49. “Neoklassik sintez” nəzəriyyəsinin banisi kimdir?",
       "options": [
-        "• R.Nikson",
-        "• R.Kantilyon",
-        "• P.Druker",
-        "• Y.Şumpeter",
+        " R.Nikson",
+        " R.Kantilyon",
+        " P.Druker",
+        " Y.Şumpeter",
         "P.Samuelson"
       ],
       "answer": "P.Samuelson"
@@ -541,21 +541,21 @@
     {
       "question": "50. Bazar iqtisadiyyatı şəraitində sahibkarlıq fəaliyyətinin inkişaf mərhələlərinə aşağıdakılardan hansı aid deyil?",
       "options": [
-        "• Sahibkarlıq risklə bağlı olan, qeyir-müəyyənlik və informasiya qıtlığı şəraitində həyata keçirilən fəaliyyətdir.",
+        " Sahibkarlıq risklə bağlı olan, qeyir-müəyyənlik və informasiya qıtlığı şəraitində həyata keçirilən fəaliyyətdir.",
         "Sahibkarlıq müvəqqəti gəlir əldə etmək üçün qurulan istehsal sistemidir.",
-        "• Sahibkarlıq istehsalı təşkil və idarə etməklə bağlı işgüzar fəaliyyətdir.",
-        "• məhdud iqtisadi resurslar şəraitində öz kapitalını mənfəət əldə etmək üçün konkret sahəyə yönəltmək",
-        "• düzgün cavab yoxdur"
+        " Sahibkarlıq istehsalı təşkil və idarə etməklə bağlı işgüzar fəaliyyətdir.",
+        " məhdud iqtisadi resurslar şəraitində öz kapitalını mənfəət əldə etmək üçün konkret sahəyə yönəltmək",
+        " düzgün cavab yoxdur"
       ],
       "answer": "Sahibkarlıq müvəqqəti gəlir əldə etmək üçün qurulan istehsal sistemidir."
     },
     {
       "question": "51. İqtisadiyyatın dövlət tənzimlənməsinin ən mühüm istiqaməti kimi tətbiq olunan metodlar:",
       "options": [
-        "• SWOT analizi",
-        "• uçot metodu",
-        "• bazar metodu",
-        "• mühasibat uçotu metodu",
+        " SWOT analizi",
+        " uçot metodu",
+        " bazar metodu",
+        " mühasibat uçotu metodu",
         "inzibati və iqtisadi metod"
       ],
       "answer": "inzibati və iqtisadi metod"
@@ -563,10 +563,10 @@
     {
       "question": "52. C.Keynsin iqtisadi təliminin əsasını nələr təşkil edir?",
       "options": [
-        "• əmtəələrin çeşidləri",
-        "• əmtəələrin bazardakı payı",
-        "• inflyasiyanın səviyyəsinə nəzarətin gücləndirilməsi",
-        "• şübhə və narahatlıqların aradan qaldırılması",
+        " əmtəələrin çeşidləri",
+        " əmtəələrin bazardakı payı",
+        " inflyasiyanın səviyyəsinə nəzarətin gücləndirilməsi",
+        " şübhə və narahatlıqların aradan qaldırılması",
         "sahibkarlıq fəaliyyətində spekulyativ və kommersiya cəhətlərinin qabardılması"
       ],
       "answer": "sahibkarlıq fəaliyyətində spekulyativ və kommersiya cəhətlərinin qabardılması"
@@ -574,21 +574,21 @@
     {
       "question": "53. Sahibkarlığın inkişaf mərhələlərinə aid deyil?",
       "options": [
-        "• sahibkarlıq subyektlərinin risk etmək cəhdi",
+        " sahibkarlıq subyektlərinin risk etmək cəhdi",
         "haqsız rəqabətə can atmaq",
-        "• düzgün cavab yoxdur",
-        "• sahibkarlıq subyektinin mənfəət əldə etmək məqsədi",
-        "• sahibkarlıq subyektinin öz mənfəətini istehsala yönəltməsi"
+        " düzgün cavab yoxdur",
+        " sahibkarlıq subyektinin mənfəət əldə etmək məqsədi",
+        " sahibkarlıq subyektinin öz mənfəətini istehsala yönəltməsi"
       ],
       "answer": "haqsız rəqabətə can atmaq"
     },
     {
       "question": "54. V.Lenin tərəfindən irəli sürülmüş yeni iqtisadi siyasətin məzmununa nələr aiddir?",
       "options": [
-        "• yığım kapitalının artırılması",
-        "• xüsusi sektorun inkişafı",
-        "• əməkdaşlığın qurulması",
-        "• dövlət-xüsusi sektorun inkişafı",
+        " yığım kapitalının artırılması",
+        " xüsusi sektorun inkişafı",
+        " əməkdaşlığın qurulması",
+        " dövlət-xüsusi sektorun inkişafı",
         "dövlət kapitalizminin inkişafı, yəni xarici ölkələrdən kapital cəlb etmək"
       ],
       "answer": "dövlət kapitalizminin inkişafı, yəni xarici ölkələrdən kapital cəlb etmək"
@@ -596,10 +596,10 @@
     {
       "question": "55. K.Marks təlimində sahibkarlıq fəaliyyətinin özünəməxsusluğu nədən ibarətdir?",
       "options": [
-        "• muzdlu fəhlələr tərəfindən yaradılan dəyər",
-        "• klassik nəzəriyyə",
-        "• dəyər və izafi dəyər nəzəriyyəsi",
-        "• iqtisadi fəaliyyətin üstünlüyü",
+        " muzdlu fəhlələr tərəfindən yaradılan dəyər",
+        " klassik nəzəriyyə",
+        " dəyər və izafi dəyər nəzəriyyəsi",
+        " iqtisadi fəaliyyətin üstünlüyü",
         "kapitalist və sahibkar anlayışlarını bir-birindən ayırmaması"
       ],
       "answer": "kapitalist və sahibkar anlayışlarını bir-birindən ayırmaması"
@@ -607,54 +607,54 @@
     {
       "question": "56. A.Marşala görə sahibkarlığın səciyyəvi cəhətləri hansıdır?",
       "options": [
-        "• faəliyyət prinsipi",
-        "• iqtisadi sistem",
+        " faəliyyət prinsipi",
+        " iqtisadi sistem",
         "istehsal azadlığı və iqtisadi azadlıq",
-        "• iqtisadi təzahür",
-        "• irəli can atmaq"
+        " iqtisadi təzahür",
+        " irəli can atmaq"
       ],
       "answer": "istehsal azadlığı və iqtisadi azadlıq"
     },
     {
       "question": "57. C.Keynsə görə işşgüzar fəaliyyət subyektlərinin qarşılaşdığı risk formalarına aid olan cavabı seçin:",
       "options": [
-        "• monarxın mövcudluğu",
-        "• doğru variant yoxdur",
+        " monarxın mövcudluğu",
+        " doğru variant yoxdur",
         "sahibkarlıq riski",
-        "• neoklassiklərin vurğuladığı risklər",
-        "• menecer özbaşnalığı"
+        " neoklassiklərin vurğuladığı risklər",
+        " menecer özbaşnalığı"
       ],
       "answer": "sahibkarlıq riski"
     },
     {
       "question": "58. Y.Şumpeter sahibkarı necə adlandırırdı?",
       "options": [
-        "• təhlükələri hiss edən",
+        " təhlükələri hiss edən",
         "“iqtisadiyyatın inqilabçısı”, “sosial və siyasi inqilabların qeyri-iradi törədicisi”",
-        "• istehsalı yaxşı idarə edən",
-        "• vəzifəsinə sadiq adam",
-        "• eqolu insan"
+        " istehsalı yaxşı idarə edən",
+        " vəzifəsinə sadiq adam",
+        " eqolu insan"
       ],
       "answer": "“iqtisadiyyatın inqilabçısı”, “sosial və siyasi inqilabların qeyri-iradi törədicisi”"
     },
     {
       "question": "59. C.Keynsə görə işgüzar fəaliyyət subyektlərinin qarşılaşdığı risk formalarına aid deyil:",
       "options": [
-        "• Kreditorun riski",
-        "• bütün variantlar doğrudur",
-        "• Pul vahidinin məzənnəsinin mümkünlüyü",
+        " Kreditorun riski",
+        " bütün variantlar doğrudur",
+        " Pul vahidinin məzənnəsinin mümkünlüyü",
         "Sahibkarın hüquqi varisinin olmaması",
-        "• Sahibkarlıq riski"
+        " Sahibkarlıq riski"
       ],
       "answer": "Sahibkarın hüquqi varisinin olmaması"
     },
     {
       "question": "60. Sahibkarlıq mühiti nədir?",
       "options": [
-        "• Sahibkarlıq mühiti kimi işgüzar fəaliyyətin həyata keçirilməsinə təsir göstərməyən şəraitin və amillərin məcmusu qəbul edilir.",
-        "• Sahibkarlıq mühiti kimi yalnız marketinq fəaliyyətin həyata keçirilməsinə təsir göstərən şəraitin və amillərin məcmusu qəbul edilir.",
-        "• Sahibkarlıq mühiti kimi işgüzar fəaliyyətin həyata keçirilməməsinə təsir göstərən şəraitin və amillərin məcmusu qəbul edilir.",
-        "• İşgüzar fəaliyyətin həyata keçirilməsinə təsir göstərməyən şəraitin və amillərin məcmusu qəbul edilir.",
+        " Sahibkarlıq mühiti kimi işgüzar fəaliyyətin həyata keçirilməsinə təsir göstərməyən şəraitin və amillərin məcmusu qəbul edilir.",
+        " Sahibkarlıq mühiti kimi yalnız marketinq fəaliyyətin həyata keçirilməsinə təsir göstərən şəraitin və amillərin məcmusu qəbul edilir.",
+        " Sahibkarlıq mühiti kimi işgüzar fəaliyyətin həyata keçirilməməsinə təsir göstərən şəraitin və amillərin məcmusu qəbul edilir.",
+        " İşgüzar fəaliyyətin həyata keçirilməsinə təsir göstərməyən şəraitin və amillərin məcmusu qəbul edilir.",
         "Sahibkarlıq mühiti kimi işgüzar fəaliyyətin həyata keçirilməsinə təsir göstərən şəraitin və amillərin məcmusu qəbul edilir."
       ],
       "answer": "Sahibkarlıq mühiti kimi işgüzar fəaliyyətin həyata keçirilməsinə təsir göstərən şəraitin və amillərin məcmusu qəbul edilir."
@@ -662,66 +662,66 @@
     {
       "question": "61. Bazar iqtisadiyyatı şəraitində istehsal ehtiyatları hansılardır?",
       "options": [
-        "• Torpaq, Tədarük və Sahibkarlıq qabiliyyəti",
-        "• Torpaq, Sərmayə, Reklam və Sahibkarlıq qabiliyyəti",
-        "• Heç bir variant düzgün deyil",
+        " Torpaq, Tədarük və Sahibkarlıq qabiliyyəti",
+        " Torpaq, Sərmayə, Reklam və Sahibkarlıq qabiliyyəti",
+        " Heç bir variant düzgün deyil",
         "Torpaq, Kapital, Əmək və Sahibkarlıq qabiliyyəti",
-        "• Kommersiya, maliyyə, istehsal və konsultativ"
+        " Kommersiya, maliyyə, istehsal və konsultativ"
       ],
       "answer": "Torpaq, Kapital, Əmək və Sahibkarlıq qabiliyyəti"
     },
     {
       "question": "62. Sahibkarlığın sosial-iqtisadi aspektləri necədir?",
       "options": [
-        "• sadədir",
+        " sadədir",
         "çox cəhətlidir",
-        "• ümumidir",
-        "• dəyişkəndir",
-        "• mürəkkəbdir"
+        " ümumidir",
+        " dəyişkəndir",
+        " mürəkkəbdir"
       ],
       "answer": "çox cəhətlidir"
     },
     {
       "question": "63. O.Vüxanskiy və A.Naumov sahibkarlıq mühitinin 3 hissədən ibarət olduğunu bildirirlər?",
       "options": [
-        "• iqtisadi, siyasi, beynəlxalq mühit",
-        "• biznes mühiti, mikroəhatə, iqtisadi mühit",
+        " iqtisadi, siyasi, beynəlxalq mühit",
+        " biznes mühiti, mikroəhatə, iqtisadi mühit",
         "makroəhatə, rəqabət mühiti, daxili mühit",
-        "• sosial, psixoloji, ideoloji",
-        "• xarici, daxili, texnoloji"
+        " sosial, psixoloji, ideoloji",
+        " xarici, daxili, texnoloji"
       ],
       "answer": "makroəhatə, rəqabət mühiti, daxili mühit"
     },
     {
       "question": "64. Sahibkarlıq riskini hansı qruplara bölmək məqsədəuyğundur?",
       "options": [
-        "• qeyri-müəyyən qruplara",
-        "• idarə olunan və idarə olunmayan qruplara",
+        " qeyri-müəyyən qruplara",
+        " idarə olunan və idarə olunmayan qruplara",
         "sığortalana bilməyən və sığortalana bilən qruplara",
-        "• görünən və görünməyən qruplara",
-        "• adi və mürəkkəb qruplara"
+        " görünən və görünməyən qruplara",
+        " adi və mürəkkəb qruplara"
       ],
       "answer": "sığortalana bilməyən və sığortalana bilən qruplara"
     },
     {
       "question": "65. İşgüzar fəaliyyətin risklə bağlı olmaq cəhətini aşağıdakılardan hansılar qəbul etmişdir?",
       "options": [
-        "• A.Volkov, A.Rok, T.Perkiniç, Y.Klyaner",
+        " A.Volkov, A.Rok, T.Perkiniç, Y.Klyaner",
         "J.Sey, Zombart, Şumpeter, Marşall",
-        "• A.Smit, C.Keyns, D.Fotter, P.Samuelson",
-        "• K.Marks, F.Engels, V.Lenin, İ.Stalin",
-        "• İ.Stalin, L.Brejnev, N.Kosegin, K.Jukov"
+        " A.Smit, C.Keyns, D.Fotter, P.Samuelson",
+        " K.Marks, F.Engels, V.Lenin, İ.Stalin",
+        " İ.Stalin, L.Brejnev, N.Kosegin, K.Jukov"
       ],
       "answer": "J.Sey, Zombart, Şumpeter, Marşall"
     },
     {
       "question": "66. Sahibkarlıq fəaliyyəti hansı şəraitdə baş verir?",
       "options": [
-        "• fors-major şəraitdə",
-        "• fəaliyyəti mümkün olan şəraitdə",
-        "• istənilən vaxtda baş verir",
+        " fors-major şəraitdə",
+        " fəaliyyəti mümkün olan şəraitdə",
+        " istənilən vaxtda baş verir",
         "qeyri-müəyyənlik və risk şəraitində baş verir",
-        "• arzu olunan şəraitdə"
+        " arzu olunan şəraitdə"
       ],
       "answer": "qeyri-müəyyənlik və risk şəraitində baş verir"
     },
@@ -729,31 +729,31 @@
       "question": "67. Tarixi təkamül baxımından sahibkarlıq fəaliyyətini hansı fəaliyyətlərə bölmək olar?",
       "options": [
         "klassik (ənənəvi) və innovasiya fəaliyyətinə",
-        "• istehsal resurslarının birləşdirilməsi fəaliyyətinə",
-        "• İdxal-ixrac fəaliyyətinə",
-        "• texnoloji avadanlıqların quraşdırılması fəaliyyətinə",
-        "• idarəetmə fəaliyyətinə"
+        " istehsal resurslarının birləşdirilməsi fəaliyyətinə",
+        " İdxal-ixrac fəaliyyətinə",
+        " texnoloji avadanlıqların quraşdırılması fəaliyyətinə",
+        " idarəetmə fəaliyyətinə"
       ],
       "answer": "klassik (ənənəvi) və innovasiya fəaliyyətinə"
     },
     {
       "question": "68. Sahibkarın innovasiya ilə bağlı fəaliyyəti haqqında təlim ilk dəfə kim tərəfindən yaradılmışdır?",
       "options": [
-        "• V.Zombart",
-        "• S.Simon",
-        "• R.Kontilyon",
+        " V.Zombart",
+        " S.Simon",
+        " R.Kontilyon",
         "Y.Şumpeter",
-        "• R.Kour"
+        " R.Kour"
       ],
       "answer": "Y.Şumpeter"
     },
     {
       "question": "69. Sahibkarlıq fəaliyyəti zamanı muzdlu işçilərin əməyindən istifadə edilirmi?",
       "options": [
-        "• lüzum yoxdur",
-        "• vacib deyil",
-        "• xeyr",
-        "• məlum deyil",
+        " lüzum yoxdur",
+        " vacib deyil",
+        " xeyr",
+        " məlum deyil",
         "bəli"
       ],
       "answer": "bəli"
@@ -761,65 +761,65 @@
     {
       "question": "70. İşgüzar fəaliyyət zamanı sahibkar tərəfindən hansı işlər yerinə yetirilməlidir?",
       "options": [
-        "• tərəfdaşları seçmək",
-        "• işgüzar münasibətlərin qurulması",
-        "• işgüzar dairələri müəyyən etmək",
+        " tərəfdaşları seçmək",
+        " işgüzar münasibətlərin qurulması",
+        " işgüzar dairələri müəyyən etmək",
         "sahibkarlıq fəaliyyətinin növünü, sahəsini, istiqamətini, metodlarını və vasitələrini müəyyən etmək",
-        "• məqsədlərini müəyyən etmək"
+        " məqsədlərini müəyyən etmək"
       ],
       "answer": "sahibkarlıq fəaliyyətinin növünü, sahəsini, istiqamətini, metodlarını və vasitələrini müəyyən etmək"
     },
     {
       "question": "71. İqtisad elmində istehsalın üç amili nəzəriyyəsinin banisi kimdir?",
       "options": [
-        "• Y.Şumpeter",
+        " Y.Şumpeter",
         "B.Sey",
-        "• F.Kotler",
-        "• V.Lenin",
-        "• A.Smit"
+        " F.Kotler",
+        " V.Lenin",
+        " A.Smit"
       ],
       "answer": "B.Sey"
     },
     {
       "question": "72. İstehsalın ənənəvi üç amilinin qiymət vahidləri kimi nələr çıxış edir?",
       "options": [
-        "• gəlir",
-        "• istehsal vahidləri",
-        "• istehlak şeyləri",
+        " gəlir",
+        " istehsal vahidləri",
+        " istehlak şeyləri",
         "renta mənfəət və əmək haqqı",
-        "• divident"
+        " divident"
       ],
       "answer": "renta mənfəət və əmək haqqı"
     },
     {
       "question": "73. İstehsal ehtiyyatlarının ən əlverişli kombinasiyasının seçilməsinə təsir edən amillər?",
       "options": [
-        "• amillərin çoxluğu",
-        "• siyasi amillər",
-        "• xarici mühit amillərinin mövcudluğu",
+        " amillərin çoxluğu",
+        " siyasi amillər",
+        " xarici mühit amillərinin mövcudluğu",
         "daxili və xarici iqtisadi və texniki amillər",
-        "• daxili mühit amillərinin zəruriliyi"
+        " daxili mühit amillərinin zəruriliyi"
       ],
       "answer": "daxili və xarici iqtisadi və texniki amillər"
     },
     {
       "question": "74. İstehsal amilinə aid deyil?",
       "options": [
-        "• torpaq",
-        "• ideya",
+        " torpaq",
+        " ideya",
         "müəssisənin strukturu",
-        "• kapital",
-        "• əmək"
+        " kapital",
+        " əmək"
       ],
       "answer": "müəssisənin strukturu"
     },
     {
       "question": "75. Sahibkar tərəfindən yerinə yetirilən əsas funksiya hansıdır?",
       "options": [
-        "• kapitalın əldə edilməsi",
-        "• sexin strukturu",
-        "• resursların çoxluğu",
-        "• istehsal prosesinin quruluşu",
+        " kapitalın əldə edilməsi",
+        " sexin strukturu",
+        " resursların çoxluğu",
+        " istehsal prosesinin quruluşu",
         "iqtisadi resursların birləşdirilməsi"
       ],
       "answer": "iqtisadi resursların birləşdirilməsi"
@@ -827,43 +827,43 @@
     {
       "question": "76. Sahibkarlıq fəaliyyəti məqsədinə çatmaq üçün sahibkar hansı keyfiyyətlərə malik olmalıdır?",
       "options": [
-        "• tənbəl və məsuliyyətsiz",
+        " tənbəl və məsuliyyətsiz",
         "iqtisadi, psixoloji, təşkilati, təşəbbüskarlıq",
-        "• yenilikçi, novator, uzaqgörən",
-        "• idarəedici, strateji, qabaqlayıcı",
-        "• mülayim, bacarıqlı, natiq"
+        " yenilikçi, novator, uzaqgörən",
+        " idarəedici, strateji, qabaqlayıcı",
+        " mülayim, bacarıqlı, natiq"
       ],
       "answer": "iqtisadi, psixoloji, təşkilati, təşəbbüskarlıq"
     },
     {
       "question": "77. Sahibkarlıqda sosial problemlərin formalaşdığı yer:",
       "options": [
-        "• anbar",
-        "• sex",
-        "• istehsal",
+        " anbar",
+        " sex",
+        " istehsal",
         "təsərrüfat və cəmiyyət",
-        "• sahə"
+        " sahə"
       ],
       "answer": "təsərrüfat və cəmiyyət"
     },
     {
       "question": "78. Sosial-psixoloji və sosial-iqtisadi məqsəd nədir?",
       "options": [
-        "• problemləri həll etmək",
-        "• sosial durumun bərpa edilməsi",
-        "• qeyri-müəyyən şəraitdən baş çıxarmaq",
+        " problemləri həll etmək",
+        " sosial durumun bərpa edilməsi",
+        " qeyri-müəyyən şəraitdən baş çıxarmaq",
         "rəhbərlik etmək və başqalarına təsir göstərə bilmək, müvəffəqiyyətə doğru addımlamaq",
-        "• zəruri tədbirləri həyata keçirmək"
+        " zəruri tədbirləri həyata keçirmək"
       ],
       "answer": "rəhbərlik etmək və başqalarına təsir göstərə bilmək, müvəffəqiyyətə doğru addımlamaq"
     },
     {
       "question": "79. Sahibkarlıq fəaliyyəti qarşısında duran problem?",
       "options": [
-        "• məhsulun çeşidinin yaxşılaşdırılması",
-        "• məhsulun qiymətinin yüksəldilməsi",
-        "• əmtəənin keyfiyyəti",
-        "• istehlakçıların zövqünü oxşamaq",
+        " məhsulun çeşidinin yaxşılaşdırılması",
+        " məhsulun qiymətinin yüksəldilməsi",
+        " əmtəənin keyfiyyəti",
+        " istehlakçıların zövqünü oxşamaq",
         "satışın həcminin artırılması"
       ],
       "answer": "satışın həcminin artırılması"
@@ -872,10 +872,10 @@
       "question": "80. Sahibkarlıq iqtisadiyyatı deyəndə nə başa düşülür?",
       "options": [
         "mənfəət naminə həyata keçirilən fəaliyyət",
-        "• sosial yönümlü fəaliyyət",
-        "• bazara yönələn fəaliyyət",
-        "• cəmiyyət üçün fəaliyyət",
-        "• şəxsi marağı təmin etmək üçün fəaliyyət"
+        " sosial yönümlü fəaliyyət",
+        " bazara yönələn fəaliyyət",
+        " cəmiyyət üçün fəaliyyət",
+        " şəxsi marağı təmin etmək üçün fəaliyyət"
       ],
       "answer": "mənfəət naminə həyata keçirilən fəaliyyət"
     },
@@ -883,20 +883,20 @@
       "question": "81. Mənfəətin yüksək səviyyəsi sahibkarlıq fəaliyyəti üçün hansı rolu oynayır?",
       "options": [
         "sahibkarlığın fəaliyyət dairəsini genişləndirmə",
-        "• texnoloji prosesi sürətləndirmə",
-        "• avadanlıqları əldə etmə",
-        "• kənar təsirlərdən qorunma",
-        "• zəruri işləri yerinə yetirmə"
+        " texnoloji prosesi sürətləndirmə",
+        " avadanlıqları əldə etmə",
+        " kənar təsirlərdən qorunma",
+        " zəruri işləri yerinə yetirmə"
       ],
       "answer": "sahibkarlığın fəaliyyət dairəsini genişləndirmə"
     },
     {
       "question": "82. Mənfəətin aşağı səviyyəsi biznes üçün hansı rolu oynayır?",
       "options": [
-        "• müəyyənetmə rolunu",
-        "• kənarlaşma rolunu",
-        "• nəzarət rolunu",
-        "• hücum rolunu",
+        " müəyyənetmə rolunu",
+        " kənarlaşma rolunu",
+        " nəzarət rolunu",
+        " hücum rolunu",
         "qoruyucu amil rolunu"
       ],
       "answer": "qoruyucu amil rolunu"
@@ -905,10 +905,10 @@
       "question": "83. İqtisadiyyatın inkişaf mərhələsindən, səviyyəsindən və həcmindən asılı olmayaraq sahibkarlığın məqsədi:",
       "options": [
         "mənfəət əldə etmək",
-        "• qələbə qazanmaq",
-        "• məşğulluğu artırmaq",
-        "• rentabelliyi yüksəltmək",
-        "• məhsuldarlığa nail olmaq"
+        " qələbə qazanmaq",
+        " məşğulluğu artırmaq",
+        " rentabelliyi yüksəltmək",
+        " məhsuldarlığa nail olmaq"
       ],
       "answer": "mənfəət əldə etmək"
     },
@@ -916,41 +916,41 @@
       "question": "84. Dünyada ümumi biznesin neçə faizini KOS (kiçik və orta sahibkarlıq) təşkil edir?",
       "options": [
         "90%",
-        "• 45%",
-        "• 19%",
-        "• 30%",
-        "• 35%"
+        " 45%",
+        " 19%",
+        " 30%",
+        " 35%"
       ],
       "answer": "90%"
     },
     {
       "question": "85. Kiçik sahibkar müstəqil bir adam kimi məşhurdur-fikrinin müəllifi kimdir?",
       "options": [
-        "• Sey",
-        "• Kantilyon",
-        "• Lenin",
+        " Sey",
+        " Kantilyon",
+        " Lenin",
         "C.Helbreyt",
-        "• Şumpeter"
+        " Şumpeter"
       ],
       "answer": "C.Helbreyt"
     },
     {
       "question": "86. Müəssisələr təsnifləşdirilmə xüsusiyyətinə görə neçə yerə bölünür:",
       "options": [
-        "• 5",
-        "• 2",
-        "• 1",
+        " 5",
+        " 2",
+        " 1",
         "3",
-        "• 4"
+        " 4"
       ],
       "answer": "3"
     },
     {
       "question": "87. Kiçik və orta biznesin əsas ehtiyacları hansılardır?",
       "options": [
-        "• Biznes-idarəetmə sisteminin güclü olması",
-        "• Güzəştsiz və çətin dövlət tənzimləməsi siyasəti",
-        "• İxtisaslı kadrların işə cəlb edə bilməsi",
+        " Biznes-idarəetmə sisteminin güclü olması",
+        " Güzəştsiz və çətin dövlət tənzimləməsi siyasəti",
+        " İxtisaslı kadrların işə cəlb edə bilməsi",
         "Məhdud resurslar və tədqiqat imkanlarının məhdud olması",
         ""
       ],
@@ -959,21 +959,21 @@
     {
       "question": "88. Kiçik sahibkarlığın fəaliyyət dairəsini müəyyən edən səbəblər hansılardır?",
       "options": [
-        "• Mövcud fəaliyyət sahəsinin aşağı təsərrüfat riski ilə səciyyələnməsi",
-        "• Orta və iri ölçülü müəssisələrin iqtisadi cəhətdən əlverişsiz davranışı",
-        "• Geniş satış bazarı",
+        " Mövcud fəaliyyət sahəsinin aşağı təsərrüfat riski ilə səciyyələnməsi",
+        " Orta və iri ölçülü müəssisələrin iqtisadi cəhətdən əlverişsiz davranışı",
+        " Geniş satış bazarı",
         "Məhdud satış bazarı və məhsul istehsalı üçün zəruri resursların az olması",
-        "• Kütləvi istehsalın yeni məhsul buraxılışını operativ şəkildə mənimsəməsi"
+        " Kütləvi istehsalın yeni məhsul buraxılışını operativ şəkildə mənimsəməsi"
       ],
       "answer": "Məhdud satış bazarı və məhsul istehsalı üçün zəruri resursların az olması"
     },
     {
       "question": "89. Dünya Bankının yanaşmasına görə kiçik və orta biznesin həcmi əsasən hansı meyarlara görə qruplaşdırılır?",
       "options": [
-        "• 100-500 nəfərlik işçi heyəti və İllik dövriyyəsi, 500 mln. dollardan çox",
-        "• 10-50 nəfərlik işçi heyəti və İllik dövriyyəsi, 30 mln. dollardan çox",
-        "• 1000-5000 nəfərlik işçi heyəti və İllik dövriyyəsi, 500 mln. dollardan çox",
-        "• 1-510 nəfərlik işçi heyəti və İllik dövriyyəsi, 10 mln. dollardan çox",
+        " 100-500 nəfərlik işçi heyəti və İllik dövriyyəsi, 500 mln. dollardan çox",
+        " 10-50 nəfərlik işçi heyəti və İllik dövriyyəsi, 30 mln. dollardan çox",
+        " 1000-5000 nəfərlik işçi heyəti və İllik dövriyyəsi, 500 mln. dollardan çox",
+        " 1-510 nəfərlik işçi heyəti və İllik dövriyyəsi, 10 mln. dollardan çox",
         "50-100 nəfərlik işçi heyəti və İllik dövriyyəsi, 50 mln. dollardan çox"
       ],
       "answer": "50-100 nəfərlik işçi heyəti və İllik dövriyyəsi, 50 mln. dollardan çox"
@@ -981,10 +981,10 @@
     {
       "question": "90. Sahibkarlıq mülkiyyət mənsubiyyətinə görə necə təsnifatlaşdırılır?",
       "options": [
-        "• Kiçik, orta və iri sahibkarlığı",
-        "• Sənaye, kənd təsərrüfatı, nəqliyyat və ticarətdə həyata keçirilən sahibkarlığı",
-        "• Yerli, region, ümumölkə və beynəlxalq səviyyədə həyata keçirilən sahibkarlığı",
-        "• İstehsal, kommersiya, maliyyə və konsaltinq sahibkarlığı",
+        " Kiçik, orta və iri sahibkarlığı",
+        " Sənaye, kənd təsərrüfatı, nəqliyyat və ticarətdə həyata keçirilən sahibkarlığı",
+        " Yerli, region, ümumölkə və beynəlxalq səviyyədə həyata keçirilən sahibkarlığı",
+        " İstehsal, kommersiya, maliyyə və konsaltinq sahibkarlığı",
         "Fərdi (xüsusi), kollektiv, dövlət və birgə sahibkarlıq"
       ],
       "answer": "Fərdi (xüsusi), kollektiv, dövlət və birgə sahibkarlıq"
@@ -992,11 +992,11 @@
     {
       "question": "91. Sahibkarlıq fəaliyyət sahəsinə görə hansı sahələr üzrə qruplaşdırılır?",
       "options": [
-        "• Fərdi (xüsusi), kollektiv, dövlət sahibkarlığına və birgə sahibkarlığı",
-        "• İstehsal, kommersiya, maliyyə və konsaltinq sahibkarlığı",
-        "• Heç bir variant düzgün deyil",
+        " Fərdi (xüsusi), kollektiv, dövlət sahibkarlığına və birgə sahibkarlığı",
+        " İstehsal, kommersiya, maliyyə və konsaltinq sahibkarlığı",
+        " Heç bir variant düzgün deyil",
         "Sənaye, kənd təsərrüfatı, nəqliyyat və ticarətdə həyata keçirilən sahibkarlıq",
-        "• Kiçik, orta və iri sahibkarlıq"
+        " Kiçik, orta və iri sahibkarlıq"
       ],
       "answer": "Sənaye, kənd təsərrüfatı, nəqliyyat və ticarətdə həyata keçirilən sahibkarlıq"
     },
@@ -1004,75 +1004,75 @@
       "question": "92. İnvestisiya mühitinə nələr aiddir?",
       "options": [
         "əlverişli investisiya mühiti",
-        "• əmək haqqı",
-        "• ÜDM həcmi",
-        "• büdcə defisiti",
-        "• əmək resursları"
+        " əmək haqqı",
+        " ÜDM həcmi",
+        " büdcə defisiti",
+        " əmək resursları"
       ],
       "answer": "əlverişli investisiya mühiti"
     },
     {
       "question": "93. Sahibkarlıq fəaliyyətinin formaları bir-birilə necə əlaqədardırlar?",
       "options": [
-        "• üzvi əlaqə",
-        "• birgə əlaqə",
+        " üzvi əlaqə",
+        " birgə əlaqə",
         "sıx-qarşılıqlı əlaqə",
-        "• uzaq əlaqə",
-        "• yaxın əlaqə"
+        " uzaq əlaqə",
+        " yaxın əlaqə"
       ],
       "answer": "sıx-qarşılıqlı əlaqə"
     },
     {
       "question": "94. Hansı xarakterik cəhət sahibkarı biznesmendən fərqləndirir?",
       "options": [
-        "• vicdan",
-        "• inadkarlıq",
-        "• özünə inam",
+        " vicdan",
+        " inadkarlıq",
+        " özünə inam",
         "novatorluq",
-        "• məsuliyyət"
+        " məsuliyyət"
       ],
       "answer": "novatorluq"
     },
     {
       "question": "95. Bazar konyukturası nə deməkdir?",
       "options": [
-        "• sosial şərait",
-        "• ticarət",
-        "• təşkilat",
+        " sosial şərait",
+        " ticarət",
+        " təşkilat",
         "ümumi vəziyyət",
-        "• qeyri müəyyənlik"
+        " qeyri müəyyənlik"
       ],
       "answer": "ümumi vəziyyət"
     },
     {
       "question": "96. Sahibkarlıqda mal göstəricilərinə nə aiddir?",
       "options": [
-        "• satış, ixrac, idxal",
-        "• malların bölüşdürülməsi, ixrac imkanları",
+        " satış, ixrac, idxal",
+        " malların bölüşdürülməsi, ixrac imkanları",
         "çeşid, keyfiyyət, qutunun dizaynı",
-        "• bölüşdürmə kanalları, marketinq",
-        "• reklam büdcəsi, ixrac imkanları"
+        " bölüşdürmə kanalları, marketinq",
+        " reklam büdcəsi, ixrac imkanları"
       ],
       "answer": "çeşid, keyfiyyət, qutunun dizaynı"
     },
     {
       "question": "97. SWOT anlayışı nə deməkdir?",
       "options": [
-        "• məhsuldarlıq, trend, səviyyə",
-        "• marketinq tədqiqatları, marjinal nöqtə",
+        " məhsuldarlıq, trend, səviyyə",
+        " marketinq tədqiqatları, marjinal nöqtə",
         "müəssisənin güclü və zəif tərəfləri, imkanlar və təhlükələr",
-        "• maya dəyəri, mənfəət göstəriciləri",
-        "• rentabellik, marketinq araşdırmaları"
+        " maya dəyəri, mənfəət göstəriciləri",
+        " rentabellik, marketinq araşdırmaları"
       ],
       "answer": "müəssisənin güclü və zəif tərəfləri, imkanlar və təhlükələr"
     },
     {
       "question": "98. İri sahibkarlığın fərqli cəhətlərindən biri qeyd edilənlərdən hansıdır?",
       "options": [
-        "• informasiya bolluğu",
-        "• informasiya qıtlığı",
-        "• masştabın ölçüsü",
-        "• inkişaf tempi",
+        " informasiya bolluğu",
+        " informasiya qıtlığı",
+        " masştabın ölçüsü",
+        " inkişaf tempi",
         "sosial bazanın olması"
       ],
       "answer": "sosial bazanın olması"
@@ -1080,21 +1080,21 @@
     {
       "question": "99. İqtisadiyyatda iri sahibkarlığın çatışmazlığına hansı aiddir?",
       "options": [
-        "• müəssisənin optimal həcmi",
+        " müəssisənin optimal həcmi",
         "tədqiqatların nəticələrinin tez bir zamanda istehsala tətbiqinin məhdud olması",
-        "• müəssisənin iri həcmi",
-        "• texniki-texnoloji dəyişikliklər",
-        "• innovativ dəyişikliklər"
+        " müəssisənin iri həcmi",
+        " texniki-texnoloji dəyişikliklər",
+        " innovativ dəyişikliklər"
       ],
       "answer": "tədqiqatların nəticələrinin tez bir zamanda istehsala tətbiqinin məhdud olması"
     },
     {
       "question": "100. İqtisadiyyatda iri biznesin aparıcı roluna hansı aiddir?",
       "options": [
-        "• istehsalın amortizasiyası",
-        "• imkanların məhdud olması",
-        "• yaxın strategiyaya malik olmaq",
-        "• kadrların ixtisas səviyyəsi",
+        " istehsalın amortizasiyası",
+        " imkanların məhdud olması",
+        " yaxın strategiyaya malik olmaq",
+        " kadrların ixtisas səviyyəsi",
         "istehsalın yüksək səviyyədə ictimailəşməsi"
       ],
       "answer": "istehsalın yüksək səviyyədə ictimailəşməsi"
@@ -1102,10 +1102,10 @@
     {
       "question": "101. C.Helbreyt kiçik sahibkarı necə xarakterizə edib?",
       "options": [
-        "• Kiçik sahibkar nəticəyə nail olandır.",
-        "• Kiçik sahibkar irəlidə gedəndir",
-        "• Kiçik sahibkar hər şeyi hiss edəndir.",
-        "• Kiçik sahibkar idarəetməni biləndir.",
+        " Kiçik sahibkar nəticəyə nail olandır.",
+        " Kiçik sahibkar irəlidə gedəndir",
+        " Kiçik sahibkar hər şeyi hiss edəndir.",
+        " Kiçik sahibkar idarəetməni biləndir.",
         "Kiçik sahibkar müstəqil bir adam kimi məşhurdur."
       ],
       "answer": "Kiçik sahibkar müstəqil bir adam kimi məşhurdur."
@@ -1113,55 +1113,55 @@
     {
       "question": "102. Müəssisələrin kiçik, orta və iri sahibkarlığa aid edilməsi hansı ölkələrdə həyata keçirilir?",
       "options": [
-        "• asiya ölkələrində",
-        "• avropa ölkələrində",
-        "• sosialist ölkələrində",
+        " asiya ölkələrində",
+        " avropa ölkələrində",
+        " sosialist ölkələrində",
         "bazar ölkələrində",
-        "• qərb ölkələrində"
+        " qərb ölkələrində"
       ],
       "answer": "bazar ölkələrində"
     },
     {
       "question": "103. Dünya ölkələrinin təcrübəsində sahibkarlıqla məşğul olan müəssisələr hansı göstəricilərə görə təsnifləşdirilir?",
       "options": [
-        "• ümumi milli məhsul, ümumi daxili məhsul, əmək məhsuldarlığı",
-        "• işçilərin sayı, məhsuldarlıq, əmək haqqı, vergi dərəcəsi",
-        "• fondtutumu, iqtisadi artım, iqtisadi inkişaf, heyətin tərkibi",
+        " ümumi milli məhsul, ümumi daxili məhsul, əmək məhsuldarlığı",
+        " işçilərin sayı, məhsuldarlıq, əmək haqqı, vergi dərəcəsi",
+        " fondtutumu, iqtisadi artım, iqtisadi inkişaf, heyətin tərkibi",
         "işçilərin sayı, əsas kapitalın dəyəri, satlıq məhsulun həcmi, kapital qoyuluşunun həcmi",
-        "• işin həcmi, istehsal heyətinin quruluşu, fondverimi"
+        " işin həcmi, istehsal heyətinin quruluşu, fondverimi"
       ],
       "answer": "işçilərin sayı, əsas kapitalın dəyəri, satlıq məhsulun həcmi, kapital qoyuluşunun həcmi"
     },
     {
       "question": "104. Birgə sahibkarlığın məqsədi nədir?",
       "options": [
-        "• divident almaq",
-        "• istehlakçı toplamaq",
-        "• uğura nail olmaq",
+        " divident almaq",
+        " istehlakçı toplamaq",
+        " uğura nail olmaq",
         "mənfəət əldə etmək",
-        "• beynəlxalq bazara çıxış"
+        " beynəlxalq bazara çıxış"
       ],
       "answer": "mənfəət əldə etmək"
     },
     {
       "question": "105. Xarici investisiyaların cəlb edilməsinin əsas iqtisadi vasitəsi hansıdır?",
       "options": [
-        "• amortizasiya ayırmaları",
+        " amortizasiya ayırmaları",
         "vergi güzəştləri",
-        "• idxalın səviyyəsi",
-        "• informasiya bolluğu",
-        "• məşğulluğun səviyyəsi"
+        " idxalın səviyyəsi",
+        " informasiya bolluğu",
+        " məşğulluğun səviyyəsi"
       ],
       "answer": "vergi güzəştləri"
     },
     {
       "question": "106. Birgə sahibkarlıq məqsədilə həyata keçirilən xarici investisiyalar ölkə iqtisadiyyatında hansı nəticələrə səbəb olur?",
       "options": [
-        "• sosial duruma",
-        "• psixoloji inkişafa",
-        "• rifah halına",
+        " sosial duruma",
+        " psixoloji inkişafa",
+        " rifah halına",
         "sosial-iqtisadi nəticələrə",
-        "• mədəni inkişafa"
+        " mədəni inkişafa"
       ],
       "answer": "sosial-iqtisadi nəticələrə"
     },
@@ -1169,42 +1169,42 @@
       "question": "107. Sahibkarlıq fəaliyyətinin formalarına hansı aiddir?",
       "options": [
         "fərdi, kollektiv, birgə, dövlət",
-        "• birgə müəssisə, özəl müəssisə, fərdi sahibkarlıq, tərəfdaş",
-        "• özəl, xüsusi, kooperativ, qarışıq",
-        "• ictimai, sahə, ərazi, struktur",
-        "• beynəlxalq, beynəlmiləl, istehsal, xüsusi"
+        " birgə müəssisə, özəl müəssisə, fərdi sahibkarlıq, tərəfdaş",
+        " özəl, xüsusi, kooperativ, qarışıq",
+        " ictimai, sahə, ərazi, struktur",
+        " beynəlxalq, beynəlmiləl, istehsal, xüsusi"
       ],
       "answer": "fərdi, kollektiv, birgə, dövlət"
     },
     {
       "question": "108. Sahibkarlıq fəaliyyətinin səmərəliliyi nədən asılıdır?",
       "options": [
-        "• əmək haqqı, rentabellik, ƏDV, istehsaladan",
-        "• fondverimi, fondtutumu, əmək məhsuldarlığından",
+        " əmək haqqı, rentabellik, ƏDV, istehsaladan",
+        " fondverimi, fondtutumu, əmək məhsuldarlığından",
         "iqtisadi şəraitdən, təbii, əmək, kapital və intellektual resurslardan",
-        "• müəssisə, şirkət, təşkilat və kooperativlərin sayından",
-        "• bazardan, istehlakçıdan, alıcıdan, istehsaldan"
+        " müəssisə, şirkət, təşkilat və kooperativlərin sayından",
+        " bazardan, istehlakçıdan, alıcıdan, istehsaldan"
       ],
       "answer": "iqtisadi şəraitdən, təbii, əmək, kapital və intellektual resurslardan"
     },
     {
       "question": "109. Sahibkarlıq subyektinin inkişaf səviyyəsinə təsir göstərən amillər:",
       "options": [
-        "• təchizat,satış, xammal, tərəfdaş",
-        "• təminat, struktur, xammal, ərazi",
+        " təchizat,satış, xammal, tərəfdaş",
+        " təminat, struktur, xammal, ərazi",
         "siyasi, iqtisadi, sosioloji, psixoloji",
-        "• sosioloji, himayədarlıq, tərəfdaş, sosial",
-        "• dövlət dəstəyi, imkanlar, qanun, inam"
+        " sosioloji, himayədarlıq, tərəfdaş, sosial",
+        " dövlət dəstəyi, imkanlar, qanun, inam"
       ],
       "answer": "siyasi, iqtisadi, sosioloji, psixoloji"
     },
     {
       "question": "110. İri sahibkarlığın təşkilati-hüquqi forması hansıdır?",
       "options": [
-        "• beynəlxalq ticarət",
-        "• dünya ticarəti",
-        "• beynəlxalq saziş",
-        "• bazar",
+        " beynəlxalq ticarət",
+        " dünya ticarəti",
+        " beynəlxalq saziş",
+        " bazar",
         "iri müəssisə"
       ],
       "answer": "iri müəssisə"
@@ -1213,20 +1213,20 @@
       "question": "111. Xüsusi sahibkarlığın təşkilati-hüquqi formasına hansı aiddir?",
       "options": [
         "müəssisə",
-        "• holdinq",
-        "• təsərrüfat",
-        "• köşk",
-        "• mağaza"
+        " holdinq",
+        " təsərrüfat",
+        " köşk",
+        " mağaza"
       ],
       "answer": "müəssisə"
     },
     {
       "question": "112. Sahibkarlıq fəaliyyət xarakterinə görə harda tətbiq edilir?",
       "options": [
-        "• tikinti, xidmət, bələdiyyə",
-        "• ticarət, məişət, bazar",
-        "• market, dükan, bravo",
-        "• anbar, logistika, bazar",
+        " tikinti, xidmət, bələdiyyə",
+        " ticarət, məişət, bazar",
+        " market, dükan, bravo",
+        " anbar, logistika, bazar",
         "istehsal, kommersiya, xidmət"
       ],
       "answer": "istehsal, kommersiya, xidmət"
@@ -1235,20 +1235,20 @@
       "question": "113. Sahibkarlıq fəaliyyət sahəsinə görə hansı sahələrdə həyata keçirilir?",
       "options": [
         "sənaye, kənd təsərrüfatı, nəqliyyat, ticarət",
-        "• emal, təkrar emal, incəsənnət, birja",
-        "• tikinti, xidmət, kosmik, maşınqayırma",
-        "• bazar, marketinq, market, birja",
-        "• ictimai iaşə, sovxoz, kolxoz, mədəniyyət"
+        " emal, təkrar emal, incəsənnət, birja",
+        " tikinti, xidmət, kosmik, maşınqayırma",
+        " bazar, marketinq, market, birja",
+        " ictimai iaşə, sovxoz, kolxoz, mədəniyyət"
       ],
       "answer": "sənaye, kənd təsərrüfatı, nəqliyyat, ticarət"
     },
     {
       "question": "114. Sahibkarlıq fəaliyyət həcminə görə qeyd edilənlərdən hansıdır?",
       "options": [
-        "• transmilli, orta, iri",
-        "• kiçik, qarışıq, transmilli",
-        "• nəhəng, orta, qarışıq",
-        "• beynəlxalq, beynəlmiləl, orta",
+        " transmilli, orta, iri",
+        " kiçik, qarışıq, transmilli",
+        " nəhəng, orta, qarışıq",
+        " beynəlxalq, beynəlmiləl, orta",
         "kiçik, orta, iri"
       ],
       "answer": "kiçik, orta, iri"
@@ -1256,22 +1256,22 @@
     {
       "question": "115. Sahibkarlıq fəaliyyəti mülkiyyət mənsubiyyətinə görə qeyd edilənlərdən hansıdır?",
       "options": [
-        "• qarışıq, kooperativ, ictimai, sosial sahibkarlıq",
-        "• özəl, müştərək, sovxoz, qarışıq",
-        "• kollektiv, kolxoz, bələdiyyə, sovxoz sahibkarlıq",
+        " qarışıq, kooperativ, ictimai, sosial sahibkarlıq",
+        " özəl, müştərək, sovxoz, qarışıq",
+        " kollektiv, kolxoz, bələdiyyə, sovxoz sahibkarlıq",
         "fərdi (xüsusi), kollektiv, dövlət, birgə sahibkarlıq",
-        "• birgə, dövlət, kooperasiya, özəl sahibkarlıq"
+        " birgə, dövlət, kooperasiya, özəl sahibkarlıq"
       ],
       "answer": "fərdi (xüsusi), kollektiv, dövlət, birgə sahibkarlıq"
     },
     {
       "question": "116. Lizinqin hansı növü fərqləndirilir?",
       "options": [
-        "• avadanlıq lizinqi",
-        "• qaytarılma lizinqi",
+        " avadanlıq lizinqi",
+        " qaytarılma lizinqi",
         "maliyyə və operativ lizinq",
-        "• lizinq müəssisəsi",
-        "• sair lizinq"
+        " lizinq müəssisəsi",
+        " sair lizinq"
       ],
       "answer": "maliyyə və operativ lizinq"
     },
@@ -1279,53 +1279,53 @@
       "question": "117.",
       "options": [
         "bilavasitə əlaqədar olduğu üçün onlarm tələbinə tez bir müddətdə uyğunlaşa bilir\" - bu xüsusiyyətlər aşağıdakılardan hansına aiddir:",
-        "• Konsultativ sahibkarlıq",
-        "• Biznes-Plan",
+        " Konsultativ sahibkarlıq",
+        " Biznes-Plan",
         "Kommersiya sahibkarlığı",
-        "• Maliyyə sahibkarlığı"
+        " Maliyyə sahibkarlığı"
       ],
       "answer": "Kommersiya sahibkarlığı"
     },
     {
       "question": "118. Kommersiya banklarında metodoloji tələbləri və kredit faizini təyin edən qurum:",
       "options": [
-        "• DSMF",
+        " DSMF",
         "Mərkəzi bank",
-        "• Dövlət Gömrük Komitəsi",
-        "• Vergilər Nazirliyi",
-        "• Milli Elmlər Akademiyası"
+        " Dövlət Gömrük Komitəsi",
+        " Vergilər Nazirliyi",
+        " Milli Elmlər Akademiyası"
       ],
       "answer": "Mərkəzi bank"
     },
     {
       "question": "119. “Konsultativ sahibkarlıq” dedikdə nə başa düşülür?",
       "options": [
-        "• tərəflərin razılığı",
-        "• düzgün cavab yoxdur",
-        "• ikitərəfli saziş",
+        " tərəflərin razılığı",
+        " düzgün cavab yoxdur",
+        " ikitərəfli saziş",
         "ödənişli əsaslarla məsləhət",
-        "• müqavilə şərtləri"
+        " müqavilə şərtləri"
       ],
       "answer": "ödənişli əsaslarla məsləhət"
     },
     {
       "question": "120. Lizinqin neçə növü fərqləndirilir:",
       "options": [
-        "• 6",
-        "• 3",
-        "• 4",
+        " 6",
+        " 3",
+        " 4",
         "2",
-        "• 5"
+        " 5"
       ],
       "answer": "2"
     },
     {
       "question": "121. Kommersiya banklarının sırf bank kimi yerinə yetirdiyi vəzifələrə aiddir:",
       "options": [
-        "• tədiyyə dövriyyəsinə xidmət etmək",
-        "• dividendlərin və faizlərin verilməsi",
-        "• azad pulların qəbul edilməsi",
-        "• müxtəlif bazar subyektlərinə (dövlətə, müəssisələrə, əhaliyə) müxtəlif məqsədlərlə müddətli kreditlərin verilməsi",
+        " tədiyyə dövriyyəsinə xidmət etmək",
+        " dividendlərin və faizlərin verilməsi",
+        " azad pulların qəbul edilməsi",
+        " müxtəlif bazar subyektlərinə (dövlətə, müəssisələrə, əhaliyə) müxtəlif məqsədlərlə müddətli kreditlərin verilməsi",
         "Bütün variantlar doğrudur"
       ],
       "answer": "Bütün variantlar doğrudur"
@@ -1333,21 +1333,21 @@
     {
       "question": "122. Maliyyə sahibkarlığının obyektinə aid olanı seçin:",
       "options": [
-        "• lizinq şirkətləri",
-        "• kommersiya bankları",
-        "• fond birjaları",
+        " lizinq şirkətləri",
+        " kommersiya bankları",
+        " fond birjaları",
         "əmtəənin alqı-satqısı prosesi",
-        "• sığorta şirkətləri"
+        " sığorta şirkətləri"
       ],
       "answer": "əmtəənin alqı-satqısı prosesi"
     },
     {
       "question": "123. Birjanın yerinə yetirdiyi əməliyyatlara aid olmayanı seçin:",
       "options": [
-        "• ticarət mübahisələrini həll etmək",
-        "• alqi - satqi ilə bağli əməliyyatlari sürətləndirmək və sadələşdirmək",
-        "• məhsulun qiyməti, faydali xüsusiyyətləri haqqında məlumatlari yaymaq",
-        "• ticarət sövdələşmələri bağlayanlar arasında vasitəçilik etmək",
+        " ticarət mübahisələrini həll etmək",
+        " alqi - satqi ilə bağli əməliyyatlari sürətləndirmək və sadələşdirmək",
+        " məhsulun qiyməti, faydali xüsusiyyətləri haqqında məlumatlari yaymaq",
+        " ticarət sövdələşmələri bağlayanlar arasında vasitəçilik etmək",
         "süni surətdə birja kursunun enməsi"
       ],
       "answer": "süni surətdə birja kursunun enməsi"
@@ -1355,43 +1355,43 @@
     {
       "question": "124. Birjanın yerinə yetirdiyi əməliyyatlara aid olanı seçin:",
       "options": [
-        "• məhsulun qiyməti, faydali xüsusiyyətləri haqqında məlumatlari yaymaq",
-        "• alqi - satqi ilə bağli əməliyyatlari sürətləndirmək və sadələşdirmək",
-        "• ticarət sövdələşmələri bağlayanlar arasında vasitəçilik etmək",
+        " məhsulun qiyməti, faydali xüsusiyyətləri haqqında məlumatlari yaymaq",
+        " alqi - satqi ilə bağli əməliyyatlari sürətləndirmək və sadələşdirmək",
+        " ticarət sövdələşmələri bağlayanlar arasında vasitəçilik etmək",
         "Bütün variantlar doğrudur",
-        "• ticarət mübahisələrini həll etmək"
+        " ticarət mübahisələrini həll etmək"
       ],
       "answer": "Bütün variantlar doğrudur"
     },
     {
       "question": "125. İnformasiyanın əsas subyektləri kimi çıxış edirlər:",
       "options": [
-        "• məlumat bankları",
-        "• analitik təcrübə orqanları",
-        "• bazar infrastrukturları",
+        " məlumat bankları",
+        " analitik təcrübə orqanları",
+        " bazar infrastrukturları",
         "Bütün variantlar doğrudur",
-        "• ticarət-sənaye palatası"
+        " ticarət-sənaye palatası"
       ],
       "answer": "Bütün variantlar doğrudur"
     },
     {
       "question": "126. İstehsal sahibkarlığı qarşısında dayanan tələblərə aiddir:",
       "options": [
-        "• iqtisadi fəaliyyətə başlamaqdan əvvəl istehsal amillərinin əldə edilməsi",
-        "• hazir məhsulun bilavasitə istehlakçilari",
-        "• vasitəçi ticarət və nəqliyyat təşkilatlari",
+        " iqtisadi fəaliyyətə başlamaqdan əvvəl istehsal amillərinin əldə edilməsi",
+        " hazir məhsulun bilavasitə istehlakçilari",
+        " vasitəçi ticarət və nəqliyyat təşkilatlari",
         "Bütün variantlar doğrudur",
-        "• istehsal olunan məhsulun alicmin tələbatma uyğun gəlməsi üçün bazarm marketinqinin aparilmasi"
+        " istehsal olunan məhsulun alicmin tələbatma uyğun gəlməsi üçün bazarm marketinqinin aparilmasi"
       ],
       "answer": "Bütün variantlar doğrudur"
     },
     {
       "question": "127. İşgüzar informasiyanın əldə edilməsi hansı sistemdən istifadə edilməklə həyata keçirilir?",
       "options": [
-        "• yazılı müraciət sistemindən",
-        "• poçt sistemindən",
-        "• mobil telefon sistemindən",
-        "• faks sistemindən",
+        " yazılı müraciət sistemindən",
+        " poçt sistemindən",
+        " mobil telefon sistemindən",
+        " faks sistemindən",
         "elektron kommunikasiya və kompüter sistemindən"
       ],
       "answer": "elektron kommunikasiya və kompüter sistemindən"
@@ -1399,21 +1399,21 @@
     {
       "question": "128. Sahibkarlıq fəaliyyəti hansı sahələrdə həyata keçirilir?",
       "options": [
-        "• neft-qaz, daş kömür, neft emalı, idxal-ixrac, aqrar sferada",
-        "• istehsal, bölgü, mübadilə, istehlak",
-        "• dağ-mədən, filiz, neft emalı, yüngül sənaye, yeyinti sənayesi sferasında",
+        " neft-qaz, daş kömür, neft emalı, idxal-ixrac, aqrar sferada",
+        " istehsal, bölgü, mübadilə, istehlak",
+        " dağ-mədən, filiz, neft emalı, yüngül sənaye, yeyinti sənayesi sferasında",
         "sənayedə, kənd təsərrüfatında, tikintidə, ticarətdə, maliyyə-bank sferasında",
-        "• emal, hasilat, kənd təsərrüfatı, alqı-satqı, nəqliyyat sferasında"
+        " emal, hasilat, kənd təsərrüfatı, alqı-satqı, nəqliyyat sferasında"
       ],
       "answer": "sənayedə, kənd təsərrüfatında, tikintidə, ticarətdə, maliyyə-bank sferasında"
     },
     {
       "question": "129. Audit şirkətlərinin funksiyasına nələr aiddir?",
       "options": [
-        "• qruplaşdırma aparmaq",
-        "• kərgüzarlıq işini yerinə yetirmək",
-        "• müəssisəni ləğv etmək",
-        "• mövcud vəziyyəti qiymətləndirmək",
+        " qruplaşdırma aparmaq",
+        " kərgüzarlıq işini yerinə yetirmək",
+        " müəssisəni ləğv etmək",
+        " mövcud vəziyyəti qiymətləndirmək",
         "təsərrüfat fəaliyyətini yoxlamaq və rəy vermək"
       ],
       "answer": "təsərrüfat fəaliyyətini yoxlamaq və rəy vermək"
@@ -1421,55 +1421,55 @@
     {
       "question": "130. Audit xidmətinin subyektləri kimlərdir?",
       "options": [
-        "• Qeyri Hökumət Təşkilatları",
-        "• ictimai qurumlar",
-        "• dövlət strukturları",
+        " Qeyri Hökumət Təşkilatları",
+        " ictimai qurumlar",
+        " dövlət strukturları",
         "sərbəst auditlər və audit şirkətləri",
-        "• siyasi partiyalar"
+        " siyasi partiyalar"
       ],
       "answer": "sərbəst auditlər və audit şirkətləri"
     },
     {
       "question": "131. “Konsultant” sözününü mənası nədir?",
       "options": [
-        "• fəaliyyəti başa vurmaq",
-        "• problemin üzə çıxarılması",
+        " fəaliyyəti başa vurmaq",
+        " problemin üzə çıxarılması",
         "məsləhət verən",
-        "• ekspert xidməti",
-        "• alış-veriş"
+        " ekspert xidməti",
+        " alış-veriş"
       ],
       "answer": "məsləhət verən"
     },
     {
       "question": "132. Tədiyyə balansı nədir?",
       "options": [
-        "• tədavül xərcləri",
-        "• dəyəri ödənilmiş məhsul",
+        " tədavül xərcləri",
+        " dəyəri ödənilmiş məhsul",
         "idxalla-ixracın nisbəti",
-        "• tədarük edilmiş məhsul",
-        "• yola salınmış məhsul"
+        " tədarük edilmiş məhsul",
+        " yola salınmış məhsul"
       ],
       "answer": "idxalla-ixracın nisbəti"
     },
     {
       "question": "133. Fond birjaları bazar iqtisadiyyatında hansı rolu oynayır?",
       "options": [
-        "• manometr",
-        "• kilometr",
-        "• santimetr",
+        " manometr",
+        " kilometr",
+        " santimetr",
         "barometr",
-        "• voltmetr"
+        " voltmetr"
       ],
       "answer": "barometr"
     },
     {
       "question": "134. Maliyyə sahibkarlığının subyekti kimi nələr çıxış edir?",
       "options": [
-        "• istehsal obyektləri, müəssisələr",
-        "• fabrik və zavodlar",
-        "• lizinq şirkətləri, marketin fəaliyyəti",
+        " istehsal obyektləri, müəssisələr",
+        " fabrik və zavodlar",
+        " lizinq şirkətləri, marketin fəaliyyəti",
         "fond və valyuta birjaları, kommersiya bankları",
-        "• tədarük obyektləri, ticarət köşkləri"
+        " tədarük obyektləri, ticarət köşkləri"
       ],
       "answer": "fond və valyuta birjaları, kommersiya bankları"
     },
@@ -1477,10 +1477,10 @@
       "question": "135. “Fond birjası” dedikdə nə başa düşülür?",
       "options": [
         "qiymətli kağızların alqı-satqısını həyata keçirən bazar",
-        "• istiqrazların mübadiləsi",
-        "• alqı-satqı işinin təşkili",
-        "• qiymətli kağızların istehsalı",
-        "• lizinq əməliyyatlarının təşkili"
+        " istiqrazların mübadiləsi",
+        " alqı-satqı işinin təşkili",
+        " qiymətli kağızların istehsalı",
+        " lizinq əməliyyatlarının təşkili"
       ],
       "answer": "qiymətli kağızların alqı-satqısını həyata keçirən bazar"
     },
@@ -1488,20 +1488,20 @@
       "question": "136. Bazar iqtisadiyyatı şəraitində reklamın funksiyası:",
       "options": [
         "istehsalçı və istehlakçı arasında vasitə",
-        "• büllitenin çatdırılması",
-        "• ticarət işinin təşkili",
-        "• bülletenin çap edilməsi",
-        "• sığorta təşkilatlarının yaradılması"
+        " büllitenin çatdırılması",
+        " ticarət işinin təşkili",
+        " bülletenin çap edilməsi",
+        " sığorta təşkilatlarının yaradılması"
       ],
       "answer": "istehsalçı və istehlakçı arasında vasitə"
     },
     {
       "question": "137. Reklam bazar iqtisadiyyatına məxsus olan xidmət növüdür, onun əsasını nə təşkil edir?",
       "options": [
-        "• ictimai münasibətlər",
-        "• siyasi münasibətlər",
-        "• iqtisadi münasibətlər",
-        "• istehsal münasibətləri",
+        " ictimai münasibətlər",
+        " siyasi münasibətlər",
+        " iqtisadi münasibətlər",
+        " istehsal münasibətləri",
         "bazar münasibətləri"
       ],
       "answer": "bazar münasibətləri"
@@ -1509,32 +1509,32 @@
     {
       "question": "138. Əmtəə birjasında iqtisadi fəaliyyət hansı prinsipə uyğun həyata keçirilir?",
       "options": [
-        "• qeyri-müəyyənlik prinsipi",
-        "• ilkin razılaşma prinsipi",
-        "• əvvəlcədən ödəniş prinsipi",
+        " qeyri-müəyyənlik prinsipi",
+        " ilkin razılaşma prinsipi",
+        " əvvəlcədən ödəniş prinsipi",
         "birja ticarətinin aşkarlığı prinsipi",
-        "• ticarət mübahisələrinin həll prinsipi"
+        " ticarət mübahisələrinin həll prinsipi"
       ],
       "answer": "birja ticarətinin aşkarlığı prinsipi"
     },
     {
       "question": "139. “Əmtəə birjası” dedikdə nə başa düşülür?",
       "options": [
-        "• marketinqin idarə edilməsi",
-        "• bazar",
-        "• yarmarka",
+        " marketinqin idarə edilməsi",
+        " bazar",
+        " yarmarka",
         "əmtəələrin alqı-satqı prosesi ilə məşğul olan bazarın təşkilati forması",
-        "• ictimaiyyətlə əlaqələr"
+        " ictimaiyyətlə əlaqələr"
       ],
       "answer": "əmtəələrin alqı-satqı prosesi ilə məşğul olan bazarın təşkilati forması"
     },
     {
       "question": "140. Satış qiyməti satınalma qiymətindən çox olarsa nə baş verər?",
       "options": [
-        "• müəssisə genişlənər",
-        "• gəlir aşağı düşər",
-        "• müəssisə iflas olar",
-        "• istehlakçılar çoxalar",
+        " müəssisə genişlənər",
+        " gəlir aşağı düşər",
+        " müəssisə iflas olar",
+        " istehlakçılar çoxalar",
         "mənfəət artar"
       ],
       "answer": "mənfəət artar"
@@ -1542,21 +1542,21 @@
     {
       "question": "141. Kommersiya sahibkarlığı sahibkarlığın hansı növü ilə sıx əlaqədardır?",
       "options": [
-        "• konsultativ",
-        "• marketinq",
-        "• innovasiya",
+        " konsultativ",
+        " marketinq",
+        " innovasiya",
         "istehsal",
-        "• maliyyə"
+        " maliyyə"
       ],
       "answer": "istehsal"
     },
     {
       "question": "142. Kommersiya sahibkarlığının fərqli cəhətinə aiddir:",
       "options": [
-        "• bazara sərbəst daxilolma",
-        "• bazarı zəbt etmək",
-        "• müqavilə bağlamadan fəaliyyət",
-        "• alqı-satqıda sərbəstlik",
+        " bazara sərbəst daxilolma",
+        " bazarı zəbt etmək",
+        " müqavilə bağlamadan fəaliyyət",
+        " alqı-satqıda sərbəstlik",
         "iqtisadi əlaqələrin mürəkkəblik sistemi"
       ],
       "answer": "iqtisadi əlaqələrin mürəkkəblik sistemi"
@@ -1564,10 +1564,10 @@
     {
       "question": "143. Kommersiya sahibkarlığının üstün cəhəti hansıdır?",
       "options": [
-        "• işçilərin azlığı",
-        "• asan idarəetmə",
-        "• öhdəsindən gəlmək",
-        "• gəlirin azlığı",
+        " işçilərin azlığı",
+        " asan idarəetmə",
+        " öhdəsindən gəlmək",
+        " gəlirin azlığı",
         "çevikdir"
       ],
       "answer": "çevikdir"
@@ -1575,131 +1575,131 @@
     {
       "question": "144. Kommersiya sahibkarlığının təşkilati-hüquqi formasına aiddir:",
       "options": [
-        "• məntəqə",
+        " məntəqə",
         "ticarət firmaları",
-        "• pərakəndə satış",
-        "• mübadilə",
-        "• topdan satış"
+        " pərakəndə satış",
+        " mübadilə",
+        " topdan satış"
       ],
       "answer": "ticarət firmaları"
     },
     {
       "question": "145. Kommersiya sahibkarlığına hansılar aiddir?",
       "options": [
-        "• satışın təşkili",
-        "• sığorta əməliyyatları",
+        " satışın təşkili",
+        " sığorta əməliyyatları",
         "kommersiya, ticarət xidmətləri",
-        "• vergi əməliyyatları",
-        "• bank əməliyyatları"
+        " vergi əməliyyatları",
+        " bank əməliyyatları"
       ],
       "answer": "kommersiya, ticarət xidmətləri"
     },
     {
       "question": "146. İnformasiyanın qiyməti vardırmı?",
       "options": [
-        "• xeyr",
+        " xeyr",
         "bəli",
-        "• öyrənməyə dəyər",
-        "• düzgün cavab yoxdur",
-        "• məlum deyil"
+        " öyrənməyə dəyər",
+        " düzgün cavab yoxdur",
+        " məlum deyil"
       ],
       "answer": "bəli"
     },
     {
       "question": "147. Hazırda işgüzar informasiyanın əldə edilməsi hansı vasitələrdən istifadə etməklə əldə edilir?",
       "options": [
-        "• mobil telefon",
-        "• elektron müraciət",
+        " mobil telefon",
+        " elektron müraciət",
         "elektron kommunikasiya və kompüter sistemi",
-        "• müqavilə",
-        "• telefon"
+        " müqavilə",
+        " telefon"
       ],
       "answer": "elektron kommunikasiya və kompüter sistemi"
     },
     {
       "question": "148. İnformasiyanın əsas subyekti aşağıdakılardan hansıdır?",
       "options": [
-        "• məntəqə",
+        " məntəqə",
         "sahibkarların birlik və ittifaqları",
-        "• menecment",
-        "• struktur",
-        "• idarə"
+        " menecment",
+        " struktur",
+        " idarə"
       ],
       "answer": "sahibkarların birlik və ittifaqları"
     },
     {
       "question": "149. Bazarın infrastruktur elementlərinə daxildir:",
       "options": [
-        "• ticarət köşkü, dükan, mağaza, bravo",
+        " ticarət köşkü, dükan, mağaza, bravo",
         "birjalar, audit, reklam, sığorta, lizinq",
-        "• su xətti, kanalizasiya, yol, anbar təsərrüfatı",
-        "• yol, anbar, nəqliyyat, enerji",
-        "• alqı-satqı, ticarət mərkəzi, market, satış məntəqəsi"
+        " su xətti, kanalizasiya, yol, anbar təsərrüfatı",
+        " yol, anbar, nəqliyyat, enerji",
+        " alqı-satqı, ticarət mərkəzi, market, satış məntəqəsi"
       ],
       "answer": "birjalar, audit, reklam, sığorta, lizinq"
     },
     {
       "question": "150. Xidmət sferasında sahibkarlığın əsas təşkilati-hüquqi formasına hansı aiddir?",
       "options": [
-        "• ictimai istehsal",
-        "• reklam təşkilatı",
+        " ictimai istehsal",
+        " reklam təşkilatı",
         "agentik və şirkət",
-        "• idarəetmə aparatı",
-        "• informasiya məlumatı"
+        " idarəetmə aparatı",
+        " informasiya məlumatı"
       ],
       "answer": "agentik və şirkət"
     },
     {
       "question": "151. Qeyri-istehsal təyinatlı xidmət növünə hansı aiddir?",
       "options": [
-        "• servis xidmətləri",
-        "• sığorta işinin təşkili",
+        " servis xidmətləri",
+        " sığorta işinin təşkili",
         "əhaliyə yönəlmiş xidmət, servis",
-        "• marketinqin idarə edilməsi",
-        "• ictimai nəqliyyin təmiri"
+        " marketinqin idarə edilməsi",
+        " ictimai nəqliyyin təmiri"
       ],
       "answer": "əhaliyə yönəlmiş xidmət, servis"
     },
     {
       "question": "152. Sahibkarlıq fəaliyyətinin istehsal sferasından kənarda fəaliyyət göstərən növü hansıdır?",
       "options": [
-        "• tədavül",
+        " tədavül",
         "kommersiya",
-        "• marketinq",
-        "• əmtəə",
-        "• tədarük"
+        " marketinq",
+        " əmtəə",
+        " tədarük"
       ],
       "answer": "kommersiya"
     },
     {
       "question": "153. İstehsal sahibkarlığı qarşısında duran tələblərə hansı aiddir?",
       "options": [
-        "• tələb və təklif",
-        "• müəssisənin strukturunun müəyyənləşdirilməsi",
+        " tələb və təklif",
+        " müəssisənin strukturunun müəyyənləşdirilməsi",
         "istehsal amillərinin əldə edilməsi",
-        "• idarə heyətinin seçilməsi",
-        "• müəssisənin yerinin müəyyənləşdirilməsi"
+        " idarə heyətinin seçilməsi",
+        " müəssisənin yerinin müəyyənləşdirilməsi"
       ],
       "answer": "istehsal amillərinin əldə edilməsi"
     },
     {
       "question": "154. Bazar iqtisadiyyatı şəraitində sahibkarlığın təşkilati-hüquqi formasını nə təşkil edir?",
       "options": [
-        "• birja",
+        " birja",
         "xüsusi və şərikli mülkiyyət üzərində fəaliyyət göstərən müəssisələr",
-        "• market",
-        "• təşkilat",
-        "• bazar"
+        " market",
+        " təşkilat",
+        " bazar"
       ],
       "answer": "xüsusi və şərikli mülkiyyət üzərində fəaliyyət göstərən müəssisələr"
     },
     {
       "question": "155. İstehsal sahibkarlığı nədir?",
       "options": [
-        "• yarımfabrikatların istehsala cəlb edilməsi",
-        "• işlərin müəyyən edilməsi",
-        "• xammalın tədarük edilməsi",
-        "• məhsulların təkrar emalı",
+        " yarımfabrikatların istehsala cəlb edilməsi",
+        " işlərin müəyyən edilməsi",
+        " xammalın tədarük edilməsi",
+        " məhsulların təkrar emalı",
         "müxtəlif növ məhsulların istehsalı"
       ],
       "answer": "müxtəlif növ məhsulların istehsalı"
@@ -1707,33 +1707,33 @@
     {
       "question": "156. Sahibkarlıq fəaliyyətinin növlərinə hansı aiddir?",
       "options": [
-        "• istehsal, birja, ticarət, bank",
+        " istehsal, birja, ticarət, bank",
         "istehsal, kommersiya, maliyyə, konsultativ",
-        "• istehsal, tədarük, emal, satış",
-        "• bank, idarəetmə, ticarət, birja",
-        "• istehsal, menecment, idarəetmə, maliyyə"
+        " istehsal, tədarük, emal, satış",
+        " bank, idarəetmə, ticarət, birja",
+        " istehsal, menecment, idarəetmə, maliyyə"
       ],
       "answer": "istehsal, kommersiya, maliyyə, konsultativ"
     },
     {
       "question": "157. Danimarkada Antiinhisar qanunvericiliyi nə vaxt qəbul edilmişdir?",
       "options": [
-        "• 1950-ci il",
+        " 1950-ci il",
         "1937-ci il",
-        "• 1940-cı il",
-        "• 1955-ci il",
-        "• 1944-cü il"
+        " 1940-cı il",
+        " 1955-ci il",
+        " 1944-cü il"
       ],
       "answer": "1937-ci il"
     },
     {
       "question": "158. Bazar sistemi ölkələrində inhisarçılıq cəmiyyətə qarşı necə qiymətləndirilir?",
       "options": [
-        "• işsizlik",
-        "• bolluq",
-        "• azadlıq",
+        " işsizlik",
+        " bolluq",
+        " azadlıq",
         "cinayət",
-        "• yoxsulluq"
+        " yoxsulluq"
       ],
       "answer": "cinayət"
     },
@@ -1741,31 +1741,31 @@
       "question": "159.",
       "options": [
         "antiinhisar tənzimlənməsi üzrə tədbirlər neçə yerə bölünür:",
-        "• 4",
-        "• 6",
-        "• 5",
-        "• 2"
+        " 4",
+        " 6",
+        " 5",
+        " 2"
       ],
       "answer": null
     },
     {
       "question": "160. Inhisarçılığın yaranması və inkişafı bazar iqtisadi sistemində necə bir prosesdir?",
       "options": [
-        "• dağıdıcı bir prosesdir",
-        "• ədalətsiz bir prosesdir",
-        "• ədalətli bir prosesdir",
+        " dağıdıcı bir prosesdir",
+        " ədalətsiz bir prosesdir",
+        " ədalətli bir prosesdir",
         "qanunauyğun bir prosesdir",
-        "• tənzimləyici bir prosesdir"
+        " tənzimləyici bir prosesdir"
       ],
       "answer": "qanunauyğun bir prosesdir"
     },
     {
       "question": "161. Dövlətin atiinhisar tənzimləmə tədbirlərini kimlər həyata keçirir?",
       "options": [
-        "• sex rəisləri",
-        "• bələdiyyələr",
-        "• idarə heyəti",
-        "• direktorlar",
+        " sex rəisləri",
+        " bələdiyyələr",
+        " idarə heyəti",
+        " direktorlar",
         "dövlət orqanları"
       ],
       "answer": "dövlət orqanları"
@@ -1773,11 +1773,11 @@
     {
       "question": "162. Dövlətin müasir antiinhisar tənzimlənməsi tədbirlərinə aid deyil?",
       "options": [
-        "• düzgün cavab yoxdur",
-        "• inzibati-hüquqi tənzimləmə tədbirləri",
-        "• inzibati-iqtisadi tənzimləmə tədbirləri",
+        " düzgün cavab yoxdur",
+        " inzibati-hüquqi tənzimləmə tədbirləri",
+        " inzibati-iqtisadi tənzimləmə tədbirləri",
         "təhlükəsizliyin təmin edilməsi tədbirləri",
-        "• iqtisadi tənzimləmə tədbirləri"
+        " iqtisadi tənzimləmə tədbirləri"
       ],
       "answer": "təhlükəsizliyin təmin edilməsi tədbirləri"
     },
@@ -1785,10 +1785,10 @@
       "question": "163. Antiinhisar haqqında qanun hansı problemlərin həllinə yönəldilib?",
       "options": [
         "azad bazarın və haqsız rəqabətin təmin edilməsi",
-        "• sənədləşmədəki problemlərin aradan qaldırılması",
+        " sənədləşmədəki problemlərin aradan qaldırılması",
         "kərğuzarlıq işinin düzgün təşkili",
-        "•",
-        "• işsizliyin artmasının qarşısının alınması"
+        "",
+        " işsizliyin artmasının qarşısının alınması"
       ],
       "answer": "azad bazarın və haqsız rəqabətin təmin edilməsi"
     },
@@ -1796,229 +1796,229 @@
       "question": "164. Sosializm sistemi dağıldıqdan sonra inhisarçılıq əleyhinə qanunlar hansı ölkələrdə qəbul edilmişdir?",
       "options": [
         "Polşa, Macarıstan, Çin, Rusiya, Azərbaycan",
-        "• Livan, İsrail, Mongolustan, Ermənistan, Gürcüstan",
-        "• Braziliya, Argentina, Uruqvay, Meksika, Kanada",
-        "• Albaniya, Əlcəzair, Liviya, Koreya, Vyetnam",
-        "• Yaponiya, İngiltərə, Türkiyə, Yunanıstan, Kipr"
+        " Livan, İsrail, Mongolustan, Ermənistan, Gürcüstan",
+        " Braziliya, Argentina, Uruqvay, Meksika, Kanada",
+        " Albaniya, Əlcəzair, Liviya, Koreya, Vyetnam",
+        " Yaponiya, İngiltərə, Türkiyə, Yunanıstan, Kipr"
       ],
       "answer": "Polşa, Macarıstan, Çin, Rusiya, Azərbaycan"
     },
     {
       "question": "165. Belçika və Hollandiyada Antiinhisar qanunvericiliyi nə vaxt qəbul edilmişdir?",
       "options": [
-        "• 1933-cü il",
-        "• 1945ci il",
-        "• 1940-cı il",
+        " 1933-cü il",
+        " 1945ci il",
+        " 1940-cı il",
         "1935-ci il",
-        "• 1934-cü il"
+        " 1934-cü il"
       ],
       "answer": "1935-ci il"
     },
     {
       "question": "166. ABŞ-da 1950-ci ildə qəbul edilmiş Seller-Kefover qanununda nələrə baxılmışdır?",
       "options": [
-        "• yeni qanunun qəbul edilməsi fikri irəli sürülmüşdür",
-        "• müqavilələrin şərtlərinin sərtləşdirilməsi müzakirə edilmişdir",
+        " yeni qanunun qəbul edilməsi fikri irəli sürülmüşdür",
+        " müqavilələrin şərtlərinin sərtləşdirilməsi müzakirə edilmişdir",
         "Keyton qanununa yeni əlavələr edilmişdir",
-        "• əvvəlki qanunların ləğvi müzakirə edilmişdir",
-        "• antiinhisarçılığa qarşı yeni tədbirlər müəyyənləşdirilmişdir"
+        " əvvəlki qanunların ləğvi müzakirə edilmişdir",
+        " antiinhisarçılığa qarşı yeni tədbirlər müəyyənləşdirilmişdir"
       ],
       "answer": "Keyton qanununa yeni əlavələr edilmişdir"
     },
     {
       "question": "167. Kleyton qanunu nə vaxt qüvvəyə minmişdir?",
       "options": [
-        "• 1900",
+        " 1900",
         "1914",
-        "• 1908",
-        "• 1920",
-        "• 1902"
+        " 1908",
+        " 1920",
+        " 1902"
       ],
       "answer": "1914"
     },
     {
       "question": "168. Şerman qanununun tələbi nədən ibarət idi?",
       "options": [
-        "• şərtləri pozan müəssisələri cəzalandırmaq",
+        " şərtləri pozan müəssisələri cəzalandırmaq",
         "inhisarlaşdırmaq məqsədi ilə yaradılan ittifaq və ya bağlanmış müqavilə qanunsuz hesab edilir",
-        "• qanuna zidd fəaliyyətlərin qarşısını almaq",
-        "• təşkilatların fəaliyyətini məhdudlaşdırmaq",
-        "• zidd hərəkət edən müəssisələrin fəaliyyətinə xitam vermək"
+        " qanuna zidd fəaliyyətlərin qarşısını almaq",
+        " təşkilatların fəaliyyətini məhdudlaşdırmaq",
+        " zidd hərəkət edən müəssisələrin fəaliyyətinə xitam vermək"
       ],
       "answer": "inhisarlaşdırmaq məqsədi ilə yaradılan ittifaq və ya bağlanmış müqavilə qanunsuz hesab edilir"
     },
     {
       "question": "169. İnhisarçılığa qarşı ABŞ-da qəbul olunmuş qanun necə adlanır?",
       "options": [
-        "• Teylor qanunu",
+        " Teylor qanunu",
         "Şerman qanunu",
-        "• Pomeran qanunu",
-        "• Keyns nəzəriyyəsi",
-        "• X, Y nəzəriyyəsi"
+        " Pomeran qanunu",
+        " Keyns nəzəriyyəsi",
+        " X, Y nəzəriyyəsi"
       ],
       "answer": "Şerman qanunu"
     },
     {
       "question": "170. İnhisarçılığa qarşı yönəldilmiş ilk qanun harada qəbul edilmişdir?",
       "options": [
-        "• Koreya",
+        " Koreya",
         "ABŞ",
-        "• Rusiya",
-        "• Türkiyə",
-        "• Hindistan"
+        " Rusiya",
+        " Türkiyə",
+        " Hindistan"
       ],
       "answer": "ABŞ"
     },
     {
       "question": "171. İnhisarçılığa qarşı yönəldilmiş qanun necə adlanır?",
       "options": [
-        "• əmək qanunu",
+        " əmək qanunu",
         "antiinhisar qanunu",
-        "• əmək məcəlləsi",
-        "• konstitusiya qüququ",
-        "• mülki qanun"
+        " əmək məcəlləsi",
+        " konstitusiya qüququ",
+        " mülki qanun"
       ],
       "answer": "antiinhisar qanunu"
     },
     {
       "question": "172. İnhisarçılığa qarşı həyata keçirilən fəaliyyət necə adlanır?",
       "options": [
-        "• təmərküzləşmə",
+        " təmərküzləşmə",
         "antiinhisar",
-        "• ixtisaslaşma",
-        "• mübadilə",
-        "• kooperasiya"
+        " ixtisaslaşma",
+        " mübadilə",
+        " kooperasiya"
       ],
       "answer": "antiinhisar"
     },
     {
       "question": "173. Dövlət mülkiyyətinin iqtisadiyyatda hökmranlığı hansı cəmiyyətə xasdır?",
       "options": [
-        "• quldarlıq",
-        "• kapitalizm",
+        " quldarlıq",
+        " kapitalizm",
         "sosializm",
-        "• ibtidai icma",
-        "• feodalizm"
+        " ibtidai icma",
+        " feodalizm"
       ],
       "answer": "sosializm"
     },
     {
       "question": "174. Dövlət inhisarçılığı hansı sahələri əhatə edir?",
       "options": [
-        "• özəl sektoru",
+        " özəl sektoru",
         "iqtisadiyyatın bütün sahələrini",
-        "• bank sektorunu",
-        "• kənd təsərrüfatını",
-        "• aqrar sahəni"
+        " bank sektorunu",
+        " kənd təsərrüfatını",
+        " aqrar sahəni"
       ],
       "answer": "iqtisadiyyatın bütün sahələrini"
     },
     {
       "question": "175. İnhisarçılıq özünü qabarıq olaraq daha çox harada büruzə verir?",
       "options": [
-        "• şirkətdə",
+        " şirkətdə",
         "bazarda",
-        "• ictimai yerdə",
-        "• sahədə",
-        "• müəssisədə"
+        " ictimai yerdə",
+        " sahədə",
+        " müəssisədə"
       ],
       "answer": "bazarda"
     },
     {
       "question": "176. İqtisadi təcrübədə inhisarların potensial və real müsbət imkanları qeyd edilir, onlara hansı aiddir?",
       "options": [
-        "• ardıcıl uğurlar haqqında düşünmək",
+        " ardıcıl uğurlar haqqında düşünmək",
         "yeni məhsulların, texnologiyanın yaradılmasına maraq",
-        "• bazar payını artırmağa meyllilik",
-        "• bazara cəld daxil olmaq",
-        "• digərlərini bazardan sıxışdırıb çıxarmaq"
+        " bazar payını artırmağa meyllilik",
+        " bazara cəld daxil olmaq",
+        " digərlərini bazardan sıxışdırıb çıxarmaq"
       ],
       "answer": "yeni məhsulların, texnologiyanın yaradılmasına maraq"
     },
     {
       "question": "177. İnhisarçılıq nəyin daha çox əldə edilməsinə kömək edir?",
       "options": [
-        "• bazarın",
+        " bazarın",
         "mənfəətin",
-        "• verginin",
-        "• sığortanın",
-        "• artımın"
+        " verginin",
+        " sığortanın",
+        " artımın"
       ],
       "answer": "mənfəətin"
     },
     {
       "question": "178. Rəqabətli bazar quruluşu fəaliyyət göstərən təsərrüfat subyektlərinin nəyini müəyyən edir?",
       "options": [
-        "• az həcmdə məhsul istehsalını, aşağı əmək məhsuldarlığını",
+        " az həcmdə məhsul istehsalını, aşağı əmək məhsuldarlığını",
         "davranışını, məhsulların qiymətini, mənfəətini, səmərəlilik dərəcələrini",
-        "• marketinq fəaliyyətinin səviyyəsini, ictimaiyyətlə əlaqəni",
-        "• əmək haqqını, vergini, istehsalın həcmini",
-        "• idxalın həcmini, ixracın həcmini, bazar payını"
+        " marketinq fəaliyyətinin səviyyəsini, ictimaiyyətlə əlaqəni",
+        " əmək haqqını, vergini, istehsalın həcmini",
+        " idxalın həcmini, ixracın həcmini, bazar payını"
       ],
       "answer": "davranışını, məhsulların qiymətini, mənfəətini, səmərəlilik dərəcələrini"
     },
     {
       "question": "179. İqtisadiyyatın inhisarlaşması səviyyəsinin aşağı olması nəyə təsir edir?",
       "options": [
-        "• birbaşa müəssisənin inkişafına",
+        " birbaşa müəssisənin inkişafına",
         "rəqabət mühitinin səmərəsinə",
-        "• ictimai istehsalın artımına",
-        "• zərərin çoxalmasına",
-        "• əmək məhsuldarlığına"
+        " ictimai istehsalın artımına",
+        " zərərin çoxalmasına",
+        " əmək məhsuldarlığına"
       ],
       "answer": "rəqabət mühitinin səmərəsinə"
     },
     {
       "question": "180. İnhisarçılığın yaranması və inkişafı bazar iqtisadi sistemində necə bir prosesdir?",
       "options": [
-        "• dağıdıcı",
+        " dağıdıcı",
         "qanunauyğun",
-        "• tənzimləyici",
-        "• ötürücü",
-        "• təsiredici"
+        " tənzimləyici",
+        " ötürücü",
+        " təsiredici"
       ],
       "answer": "qanunauyğun"
     },
     {
       "question": "181. “Vençur kapitalı” anlayışı ilk dəfə nə vaxt meydana gəlmişdir?",
       "options": [
-        "• XX əsrin 80-ci illərində",
+        " XX əsrin 80-ci illərində",
         "XX əsrin 40-cı illərində",
-        "• XX əsrin 50-ci illərində",
-        "• XXI əsrin əvvəllərində",
-        "• XXI əsrin 20-ci illərində"
+        " XX əsrin 50-ci illərində",
+        " XXI əsrin əvvəllərində",
+        " XXI əsrin 20-ci illərində"
       ],
       "answer": "XX əsrin 40-cı illərində"
     },
     {
       "question": "182. İnnovasiya sözü mənşəcə hansı dildən götürülmüşdür",
       "options": [
-        "• rus",
-        "• ərəb",
-        "• Alman",
+        " rus",
+        " ərəb",
+        " Alman",
         "ingilis",
-        "• türk"
+        " türk"
       ],
       "answer": "ingilis"
     },
     {
       "question": "183. Daxili vençurlar nə zaman geniş yayılmağa başlamışdır:",
       "options": [
-        "• XIX əsrin əvvəllərində",
+        " XIX əsrin əvvəllərində",
         "XX əsrin 70-80-ci illərində",
-        "• XX əsrin 30-cu illərində",
-        "• XX əsrin 50-ci illərində",
-        "• XIX əsrin sonlarında"
+        " XX əsrin 30-cu illərində",
+        " XX əsrin 50-ci illərində",
+        " XIX əsrin sonlarında"
       ],
       "answer": "XX əsrin 70-80-ci illərində"
     },
     {
       "question": "184. Şumpeterə görə innovasiya prosesi dəyişikliklərinə aid olmayanı seçin:",
       "options": [
-        "• yei xammalın istifadəsi ilə bağlı yeniliklər",
-        "• istehsalin təşkilində və onun maddi - texniki təchizat üsullarmda dəyişikliklər",
-        "• yeni texnka, yeni texnologiya və istehsalin yeni bazarlarla təmin edilməsi nəticəsində baş verən dəyişiklik;",
-        "• yeni xüsusiyyələrə malik məhsulun tədbiqi ilə bağli dəyişikliklər;",
+        " yei xammalın istifadəsi ilə bağlı yeniliklər",
+        " istehsalin təşkilində və onun maddi - texniki təchizat üsullarmda dəyişikliklər",
+        " yeni texnka, yeni texnologiya və istehsalin yeni bazarlarla təmin edilməsi nəticəsində baş verən dəyişiklik;",
+        " yeni xüsusiyyələrə malik məhsulun tədbiqi ilə bağli dəyişikliklər;",
         "Bütün variantlar doğrudur"
       ],
       "answer": "Bütün variantlar doğrudur"
@@ -2026,54 +2026,54 @@
     {
       "question": "185. Vençur kapitalı nə zaman maliyyə kapitalının müsəqil funksional formalarından birinə çevrilmişdir:",
       "options": [
-        "• XIX əsrin sonlarında",
-        "• XIX əsrin əvvəllərində",
-        "• XX əsrin 50-ci illərində",
+        " XIX əsrin sonlarında",
+        " XIX əsrin əvvəllərində",
+        " XX əsrin 50-ci illərində",
         "XX əsrin 60-70-ci illərində",
-        "• XX əsrin 90-cı illərində"
+        " XX əsrin 90-cı illərində"
       ],
       "answer": "XX əsrin 60-70-ci illərində"
     },
     {
       "question": "186. İnhisarçılığa qarşı yönəldilmiş qanunlara aid deyil:",
       "options": [
-        "• Şerman",
-        "• Uebb-Pomeran",
-        "• Seller-Kefover",
+        " Şerman",
+        " Uebb-Pomeran",
+        " Seller-Kefover",
         "Uebb-Kefover",
-        "• Kleyton"
+        " Kleyton"
       ],
       "answer": "Uebb-Kefover"
     },
     {
       "question": "187. Yaponiyada innovasiya sahibkarlığının əsas xüsusiyyətlərinə aşağıdakılardan hansı aiddir?",
       "options": [
-        "• idxalın gücləndirilməsi yolu ilə həyat səviyyəsini yaxşılaşdırmaq",
-        "• xarici bazarlara çıxışı təmin etmək",
-        "• ölkə iqtisadiyyatına, kapital qoyuluşuna nəzarət",
+        " idxalın gücləndirilməsi yolu ilə həyat səviyyəsini yaxşılaşdırmaq",
+        " xarici bazarlara çıxışı təmin etmək",
+        " ölkə iqtisadiyyatına, kapital qoyuluşuna nəzarət",
         "xarici kəşflərdən, ideyalardan, layihələrdən geniş istifadə",
-        "• ixracı artırmaqla maliyyə vəziyyətini sabitləşdirmək"
+        " ixracı artırmaqla maliyyə vəziyyətini sabitləşdirmək"
       ],
       "answer": "xarici kəşflərdən, ideyalardan, layihələrdən geniş istifadə"
     },
     {
       "question": "188. “Vençur” sözü mənşəcə hansı dildən götürülmüşdür?",
       "options": [
-        "• türk",
-        "• rus",
+        " türk",
+        " rus",
         "ingilis",
-        "• italyan",
-        "• alman"
+        " italyan",
+        " alman"
       ],
       "answer": "ingilis"
     },
     {
       "question": "189. “Vençur” sözünün mənası nədir?",
       "options": [
-        "• qarışıq müəssisə",
-        "• gəlirli müəssisə",
-        "• birgə müəssisə",
-        "• iri müəssisə",
+        " qarışıq müəssisə",
+        " gəlirli müəssisə",
+        " birgə müəssisə",
+        " iri müəssisə",
         "riskli müəssisə"
       ],
       "answer": "riskli müəssisə"
@@ -2081,10 +2081,10 @@
     {
       "question": "190. İdeyanın təhlükəsizliyinə hansı aid deyil?",
       "options": [
-        "• etibarlılığı",
-        "• düzgünlüyü",
-        "• ətraf mühitə təsiri",
-        "• tətbiqinin sosial nəticələri",
+        " etibarlılığı",
+        " düzgünlüyü",
+        " ətraf mühitə təsiri",
+        " tətbiqinin sosial nəticələri",
         "tətbiq olunmaması"
       ],
       "answer": "tətbiq olunmaması"
@@ -2092,22 +2092,22 @@
     {
       "question": "191. Praktikada hər yeni 10 ideyadan neçəsi istehsalın və satışın son mərhələsinə qədər gəlib çatır?",
       "options": [
-        "• səkkizi",
+        " səkkizi",
         "ikisi",
-        "• altısı",
-        "• dördü",
-        "• onu"
+        " altısı",
+        " dördü",
+        " onu"
       ],
       "answer": "ikisi"
     },
     {
       "question": "192. İnnovasiya aktivliyinin mərkəzi fiqurunu kim təşkil edir?",
       "options": [
-        "• usta",
-        "• qaynaqçı",
+        " usta",
+        " qaynaqçı",
         "ixtiraçı",
-        "• çilingər",
-        "• təmirçi"
+        " çilingər",
+        " təmirçi"
       ],
       "answer": "ixtiraçı"
     },
@@ -2115,31 +2115,31 @@
       "question": "193. İnnovasiya fəaliyyətinə hansı daxil deyil?",
       "options": [
         "qeyri-müəyyənlik",
-        "• səmərələşdiricilik",
-        "• ixtiraçılıq",
-        "• yeni ideyalar",
-        "• yeni tədqiqatlar"
+        " səmərələşdiricilik",
+        " ixtiraçılıq",
+        " yeni ideyalar",
+        " yeni tədqiqatlar"
       ],
       "answer": "qeyri-müəyyənlik"
     },
     {
       "question": "194. İnnovasiya sahibkarlığının fərqli xüsusiyyətinə aid deyil:",
       "options": [
-        "• innovasiya prosesinin üstün cəhətləri",
-        "• innovasiya prosesinin tsiklik və ehtimal xarakteri",
-        "• yüksək risk dərəcəsi",
+        " innovasiya prosesinin üstün cəhətləri",
+        " innovasiya prosesinin tsiklik və ehtimal xarakteri",
+        " yüksək risk dərəcəsi",
         "əmtəələrin istehsalına çəkilən xərclər",
-        "• funksional quruluşunun qeyri-adi çevikliyi"
+        " funksional quruluşunun qeyri-adi çevikliyi"
       ],
       "answer": "əmtəələrin istehsalına çəkilən xərclər"
     },
     {
       "question": "195. Sahibkarlığın innovasiya fəaliyyətinin məqsədi nədir?",
       "options": [
-        "• yüksək nəticə əldə etmək",
-        "• fond tutumunu artırmaq",
-        "• məhsuldarlığı artırmaq",
-        "• işçilərin sayını azaltmaq",
+        " yüksək nəticə əldə etmək",
+        " fond tutumunu artırmaq",
+        " məhsuldarlığı artırmaq",
+        " işçilərin sayını azaltmaq",
         "mənfəət əldə etmək"
       ],
       "answer": "mənfəət əldə etmək"
@@ -2147,10 +2147,10 @@
     {
       "question": "196. “İnnovasiya” anlayışını ilk dəfə iqtisadi kateqoriyalar sisteminə kim gətirmişdir?",
       "options": [
-        "• K.Marks",
-        "• V.Lenin",
-        "• P.Samuelson",
-        "• F.Engels",
+        " K.Marks",
+        " V.Lenin",
+        " P.Samuelson",
+        " F.Engels",
         "Y.Şumpeter"
       ],
       "answer": "Y.Şumpeter"
@@ -2158,44 +2158,44 @@
     {
       "question": "197. “İnnovasiya” sözü mənşəcə hansı dildən götürülüb?",
       "options": [
-        "• fars",
-        "• rus",
-        "• ərəb",
+        " fars",
+        " rus",
+        " ərəb",
         "ingilis",
-        "• latın"
+        " latın"
       ],
       "answer": "ingilis"
     },
     {
       "question": "198. İnnovasiya sahibkarlığının formalaşması nələrə səbəb oldu?",
       "options": [
-        "• köhnə avadanlıqların aradan qaldırılmasına",
-        "• rentabelliyin aşağı düşməsinə",
-        "• fondverimi göstəricilərinin pisləşdirilməsinə",
+        " köhnə avadanlıqların aradan qaldırılmasına",
+        " rentabelliyin aşağı düşməsinə",
+        " fondverimi göstəricilərinin pisləşdirilməsinə",
         "elm və texnikadan geniş istifadəyə",
-        "• fondtutumu göstəricilərinin yaxşılaşdırılmasına"
+        " fondtutumu göstəricilərinin yaxşılaşdırılmasına"
       ],
       "answer": "elm və texnikadan geniş istifadəyə"
     },
     {
       "question": "199. İnnovasiya sahibkarlığının vüsət aldığı dövr?",
       "options": [
-        "• XXI əsrin 22-ci illəri",
+        " XXI əsrin 22-ci illəri",
         "XX əsrin 70-ci illəri",
-        "• XIX əsrin 90-cı illəri",
-        "• XIX əsrin 70-ci illəri",
-        "• XXI əsrin 20-ci illəri"
+        " XIX əsrin 90-cı illəri",
+        " XIX əsrin 70-ci illəri",
+        " XXI əsrin 20-ci illəri"
       ],
       "answer": "XX əsrin 70-ci illəri"
     },
     {
       "question": "200. Sahibkarlıq fəaliyyətinin xarakteri və istiqaməti nələrlə xarakterizə olunurdu?",
       "options": [
-        "• sahibkarlar ordusunun yaranması, varlı təbəqənin formalaşması",
-        "• yeni-yeni sahələrin formalaşması, işsizliyin aradan qaldırılması",
+        " sahibkarlar ordusunun yaranması, varlı təbəqənin formalaşması",
+        " yeni-yeni sahələrin formalaşması, işsizliyin aradan qaldırılması",
         "iqtisadi resursların həcmi, çeşidi və onlardan maksimum istifadə",
-        "• rəqabət şəraitinin yaranması, haqsız rəqabətin artması",
-        "• işsizliyik artması, iqtisadi gərginliyin pisləşməsi"
+        " rəqabət şəraitinin yaranması, haqsız rəqabətin artması",
+        " işsizliyik artması, iqtisadi gərginliyin pisləşməsi"
       ],
       "answer": "iqtisadi resursların həcmi, çeşidi və onlardan maksimum istifadə"
     }
