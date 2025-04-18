@@ -1,3 +1,4 @@
+// Quiz.js
 import React, { useEffect, useState } from "react";
 import questionsData from "../data/questions.json";
 import "../style/quiz.css";
@@ -13,7 +14,7 @@ const Quiz = () => {
   const [minIndex, setMinIndex] = useState(0);
   const [maxIndex, setMaxIndex] = useState(200);
   const [started, setStarted] = useState(false);
-  const [revealed, setRevealed] = useState({});
+  const [showOnlyWrong, setShowOnlyWrong] = useState(false);
 
   useEffect(() => {
     if (!started) return;
@@ -44,13 +45,6 @@ const Quiz = () => {
     setSubmitted(true);
   };
 
-  const toggleReveal = (index) => {
-    setRevealed((prev) => ({
-      ...prev,
-      [index]: !prev[index],
-    }));
-  };
-
   const formatTime = (seconds) => {
     const min = String(Math.floor(seconds / 60)).padStart(2, "0");
     const sec = String(seconds % 60).padStart(2, "0");
@@ -69,6 +63,10 @@ const Quiz = () => {
 
   const currentQuestion = questions[current];
   const stats = getStats();
+
+  const wrongAnswers = questions
+    .map((q, i) => ({ ...q, index: i }))
+    .filter((q) => answers[q.index] && answers[q.index] !== q.answer);
 
   if (!started) {
     return (
@@ -112,6 +110,16 @@ const Quiz = () => {
           <p>❌ Səhv: {stats.wrong}</p>
           <p>⚠️ Boş: {stats.empty}</p>
           <p>🎯 Bal: {stats.correct} / {questions.length}</p>
+
+          {stats.wrong > 0 && (
+            <button
+              className="wrong-toggle-button"
+              onClick={() => setShowOnlyWrong(!showOnlyWrong)}
+            >
+              {showOnlyWrong ? "🔙 Hamısına bax" : "❌ Səhvlərə bax"}
+
+            </button>
+          )}
         </div>
       )}
 
@@ -125,8 +133,14 @@ const Quiz = () => {
             <ul className="options">
               {questions[current].options.map((opt, idx) => {
                 const isSelected = answers[current] === opt;
+                const isCorrect = questions[current].answer === opt;
                 let className = "option";
-                if (isSelected) className += " selected";
+                if (submitted) {
+                  if (isCorrect) className += " correct";
+                  else if (isSelected) className += " wrong";
+                } else if (isSelected) {
+                  className += " selected";
+                }
                 return (
                   <li
                     key={idx}
@@ -147,14 +161,6 @@ const Quiz = () => {
             >
               Əvvəlki
             </button>
-
-            <button
-              className="reveal-button"
-              onClick={() => toggleReveal(current)}
-            >
-              {revealed[current] ? "Gizlət" : "✅ Doğru Cavabı Göstər"}
-            </button>
-
             <button
               onClick={() => setCurrent(current + 1)}
               disabled={current === questions.length - 1}
@@ -162,12 +168,6 @@ const Quiz = () => {
               Növbəti
             </button>
           </div>
-
-          {revealed[current] && (
-            <div className="correct-answer-box">
-              ✅ Doğru cavab: <strong>{questions[current].answer}</strong>
-            </div>
-          )}
 
           <div className="submit-section">
             <button onClick={handleSubmit}>Təsdiqlə (Submit)</button>
@@ -177,17 +177,18 @@ const Quiz = () => {
 
       {submitted && (
         <div className="all-answers">
-          {[...questions].map((q, i) => {
-            const userAnswer = answers[i];
+          {(showOnlyWrong ? wrongAnswers : questions.map((q, i) => ({ ...q, index: i }))).map((q, i) => {
+            const userAnswer = answers[q.index];
             return (
-              <div className="answer-block" key={i}>
-                <p className="question-text">{i + 1}. {q.question.replace(/^\d+\.\s*/, "")}</p>
+              <div className="answer-block" key={q.index}>
+                <p className="question-text">{q.index + 1}. {q.question.replace(/^\d+\.\s*/, "")}</p>
                 <ul className="options">
                   {q.options.map((opt, idx) => {
                     const isCorrect = q.answer === opt;
                     const isSelected = userAnswer === opt;
                     let className = "option";
                     if (isCorrect) className += " correct";
+                    if (isSelected && !isCorrect) className += " wrong";
                     return (
                       <li key={idx} className={className}>
                         {opt}
