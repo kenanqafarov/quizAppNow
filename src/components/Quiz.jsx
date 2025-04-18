@@ -9,15 +9,22 @@ const Quiz = () => {
   const [current, setCurrent] = useState(0);
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
-  const [timeLeft, setTimeLeft] = useState(1800); // 30 dəq
+  const [timeLeft, setTimeLeft] = useState(1800);
+  const [minIndex, setMinIndex] = useState(0);
+  const [maxIndex, setMaxIndex] = useState(200);
+  const [started, setStarted] = useState(false);
+  const [revealed, setRevealed] = useState({});
 
   useEffect(() => {
-    const selected = shuffleArray(questionsData).slice(0, 30);
+    if (!started) return;
+    const selected = shuffleArray(
+      questionsData.slice(minIndex, maxIndex + 1)
+    ).slice(0, 30);
     setQuestions(selected);
-  }, []);
+  }, [started, minIndex, maxIndex]);
 
   useEffect(() => {
-    if (submitted) return;
+    if (submitted || !started) return;
     if (timeLeft === 0) {
       setSubmitted(true);
       return;
@@ -26,7 +33,7 @@ const Quiz = () => {
       setTimeLeft((prev) => prev - 1);
     }, 1000);
     return () => clearInterval(timer);
-  }, [timeLeft, submitted]);
+  }, [timeLeft, submitted, started]);
 
   const handleAnswer = (option) => {
     if (submitted) return;
@@ -35,6 +42,13 @@ const Quiz = () => {
 
   const handleSubmit = () => {
     setSubmitted(true);
+  };
+
+  const toggleReveal = (index) => {
+    setRevealed((prev) => ({
+      ...prev,
+      [index]: !prev[index],
+    }));
   };
 
   const formatTime = (seconds) => {
@@ -56,6 +70,37 @@ const Quiz = () => {
   const currentQuestion = questions[current];
   const stats = getStats();
 
+  if (!started) {
+    return (
+      <div className="start-screen">
+        <h2>Aralığı daxil edin (0 - 200)</h2>
+        <div className="range-inputs">
+          <input
+            type="number"
+            placeholder="Min"
+            value={minIndex}
+            min={0}
+            max={199}
+            onChange={(e) => setMinIndex(parseInt(e.target.value) || 0)}
+            className="range-input"
+          />
+          <input
+            type="number"
+            placeholder="Max"
+            value={maxIndex}
+            min={1}
+            max={200}
+            onChange={(e) => setMaxIndex(parseInt(e.target.value) || 200)}
+            className="range-input"
+          />
+        </div>
+        <button onClick={() => setStarted(true)} className="start-button">
+          Başla
+        </button>
+      </div>
+    );
+  }
+
   return (
     <div className="quiz-container">
       <div className="timer">⏳ {formatTime(timeLeft)}</div>
@@ -66,26 +111,22 @@ const Quiz = () => {
           <p>✅ Düzgün: {stats.correct}</p>
           <p>❌ Səhv: {stats.wrong}</p>
           <p>⚠️ Boş: {stats.empty}</p>
+          <p>🎯 Bal: {stats.correct} / {questions.length}</p>
         </div>
       )}
 
       {!submitted && questions.length > 0 && (
         <>
           <div className="question-block">
-            <h2>Sual {current + 1} / 30</h2>
-            <p className="question-text">{currentQuestion.question}</p>
+            <h2>Sual {current + 1} / {questions.length}</h2>
+            <p className="question-text">
+              {questions[current].question.replace(/^\d+\.\s*/, "")}
+            </p>
             <ul className="options">
-              {currentQuestion.options.map((opt, idx) => {
+              {questions[current].options.map((opt, idx) => {
                 const isSelected = answers[current] === opt;
-                const isCorrect = currentQuestion.answer === opt;
                 let className = "option";
-                if (submitted) {
-                  if (isCorrect) className += " correct";
-                  else if (isSelected) className += " wrong";
-                } else if (isSelected) {
-                  className += " selected";
-                }
-
+                if (isSelected) className += " selected";
                 return (
                   <li
                     key={idx}
@@ -106,6 +147,14 @@ const Quiz = () => {
             >
               Əvvəlki
             </button>
+
+            <button
+              className="reveal-button"
+              onClick={() => toggleReveal(current)}
+            >
+              {revealed[current] ? "Gizlət" : "✅ Doğru Cavabı Göstər"}
+            </button>
+
             <button
               onClick={() => setCurrent(current + 1)}
               disabled={current === questions.length - 1}
@@ -114,28 +163,31 @@ const Quiz = () => {
             </button>
           </div>
 
+          {revealed[current] && (
+            <div className="correct-answer-box">
+              ✅ Doğru cavab: <strong>{questions[current].answer}</strong>
+            </div>
+          )}
+
           <div className="submit-section">
-            {!submitted && (
-              <button onClick={handleSubmit}>Təsdiqlə (Submit)</button>
-            )}
+            <button onClick={handleSubmit}>Təsdiqlə (Submit)</button>
           </div>
         </>
       )}
 
       {submitted && (
         <div className="all-answers">
-          {questions.map((q, i) => {
+          {[...questions].map((q, i) => {
             const userAnswer = answers[i];
             return (
               <div className="answer-block" key={i}>
-                <p className="question-text">{i + 1}. {q.question}</p>
+                <p className="question-text">{i + 1}. {q.question.replace(/^\d+\.\s*/, "")}</p>
                 <ul className="options">
                   {q.options.map((opt, idx) => {
                     const isCorrect = q.answer === opt;
                     const isSelected = userAnswer === opt;
                     let className = "option";
                     if (isCorrect) className += " correct";
-                    if (isSelected && !isCorrect) className += " wrong";
                     return (
                       <li key={idx} className={className}>
                         {opt}
@@ -145,7 +197,7 @@ const Quiz = () => {
                 </ul>
               </div>
             );
-          }).reverse()}
+          })}
         </div>
       )}
     </div>
