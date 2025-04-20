@@ -1,208 +1,231 @@
-// Quiz.js
-import React, { useEffect, useState } from "react";
+import React, { useState, useEffect } from "react";
+import { FaRegClock, FaCheckCircle, FaTimesCircle, FaRegCircle, FaChartPie } from "react-icons/fa";
 import questionsData from "../data/questions.json";
 import "../style/quiz.css";
 
-const shuffleArray = (array) => [...array].sort(() => Math.random() - 0.5);
-
-const Quiz = () => {
+function Quiz({ minIndex, maxIndex, customRange, showCorrectToggle }) {
   const [questions, setQuestions] = useState([]);
-  const [current, setCurrent] = useState(0);
-  const [answers, setAnswers] = useState({});
-  const [submitted, setSubmitted] = useState(false);
-  const [timeLeft, setTimeLeft] = useState(1800);
-  const [minIndex, setMinIndex] = useState(0);
-  const [maxIndex, setMaxIndex] = useState(200);
-  const [started, setStarted] = useState(false);
-  const [showOnlyWrong, setShowOnlyWrong] = useState(false);
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [selectedOptions, setSelectedOptions] = useState({});
+  const [showCorrect, setShowCorrect] = useState(false);
+  const [quizFinished, setQuizFinished] = useState(false);
+  const [filter, setFilter] = useState("all");
+  const [timeLeft, setTimeLeft] = useState(30 * 60);
+  const [timerStopped, setTimerStopped] = useState(false);
 
   useEffect(() => {
-    if (!started) return;
-    const selected = shuffleArray(
-      questionsData.slice(minIndex, maxIndex + 1)
-    ).slice(0, 30);
-    setQuestions(selected);
-  }, [started, minIndex, maxIndex]);
+    const questionIndices = customRange ?? Array.from({ length: maxIndex - minIndex }, (_, i) => i + minIndex);
+    const shuffledIndices = [...questionIndices].sort(() => Math.random() - 0.5);
+    const selectedQuestions = shuffledIndices.map((i) => {
+      const q = { ...questionsData[i] };
+      q.options = [...q.options].sort(() => Math.random() - 0.5);
+      return q;
+    });
+    setQuestions(selectedQuestions);
+  }, [minIndex, maxIndex, customRange]);
 
   useEffect(() => {
-    if (submitted || !started) return;
-    if (timeLeft === 0) {
-      setSubmitted(true);
-      return;
-    }
+    if (timerStopped) return;
+
     const timer = setInterval(() => {
-      setTimeLeft((prev) => prev - 1);
+      setTimeLeft((prev) => {
+        if (prev <= 1) {
+          clearInterval(timer);
+          setQuizFinished(true);
+          setTimerStopped(true);
+          return 0;
+        }
+        return prev - 1;
+      });
     }, 1000);
+
     return () => clearInterval(timer);
-  }, [timeLeft, submitted, started]);
-
-  const handleAnswer = (option) => {
-    if (submitted) return;
-    setAnswers({ ...answers, [current]: option });
-  };
-
-  const handleSubmit = () => {
-    setSubmitted(true);
-  };
+  }, [timerStopped]);
 
   const formatTime = (seconds) => {
-    const min = String(Math.floor(seconds / 60)).padStart(2, "0");
-    const sec = String(seconds % 60).padStart(2, "0");
-    return `${min}:${sec}`;
+    const min = Math.floor(seconds / 60);
+    const sec = seconds % 60;
+    return `${String(min).padStart(2, "0")}:${String(sec).padStart(2, "0")}`;
   };
 
-  const getStats = () => {
-    let correct = 0, wrong = 0, empty = 0;
-    questions.forEach((q, i) => {
-      if (!answers[i]) empty++;
-      else if (answers[i] === q.answer) correct++;
-      else wrong++;
+  if (questions.length === 0) return <p>Yüklənir...</p>;
+
+  const currentQuestion = questions[currentIndex];
+  if (!currentQuestion) return null;
+
+  const correctAnswer = currentQuestion.answer.trim();
+  const selectedAnswer = selectedOptions[currentIndex]?.trim();
+
+  const handleOptionClick = (optionText) => {
+    if (quizFinished) return;
+    setSelectedOptions((prev) => ({
+      ...prev,
+      [currentIndex]: optionText.trim(),
+    }));
+  };
+
+  const handlePrevNext = (direction) => {
+    setCurrentIndex((prev) => {
+      const nextIndex = prev + direction;
+      if (nextIndex < 0 || nextIndex >= questions.length) return prev;
+      setShowCorrect(false);
+      return nextIndex;
     });
-    return { correct, wrong, empty };
   };
 
-  const currentQuestion = questions[current];
-  const stats = getStats();
+  const handleFinishQuiz = () => {
+    setQuizFinished(true);
+    setTimerStopped(true);
+  };
 
-  const wrongAnswers = questions
-    .map((q, i) => ({ ...q, index: i }))
-    .filter((q) => answers[q.index] && answers[q.index] !== q.answer);
+  const calculateResults = () => {
+    let correctCount = 0;
+    let wrongCount = 0;
+    let emptyCount = 0;
 
-  if (!started) {
-    return (
-      <div className="start-screen">
-        <h2>Aralığı daxil edin (0 - 200)</h2>
-        <div className="range-inputs">
-          <input
-            type="number"
-            placeholder="Min"
-            value={minIndex}
-            min={0}
-            max={199}
-            onChange={(e) => setMinIndex(parseInt(e.target.value) || 0)}
-            className="range-input"
-          />
-          <input
-            type="number"
-            placeholder="Max"
-            value={maxIndex}
-            min={1}
-            max={200}
-            onChange={(e) => setMaxIndex(parseInt(e.target.value) || 200)}
-            className="range-input"
-          />
-        </div>
-        <button onClick={() => setStarted(true)} className="start-button">
-          Başla
-        </button>
-      </div>
-    );
-  }
+    for (let i = 0; i < questions.length; i++) {
+      const selected = selectedOptions[i];
+      if (selected === undefined) {
+        emptyCount++;
+      } else if (selected.trim() === questions[i].answer.trim()) {
+        correctCount++;
+      } else {
+        wrongCount++;
+      }
+    }
 
-  return (
-    <div className="quiz-container">
-      <div className="timer">⏳ {formatTime(timeLeft)}</div>
+    const total = questions.length;
+    const score =correctCount;
 
-      {submitted && (
-        <div className="results">
-          <h3>📊 Nəticələr</h3>
-          <p>✅ Düzgün: {stats.correct}</p>
-          <p>❌ Səhv: {stats.wrong}</p>
-          <p>⚠️ Boş: {stats.empty}</p>
-          <p>🎯 Bal: {stats.correct} / {questions.length}</p>
+    return { correctCount, wrongCount, emptyCount, score };
+  };
 
-          {stats.wrong > 0 && (
-            <button
-              className="wrong-toggle-button"
-              onClick={() => setShowOnlyWrong(!showOnlyWrong)}
-            >
-              {showOnlyWrong ? "🔙 Hamısına bax" : "❌ Səhvlərə bax"}
+  const { correctCount, wrongCount, emptyCount, score } = calculateResults();
 
-            </button>
-          )}
-        </div>
-      )}
+  const renderQuestions = () => {
+    let filteredQuestions = questions;
+    if (filter === "correct") {
+      filteredQuestions = questions.filter((q, i) => selectedOptions[i]?.trim() === q.answer.trim());
+    } else if (filter === "wrong") {
+      filteredQuestions = questions.filter((q, i) => selectedOptions[i]?.trim() !== q.answer.trim() && selectedOptions[i] !== undefined);
+    } else if (filter === "empty") {
+      filteredQuestions = questions.filter((_, i) => selectedOptions[i] === undefined);
+    }
 
-      {!submitted && questions.length > 0 && (
-        <>
-          <div className="question-block">
-            <h2>Sual {current + 1} / {questions.length}</h2>
-            <p className="question-text">
-              {questions[current].question.replace(/^\d+\.\s*/, "")}
-            </p>
-            <ul className="options">
-              {questions[current].options.map((opt, idx) => {
-                const isSelected = answers[current] === opt;
-                const isCorrect = questions[current].answer === opt;
-                let className = "option";
-                if (submitted) {
-                  if (isCorrect) className += " correct";
-                  else if (isSelected) className += " wrong";
-                } else if (isSelected) {
-                  className += " selected";
-                }
-                return (
-                  <li
-                    key={idx}
-                    className={className}
-                    onClick={() => handleAnswer(opt)}
-                  >
-                    {opt}
-                  </li>
-                );
-              })}
-            </ul>
-          </div>
+    return filteredQuestions.map((question, index) => {
+      const selected = selectedOptions[index]?.trim();
+      const correct = question.answer.trim();
 
-          <div className="nav-buttons">
-            <button
-              onClick={() => setCurrent(current - 1)}
-              disabled={current === 0}
-            >
-              Əvvəlki
-            </button>
-            <button
-              onClick={() => setCurrent(current + 1)}
-              disabled={current === questions.length - 1}
-            >
-              Növbəti
-            </button>
-          </div>
+      return (
+        <div key={index} className="options">
+          <p className="question-text">{index + 1}. {question.question}</p>
+          {question.options.map((opt, idx) => {
+            let className = "option-btn";
+            const trimmedOpt = opt.trim();
 
-          <div className="submit-section">
-            <button onClick={handleSubmit}>Təsdiqlə (Submit)</button>
-          </div>
-        </>
-      )}
+            if (quizFinished) {
+              if (trimmedOpt === correct) {
+                className += " correct-answer";
+              }
+              if (selected === trimmedOpt && trimmedOpt !== correct) {
+                className += " wrong-answer";
+              }
+            }
 
-      {submitted && (
-        <div className="all-answers">
-          {(showOnlyWrong ? wrongAnswers : questions.map((q, i) => ({ ...q, index: i }))).map((q, i) => {
-            const userAnswer = answers[q.index];
+            const isSelected = selected === trimmedOpt && !quizFinished;
+
             return (
-              <div className="answer-block" key={q.index}>
-                <p className="question-text">{q.index + 1}. {q.question.replace(/^\d+\.\s*/, "")}</p>
-                <ul className="options">
-                  {q.options.map((opt, idx) => {
-                    const isCorrect = q.answer === opt;
-                    const isSelected = userAnswer === opt;
-                    let className = "option";
-                    if (isCorrect) className += " correct";
-                    if (isSelected && !isCorrect) className += " wrong";
-                    return (
-                      <li key={idx} className={className}>
-                        {opt}
-                      </li>
-                    );
-                  })}
-                </ul>
-              </div>
+              <button
+                key={idx}
+                className={`${className} ${isSelected ? "selected" : ""}`}
+                onClick={() => handleOptionClick(opt)}
+              >
+                {opt}
+              </button>
             );
           })}
         </div>
+      );
+    });
+  };
+
+  return (
+    <div className="quiz-container">
+      <div className={`quiz-timer ${timeLeft < 900 ? "red" : ""}`}>
+        <span className="timer-icon"><FaRegClock /></span>
+        {formatTime(timeLeft)}
+      </div>
+
+      {!quizFinished ? (
+        <>
+          <div className="question-header">
+            <p>{currentIndex + 1}/{questions.length}</p>
+            <p className="question-text">{currentIndex + 1}. {currentQuestion.question}</p>
+          </div>
+
+          <div className="options">
+            {currentQuestion.options.map((opt, idx) => {
+              const trimmedOpt = opt.trim();
+              const isSelected = selectedAnswer === trimmedOpt;
+              const isCorrectAnswer = correctAnswer === trimmedOpt;
+              const showGreen = showCorrect && showCorrectToggle && isCorrectAnswer;
+
+              return (
+                <button
+                  key={idx}
+                  className={`option-btn ${isSelected ? "selected" : ""} ${showGreen ? "correct-answer" : ""}`}
+                  onClick={() => handleOptionClick(opt)}
+                >
+                  {opt}
+                </button>
+              );
+            })}
+          </div>
+
+          <div className="controls">
+            <button onClick={() => handlePrevNext(-1)} disabled={currentIndex === 0}>
+              Geri
+            </button>
+
+            {showCorrectToggle && (
+              <button className="correct-toggle" onClick={() => setShowCorrect((prev) => !prev)}>
+                {showCorrect ? "Düzgün cavabı gizlət" : "Düzgün cavabı göstər"}
+              </button>
+            )}
+
+            <button onClick={() => handlePrevNext(1)} disabled={currentIndex === questions.length - 1}>
+              İrəli
+            </button>
+          </div>
+        </>
+      ) : (
+        <div className="results">
+          <div className="results-header">
+            <p className="result-title">Nəticəniz</p>
+            <p><FaCheckCircle /> {correctCount} doğru</p>
+            <p><FaTimesCircle /> {wrongCount} yanlış</p>
+            <p><FaRegCircle /> {emptyCount} boş</p>
+            <p><FaChartPie /> Ballar: {score} / 30</p>
+          </div>
+
+          <div className="filter-buttons">
+            <button onClick={() => setFilter("all")}>Bütün suallar</button>
+            <button onClick={() => setFilter("correct")}>Düzgün cavablar</button>
+            <button onClick={() => setFilter("wrong")}>Yanlış cavablar</button>
+            <button onClick={() => setFilter("empty")}>Boş cavablar</button>
+          </div>
+
+          <div className="filtered-questions">{renderQuestions()}</div>
+        </div>
+      )}
+
+      {!quizFinished && (
+        <button className="finish-btn" onClick={handleFinishQuiz}>
+          Nəticəni gör
+        </button>
       )}
     </div>
   );
-};
+}
 
 export default Quiz;

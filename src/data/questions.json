@@ -1,2202 +1,3362 @@
 [
-    {
-      "question": "1. Cavablardan hansı Sahibkarın vəzifələrinə daxildir?",
-      "options": [
-        " əmək haqqının səviyyəsini durmadan artırmaq",
-        " haqsız rəqabətdən qaçmaq",
-        " bazarda yerini qorumaq",
-        " sözünə əməl etmək",
-        "işgüzar müqavilələrdən irəli gələn tələbləri yerinə yetirmək"
-      ],
-      "answer": "işgüzar müqavilələrdən irəli gələn tələbləri yerinə yetirmək"
-    },
-    {
-      "question": "2. Sahibkarliq və biznes fəaliyyətini birləşdirən fərqli cəhətlərə aid olmayanı seçin",
-      "options": [
-        " ixtisaslaşma səviyyəsi",
-        " yaranma şərtləri",
-        " biznesin üstün olması",
-        "hər ikisi ÜDM-da payının çoxalmasına can atır",
-        " biznesin spesifikliyi"
-      ],
-      "answer": "hər ikisi ÜDM-da payının çoxalmasına can atır"
-    },
-    {
-      "question": "3. Sahibkarliq və biznes fəaliyyətini birləşdirən ümumi cəhətlərə aid olmayanı seçin:",
-      "options": [
-        " hər ikisinin fəaliyyəti üçün zəruri iqtisadi mühit lazımdır",
-        " Bütün variantlar doğrudur",
-        " hər ikisinin bilavasitə məqsədi mənfəət əldə edilməsidir",
-        " hər ikisi maddi maraği ödəmək məqsədi ilə əmtəə istehsali və yaxud xidmətlər göstərilməsi ilə bağlidir",
-        "kəmiyyət və keyfiyyət fərqləri"
-      ],
-      "answer": "kəmiyyət və keyfiyyət fərqləri"
-    },
-    {
-      "question": "4. Sahibkarlığa münasibəti hansı qrupda birləşdirmək olar?",
-      "options": [
-        " Konsultativ və kommersiya biznesi",
-        " İqtisadi-inzibati və kapitalizm iqtisadiyyatı",
-        "Liberalizm və institsional iqtisadiyyat",
-        " Maliyyə və istehsal iqtisadiyyatı",
-        " İqtisadi və siyasi iqtisadiyyat"
-      ],
-      "answer": "Liberalizm və institsional iqtisadiyyat"
-    },
-    {
-      "question": "5. Sahibkarlıq fəaliyyəti nəzəri və praktiki cəhətdən necə bir prosesdir?",
-      "options": [
-        " sosial bir prosesdir",
-        " tərəqqinin ana xəttidir",
-        " əlverişli bir sistemdir",
-        " ehtiyacların qarşılanması sistemidir",
-        "daim inkişaf edən bir prosesdir"
-      ],
-      "answer": "daim inkişaf edən bir prosesdir"
-    },
-    {
-      "question": "6. Sahibkarlığın nəticələrinə bunlardan hansı aiddir?",
-      "options": [
-        " istehsal vasitələri",
-        " vergi siyasəti",
-        "mal və xidmətlərə dair təmin edilmiş ödəniş qabiliyyətli tələb",
-        " sahibkarlığın subyekti",
-        " istehsal amilləri"
-      ],
-      "answer": "mal və xidmətlərə dair təmin edilmiş ödəniş qabiliyyətli tələb"
-    },
-    {
-      "question": "7. Sahibkarlığın əsas öhdəliklərinə nə aid edilmir?",
-      "options": [
-        " müəyyən formada maliyyə və digər orqanlara hesabat təqdim etmək",
-        "antiinhisar qanunvericiliyinə riayət etmək",
-        " dövlət sığorta, sosial və digər fondlara köçürmələr etmək",
-        " iqtisadi təhlükəsizliyi təmin etmək",
-        " maliyyə hesabatını təqdim etmək"
-      ],
-      "answer": "antiinhisar qanunvericiliyinə riayət etmək"
-    },
-    {
-      "question": "8. Bazar iqtisadiyyatı şəraitində menecmentin funksiyası:",
-      "options": [
-        " firmanın səviyyəsi",
-        " firmanın təhlükəsizliyi",
-        " firmanın təsis edilməsi",
-        " riskin aşağı salınması",
-        "firmanın idarəetmə sistemi"
-      ],
-      "answer": "firmanın idarəetmə sistemi"
-    },
-    {
-      "question": "9. Son faydalılıq nəzəriyyəsinin banisi kimdir?",
-      "options": [
-        " S.Bryu",
-        "Y.Bem-Baverk",
-        " K.Makkonel",
-        " K.Marks",
-        " F.Kotler"
-      ],
-      "answer": "Y.Bem-Baverk"
-    },
-    {
-      "question": "10. Sahibkarlıq və biznes fəaliyyətinin fərqli cəhətləri:",
-      "options": [
-        " biznesin spesifikliyi",
-        " biznesin üstün olması",
-        " ixtisaslaşma səviyyəsi",
-        " yaranma şərtləri",
-        "kəmiyyət və keyfiyyət fərqləri"
-      ],
-      "answer": "kəmiyyət və keyfiyyət fərqləri"
-    },
-    {
-      "question": "11. Sahibkarlıq və biznes fəaliyyətinin ümumi cəhətləri:",
-      "options": [
-        " hər ikisi uğurları üçün çalışır",
-        "hər ikisinin reallaşdırılması bazar vasitəsilə baş verir",
-        " hər ikisi ÜDM-da payının çoxalmasına can atır",
-        " hər ikisi dövlət tapşırıqlarını yerinə yetirir",
-        " hər ikisinin məqsədi eynidir"
-      ],
-      "answer": "hər ikisinin reallaşdırılması bazar vasitəsilə baş verir"
-    },
-    {
-      "question": "12. Sahibkarlıq ilə məşğul olmaq üçün zəruri şərtlər:",
-      "options": [
-        " resursların bolluğunu müəyyən etmək",
-        " əlverişli start vəziyyəti yaratmaq",
-        "zəruri kapitala malik olmaq",
-        " texnoloji avadanlıqları müəyyənləşdirmək",
-        " istehsal ehtiyyatlarını əldə etmək"
-      ],
-      "answer": "zəruri kapitala malik olmaq"
-    },
-    {
-      "question": "13. Sahibkarın hüquqlarına nələr aiddir?",
-      "options": [
-        " güzəştə getmək",
-        " iqtisadi inkişaf",
-        " sosial-psixoloji mühitin yaradılması",
-        " təsisçilərin bir araya gətirilməsi",
-        "tərəfdaşları seçmək, müəssisə yaratmaq, işçiləri işə qəbul etmək, əldə etdiyi mənfəəti istədiyi kimi bölmək"
-      ],
-      "answer": "tərəfdaşları seçmək, müəssisə yaratmaq, işçiləri işə qəbul etmək, əldə etdiyi mənfəəti istədiyi kimi bölmək"
-    },
-    {
-      "question": "14. Sahibkarlıq fəaliyyətinin əsas məğzini nə təşkil edir?",
-      "options": [
-        " rentabellilik",
-        "təşəbbüskarlıq",
-        " səmərəlilik",
-        " bacarıq",
-        " qabiliyyət"
-      ],
-      "answer": "təşəbbüskarlıq"
-    },
-    {
-      "question": "15. Sahibkarlıq necə bir kateqoriyadır?",
-      "options": [
-        " mücərrəd",
-        " etik",
-        "sosial-psixoloji",
-        " xüsusi",
-        " mütərəqqi"
-      ],
-      "answer": "sosial-psixoloji"
-    },
-    {
-      "question": "16. Bazar mexanizminə nələr aiddir?",
-      "options": [
-        " müqayisə",
-        " bazarın tənzimlənməsi",
-        " fayda götürmək",
-        " fərdi yanaşma",
-        "sərbəst qiymət sistemi, insanların sərbəstliyi"
-      ],
-      "answer": "sərbəst qiymət sistemi, insanların sərbəstliyi"
-    },
-    {
-      "question": "17. Sahibkarlıq fəaliyyətində rəqabətin rolu:",
-      "options": [
-        " uğur qazanmaq",
-        " sağlam mübarizəni təmin edir",
-        " insanların arzularını təmin edir",
-        "məhsulun keyfiyyətini yüksəldir, istehsal xərclərini və qiyməti aşağı salır",
-        " istehlakçıları bir araya gətirir"
-      ],
-      "answer": "məhsulun keyfiyyətini yüksəldir, istehsal xərclərini və qiyməti aşağı salır"
-    },
-    {
-      "question": "18. Aşağıdakı bəndlərdən hansı azad seçimə aiddir?",
-      "options": [
-        " biznes-planı hazırlamaq",
-        " sahibkarlığın konsepsiyasını müəyyən etmək",
-        " sərbəst qərar vermək",
-        " mülkiyyəti seçmək",
-        "istədiyi peşəni seçmək, təhsil almaq, gəlirləri sərbəst xərcləmək"
-      ],
-      "answer": "istədiyi peşəni seçmək, təhsil almaq, gəlirləri sərbəst xərcləmək"
-    },
-    {
-      "question": "19. K.Makkonel və S.Bryuya görə bazar iqtisadiyyatının xarakterik cəhətlərinə aiddir:",
-      "options": [
-        " iqtisadiyyatda dövlətin xüsusi rolu",
-        " xüsusi sektora dövlət dəstəyi",
-        " fərdi yanaşma",
-        "xüsusi mülkiyyət, azad sahibkarlıq və azad seçim, şəxsi maraq, rəqabət, bazar qiymətləri, iqtisadiyyatda dövlətin məhdud rolu",
-        " sahibkarlıq faəliyyətinin imkanları"
-      ],
-      "answer": "xüsusi mülkiyyət, azad sahibkarlıq və azad seçim, şəxsi maraq, rəqabət, bazar qiymətləri, iqtisadiyyatda dövlətin məhdud rolu"
-    },
-    {
-      "question": "20. Bazar iqtisadiyyatının əsas fərqləndirici cəhətləri:",
-      "options": [
-        " azad idarəetmə sistemi",
-        " şəxsi maraq",
-        " muzdlu işçilərin çoxluğu",
-        " sahibkarlığın çoxnövlülüyü",
-        "azad sahibkarlıq və azad seçim"
-      ],
-      "answer": "azad sahibkarlıq və azad seçim"
-    },
-    {
-      "question": "21. Bazar iqtisadiyyatını digər cəmiyyətlərdən fərqləndirən şərtlər:",
-      "options": [
-        " iqtisadi siyasət",
-        " siyasi azadlıq",
-        " qərarların sərbəst qəbulu",
-        "cəmiyyətin hər bir üzvünün və hər bir təsərrüfat vahidinin iqtisadi azadlığı",
-        " demokratiya azadlığı"
-      ],
-      "answer": "cəmiyyətin hər bir üzvünün və hər bir təsərrüfat vahidinin iqtisadi azadlığı"
-    },
-    {
-      "question": "22. Sahibkarlıq fəaliyyəti bazar münasibətlərinə xas iqtisadi münasibətlərin təzahürüdür dedikdə nələri əhatə edir?",
-      "options": [
-        " əmtəələrin satışını təşkil edir",
-        " bazara cəld daxil olur",
-        "o, bazarla əlaqəli olur, yəni o, əmtəə təsərrüfatı şəraitində real məzmun alır",
-        " əmtəə istehsalını təşkil edir",
-        " əmtəələrin qiymətini sərbəst müəyyən edir"
-      ],
-      "answer": "o, bazarla əlaqəli olur, yəni o, əmtəə təsərrüfatı şəraitində real məzmun alır"
-    },
-    {
-      "question": "23. Sahibkarlıq fəaliyyətinin tarixi bir kateqoriya olmasını müəyyən edən amillər:",
-      "options": [
-        " istehsalın həcmi",
-        "istehsal vasitələri üzərində mülkiyyət forması və xüsusi mülkiyyətlə sıx əlaqə",
-        " mülkiyyətin çoxnövlülüyü",
-        " rentabelliyin səviyyəsi",
-        " maliyyə nəticələri"
-      ],
-      "answer": "istehsal vasitələri üzərində mülkiyyət forması və xüsusi mülkiyyətlə sıx əlaqə"
-    },
-    {
-      "question": "24. Sahibkarlıq fəaliyyəti haqqında iqtisadi təlimlər ilk dəfə hansı cəmiyyət daxilində meydana gəlmişdir?",
-      "options": [
-        "kapitalizm",
-        " sosializm",
-        " feodalizm",
-        " ibtidai icma",
-        " quldarlıq"
-      ],
-      "answer": "kapitalizm"
-    },
-    {
-      "question": "25. Aşağıda qeyd edilənlərdən hansını sahibkar anlayışına aid etmək olar?",
-      "options": [
-        " Ailə büdcəsini formalaşdıran şəxs",
-        " şəxsi mataığını güdən şəxs",
-        " Mənfəətin əldə edilməsi məqsədi ilə xidmətlər göstərən şəxs",
-        " Gəlir haqqında fikirləşən şəxs",
-        "Gələcək inkişaf haqqında düşünən təşəbbüskar, riskə gedən şəxs, novator"
-      ],
-      "answer": "Gələcək inkişaf haqqında düşünən təşəbbüskar, riskə gedən şəxs, novator"
-    },
-    {
-      "question": "26. Sahibkarlıq faəliyyətinin məzmununa aşağıdakılardan hansını aid etmək olar?",
-      "options": [
-        " müəssisənin strukturu",
-        " işçilərin sayı",
-        "iqtisadi, hüquqi, sosial, psixoloji məsələlər",
-        " iqtisadi sistem",
-        " biznesin sosial-psixoloji amili"
-      ],
-      "answer": "iqtisadi, hüquqi, sosial, psixoloji məsələlər"
-    },
-    {
-      "question": "27. Aşağıda qeyd edilən bəndlərdən hansı sahibkarlığın mahiyyətini əhatə edir?",
-      "options": [
-        " Ödənişli xidmətlər göstərən istənilən şəxs",
-        " mənfəət üçün çalışan şəxs",
-        " Mənfəətin əldə edilməsi məqsədi ilə xidmətlər göstərən şəxs",
-        " Gəlir əldə etməsi məqsədi ilə istənilən fəaliyyət növü ilə məşğul olan şəxs",
-        "İnsanlara lazım olan məhsullar istehsalı və iş bilmək sistemi"
-      ],
-      "answer": "İnsanlara lazım olan məhsullar istehsalı və iş bilmək sistemi"
-    },
-    {
-      "question": "28. Sahibkarliq haqqında elmi baxışların təkamülünün ikinci mərhələsi nə zaman yaranmışdır",
-      "options": [
-        " XX əsrin 20-ci illəri",
-        " XIX əsrin 30-cu illəri",
-        " XX əsrin 50-ci illəri",
-        "XX əsrin 30-cu illəri",
-        " XX əsrin 60-cı illəri"
-      ],
-      "answer": "XX əsrin 30-cu illəri"
-    },
-    {
-      "question": "29. Y.Şumpeterin fikrincə sahibkar kimdir?",
-      "options": [
-        " özü haqqında düşünən şəxs",
-        "yenilikçi (novator) şəxs",
-        " bilikli və bacarıqlı şəxs",
-        " özünə hörmət edən şəxs",
-        " varlanmaq istəyən şəxs"
-      ],
-      "answer": "yenilikçi (novator) şəxs"
-    },
-    {
-      "question": "30. Hansı iqtisadçı sahibkarı novator adlandırmışdır",
-      "options": [
-        " B.Spinoza",
-        " Makiavelli",
-        " J.B.Sey",
-        " Kantilyon",
-        "Şumpeter"
-      ],
-      "answer": "Şumpeter"
-    },
-    {
-      "question": "31. Sahibkarliq fəaliyyəti ağıl və fantaziyanın vəhdətidir-ifadəsinin müəllifi kimdir",
-      "options": [
-        " A.Smit",
-        " Kantilyon",
-        " Marks",
-        "V.Zombart",
-        " Lenin"
-      ],
-      "answer": "V.Zombart"
-    },
-    {
-      "question": "32. Sahibkarlıq fəaliyyəti ilə kimlər məşğul ola bilməz:",
-      "options": [
-        " Xarici dövlətlərin Azərbaycandakı nümayəndəlikləri",
-        "Millət vəkilləri",
-        " Rezidentlər",
-        " Bütün cavablar səhvdir",
-        " Qeyri-rezidentlər"
-      ],
-      "answer": "Millət vəkilləri"
-    },
-    {
-      "question": "33. A.Smit hansı illərdə yaşamışdır:",
-      "options": [
-        " 1634-1685",
-        " 1701-1756",
-        " 1615-1682",
-        "1723-1790",
-        " 1710-1785"
-      ],
-      "answer": "1723-1790"
-    },
-    {
-      "question": "34. “Mənfəət əldə edilməsi sahibkarlıq fəaliyyətinin əsası deyil, ikinci dərəcəli məqsədidir” fikri kimə məxsusdur?",
-      "options": [
-        " Y.Şumpeterə",
-        " K.Marksa",
-        " V.Leninə",
-        "V.Zombarta",
-        " İ.Seyə"
-      ],
-      "answer": "V.Zombarta"
-    },
-    {
-      "question": "35. V.Zombarta görə sahibkarlıq aşağıdakılardan hansının vəhdətidir?",
-      "options": [
-        " dəyər və zərərin",
-        " idxal və ixracın",
-        " sadə və mürəkkəbin",
-        "ağıl və fantaziyanın",
-        " idarəetmə və menecmentin"
-      ],
-      "answer": "ağıl və fantaziyanın"
-    },
-    {
-      "question": "36. A.Smitə görə sahibkar kimdir?",
-      "options": [
-        " tərəfdaş axtaran şəxs",
-        " müqavilə bağlayan şəxs",
-        " menecer",
-        " kütləvi istehsalla məşğul olan şəxs",
-        "öz istehsalını planlaşdıran və təşkil edən, müstəqil qərar verən və risk edən şəxs"
-      ],
-      "answer": "öz istehsalını planlaşdıran və təşkil edən, müstəqil qərar verən və risk edən şəxs"
-    },
-    {
-      "question": "37. Sahibkar kimdir?",
-      "options": [
-        " kommersiya fəaliyyəti ilə məşğul olan şəxs",
-        " əmtəə istehsal edən şəxs",
-        " əmtəə satan şəxs",
-        " əmtəələri mübadilə edən şəxs",
-        "risk edən şəxs"
-      ],
-      "answer": "risk edən şəxs"
-    },
-    {
-      "question": "38. “Sahibkar” ifadəsinin mahiyyəti haqqında fikir söyləyən ilk müəllif kimdir?",
-      "options": [
-        "R.Kantilyon",
-        " V.Lenin",
-        " K.Marks",
-        " F.Engels",
-        " A.Smit"
-      ],
-      "answer": "R.Kantilyon"
-    },
-    {
-      "question": "39. R.Xizricin sahibkarlığa verdiyi tərif hansıdır?",
-      "options": [
-        " Sahibkarlıq – ictimaiyyətlə əlaqədir.",
-        " Sahibkarlıq – gələcəyə inamdır",
-        " Sahibkarlıq – inkişaf strategiyasıdır.",
-        "Sahibkarlıq – dəyərə malik nə isə yeni bir şeyin yaradılması prosesidir.",
-        " Sahibkarlıq – marketinqin funksiyasıdır."
-      ],
-      "answer": "Sahibkarlıq – dəyərə malik nə isə yeni bir şeyin yaradılması prosesidir."
-    },
-    {
-      "question": "40. P.Drukerin sahibkarlığa verdiyi məzmun aşağıdakı bəndlərdən hansıdır?",
-      "options": [
-        " cəmiyyətin inkişafına təsiri",
-        " dəyişiklikləri idarəetmə bacarığı",
-        " daima axtarışda olmaq",
-        "idarəetmədəki yeniliklərin təşkili",
-        " ölkənin inkişafına təkan"
-      ],
-      "answer": "idarəetmədəki yeniliklərin təşkili"
-    },
-    {
-      "question": "41. F.Hayekə görə sahibkarlığa verilən tərif hansıdır?",
-      "options": [
-        " Sahibkarlıq – xüsusi fəaliyyət növüdür.",
-        " Sahibkarlıq - uğurdur",
-        " Sahibkarlıq – çеviklikdir.",
-        "Sahibkarlıq – yeni iqtisadi imkanların axtarışıdır.",
-        " Sahibkarlıq – imkanların reallaşdırılmasıdır."
-      ],
-      "answer": "Sahibkarlıq – yeni iqtisadi imkanların axtarışıdır."
-    },
-    {
-      "question": "42. A.Busiqinin baxışlarına görə sahibkarlığa aşağıdakılardan hansı aiddir?",
-      "options": [
-        "sahibkarlıq – obyektiv iqtisadi və subyektiv psixoloji cəhətlərin vəhdəti",
-        " ixtisaslaşma",
-        " ideyaların bir araya gətirilməsi",
-        " resursların ilkin emalı",
-        " təmərküzləşmə"
-      ],
-      "answer": "sahibkarlıq – obyektiv iqtisadi və subyektiv psixoloji cəhətlərin vəhdəti"
-    },
-    {
-      "question": "43. V.Korolevin fikrinə görə sahibkarlıq nədir?",
-      "options": [
-        " istehsal amillərini əldə etmək",
-        " iş görmək",
-        " nəticə əldə etmək",
-        "öz ideyalarını reallaşdırmaq və sosial səmərəyə nail olmaq",
-        " səmərəli iş qurmaq"
-      ],
-      "answer": "öz ideyalarını reallaşdırmaq və sosial səmərəyə nail olmaq"
-    },
-    {
-      "question": "44. A.Şəkərəliyevə görə sahibkarlıq?",
-      "options": [
-        " özəl sektorun inkişafı",
-        " bazarın böyüməsi",
-        " varlılar təbəqəsinin yaranması",
-        "işgüzar münasibətlərin formalaşması",
-        " xüsusi marağın artması"
-      ],
-      "answer": "işgüzar münasibətlərin formalaşması"
-    },
-    {
-      "question": "45. Ə.Əlirzayevin qənaətinə görə sahibkarlıq?",
-      "options": [
-        "bazar iqtisadiyyatının ilkin şəraiti",
-        " münasibətlərin formalaşması",
-        " yoxsulluğun aradan qaldırılması",
-        " kölgə iqtisadiyyatı",
-        " keçid iqtisadiyyatı"
-      ],
-      "answer": "bazar iqtisadiyyatının ilkin şəraiti"
-    },
-    {
-      "question": "46. S.Səfərova görə sahibkarlıq nədir?",
-      "options": [
-        " özəl sektordur",
-        "iqtisadi inkişafın təməl daşıdır",
-        " tərəfdaşlıqdır",
-        " təminatçıdır",
-        " himayəçidir"
-      ],
-      "answer": "iqtisadi inkişafın təməl daşıdır"
-    },
-    {
-      "question": "47. Akademik Z.Səmədzadəyə görə sahibkarlıq nədir?",
-      "options": [
-        " Sahibkarlıq – bir varlıqdır.",
-        " Sahibkarlıq – ehtiyyat mənbəyidir.",
-        " Sahibkarlıq – gəlir məndəyidir.",
-        "Sahibkarlıq – iqtisadi artımın strateji resursudur.",
-        " Sahibkarlıq – qazanc mənbəyidir"
-      ],
-      "answer": "Sahibkarlıq – iqtisadi artımın strateji resursudur."
-    },
-    {
-      "question": "48. Sahibkarlıq fəaliyyəti necə bir funksiyadır?",
-      "options": [
-        " sosial",
-        "iqtisadi",
-        " ictimai",
-        " özəl",
-        " siyasi"
-      ],
-      "answer": "iqtisadi"
-    },
-    {
-      "question": "49. “Neoklassik sintez” nəzəriyyəsinin banisi kimdir?",
-      "options": [
-        " R.Nikson",
-        " R.Kantilyon",
-        " P.Druker",
-        " Y.Şumpeter",
-        "P.Samuelson"
-      ],
-      "answer": "P.Samuelson"
-    },
-    {
-      "question": "50. Bazar iqtisadiyyatı şəraitində sahibkarlıq fəaliyyətinin inkişaf mərhələlərinə aşağıdakılardan hansı aid deyil?",
-      "options": [
-        " Sahibkarlıq risklə bağlı olan, qeyir-müəyyənlik və informasiya qıtlığı şəraitində həyata keçirilən fəaliyyətdir.",
-        "Sahibkarlıq müvəqqəti gəlir əldə etmək üçün qurulan istehsal sistemidir.",
-        " Sahibkarlıq istehsalı təşkil və idarə etməklə bağlı işgüzar fəaliyyətdir.",
-        " məhdud iqtisadi resurslar şəraitində öz kapitalını mənfəət əldə etmək üçün konkret sahəyə yönəltmək",
-        " düzgün cavab yoxdur"
-      ],
-      "answer": "Sahibkarlıq müvəqqəti gəlir əldə etmək üçün qurulan istehsal sistemidir."
-    },
-    {
-      "question": "51. İqtisadiyyatın dövlət tənzimlənməsinin ən mühüm istiqaməti kimi tətbiq olunan metodlar:",
-      "options": [
-        " SWOT analizi",
-        " uçot metodu",
-        " bazar metodu",
-        " mühasibat uçotu metodu",
-        "inzibati və iqtisadi metod"
-      ],
-      "answer": "inzibati və iqtisadi metod"
-    },
-    {
-      "question": "52. C.Keynsin iqtisadi təliminin əsasını nələr təşkil edir?",
-      "options": [
-        " əmtəələrin çeşidləri",
-        " əmtəələrin bazardakı payı",
-        " inflyasiyanın səviyyəsinə nəzarətin gücləndirilməsi",
-        " şübhə və narahatlıqların aradan qaldırılması",
-        "sahibkarlıq fəaliyyətində spekulyativ və kommersiya cəhətlərinin qabardılması"
-      ],
-      "answer": "sahibkarlıq fəaliyyətində spekulyativ və kommersiya cəhətlərinin qabardılması"
-    },
-    {
-      "question": "53. Sahibkarlığın inkişaf mərhələlərinə aid deyil?",
-      "options": [
-        " sahibkarlıq subyektlərinin risk etmək cəhdi",
-        "haqsız rəqabətə can atmaq",
-        " düzgün cavab yoxdur",
-        " sahibkarlıq subyektinin mənfəət əldə etmək məqsədi",
-        " sahibkarlıq subyektinin öz mənfəətini istehsala yönəltməsi"
-      ],
-      "answer": "haqsız rəqabətə can atmaq"
-    },
-    {
-      "question": "54. V.Lenin tərəfindən irəli sürülmüş yeni iqtisadi siyasətin məzmununa nələr aiddir?",
-      "options": [
-        " yığım kapitalının artırılması",
-        " xüsusi sektorun inkişafı",
-        " əməkdaşlığın qurulması",
-        " dövlət-xüsusi sektorun inkişafı",
-        "dövlət kapitalizminin inkişafı, yəni xarici ölkələrdən kapital cəlb etmək"
-      ],
-      "answer": "dövlət kapitalizminin inkişafı, yəni xarici ölkələrdən kapital cəlb etmək"
-    },
-    {
-      "question": "55. K.Marks təlimində sahibkarlıq fəaliyyətinin özünəməxsusluğu nədən ibarətdir?",
-      "options": [
-        " muzdlu fəhlələr tərəfindən yaradılan dəyər",
-        " klassik nəzəriyyə",
-        " dəyər və izafi dəyər nəzəriyyəsi",
-        " iqtisadi fəaliyyətin üstünlüyü",
-        "kapitalist və sahibkar anlayışlarını bir-birindən ayırmaması"
-      ],
-      "answer": "kapitalist və sahibkar anlayışlarını bir-birindən ayırmaması"
-    },
-    {
-      "question": "56. A.Marşala görə sahibkarlığın səciyyəvi cəhətləri hansıdır?",
-      "options": [
-        " faəliyyət prinsipi",
-        " iqtisadi sistem",
-        "istehsal azadlığı və iqtisadi azadlıq",
-        " iqtisadi təzahür",
-        " irəli can atmaq"
-      ],
-      "answer": "istehsal azadlığı və iqtisadi azadlıq"
-    },
-    {
-      "question": "57. C.Keynsə görə işşgüzar fəaliyyət subyektlərinin qarşılaşdığı risk formalarına aid olan cavabı seçin:",
-      "options": [
-        " monarxın mövcudluğu",
-        " doğru variant yoxdur",
-        "sahibkarlıq riski",
-        " neoklassiklərin vurğuladığı risklər",
-        " menecer özbaşnalığı"
-      ],
-      "answer": "sahibkarlıq riski"
-    },
-    {
-      "question": "58. Y.Şumpeter sahibkarı necə adlandırırdı?",
-      "options": [
-        " təhlükələri hiss edən",
-        "“iqtisadiyyatın inqilabçısı”, “sosial və siyasi inqilabların qeyri-iradi törədicisi”",
-        " istehsalı yaxşı idarə edən",
-        " vəzifəsinə sadiq adam",
-        " eqolu insan"
-      ],
-      "answer": "“iqtisadiyyatın inqilabçısı”, “sosial və siyasi inqilabların qeyri-iradi törədicisi”"
-    },
-    {
-      "question": "59. C.Keynsə görə işgüzar fəaliyyət subyektlərinin qarşılaşdığı risk formalarına aid deyil:",
-      "options": [
-        " Kreditorun riski",
-        " bütün variantlar doğrudur",
-        " Pul vahidinin məzənnəsinin mümkünlüyü",
-        "Sahibkarın hüquqi varisinin olmaması",
-        " Sahibkarlıq riski"
-      ],
-      "answer": "Sahibkarın hüquqi varisinin olmaması"
-    },
-    {
-      "question": "60. Sahibkarlıq mühiti nədir?",
-      "options": [
-        " Sahibkarlıq mühiti kimi işgüzar fəaliyyətin həyata keçirilməsinə təsir göstərməyən şəraitin və amillərin məcmusu qəbul edilir.",
-        " Sahibkarlıq mühiti kimi yalnız marketinq fəaliyyətin həyata keçirilməsinə təsir göstərən şəraitin və amillərin məcmusu qəbul edilir.",
-        " Sahibkarlıq mühiti kimi işgüzar fəaliyyətin həyata keçirilməməsinə təsir göstərən şəraitin və amillərin məcmusu qəbul edilir.",
-        " İşgüzar fəaliyyətin həyata keçirilməsinə təsir göstərməyən şəraitin və amillərin məcmusu qəbul edilir.",
-        "Sahibkarlıq mühiti kimi işgüzar fəaliyyətin həyata keçirilməsinə təsir göstərən şəraitin və amillərin məcmusu qəbul edilir."
-      ],
-      "answer": "Sahibkarlıq mühiti kimi işgüzar fəaliyyətin həyata keçirilməsinə təsir göstərən şəraitin və amillərin məcmusu qəbul edilir."
-    },
-    {
-      "question": "61. Bazar iqtisadiyyatı şəraitində istehsal ehtiyatları hansılardır?",
-      "options": [
-        " Torpaq, Tədarük və Sahibkarlıq qabiliyyəti",
-        " Torpaq, Sərmayə, Reklam və Sahibkarlıq qabiliyyəti",
-        " Heç bir variant düzgün deyil",
-        "Torpaq, Kapital, Əmək və Sahibkarlıq qabiliyyəti",
-        " Kommersiya, maliyyə, istehsal və konsultativ"
-      ],
-      "answer": "Torpaq, Kapital, Əmək və Sahibkarlıq qabiliyyəti"
-    },
-    {
-      "question": "62. Sahibkarlığın sosial-iqtisadi aspektləri necədir?",
-      "options": [
-        " sadədir",
-        "çox cəhətlidir",
-        " ümumidir",
-        " dəyişkəndir",
-        " mürəkkəbdir"
-      ],
-      "answer": "çox cəhətlidir"
-    },
-    {
-      "question": "63. O.Vüxanskiy və A.Naumov sahibkarlıq mühitinin 3 hissədən ibarət olduğunu bildirirlər?",
-      "options": [
-        " iqtisadi, siyasi, beynəlxalq mühit",
-        " biznes mühiti, mikroəhatə, iqtisadi mühit",
-        "makroəhatə, rəqabət mühiti, daxili mühit",
-        " sosial, psixoloji, ideoloji",
-        " xarici, daxili, texnoloji"
-      ],
-      "answer": "makroəhatə, rəqabət mühiti, daxili mühit"
-    },
-    {
-      "question": "64. Sahibkarlıq riskini hansı qruplara bölmək məqsədəuyğundur?",
-      "options": [
-        " qeyri-müəyyən qruplara",
-        " idarə olunan və idarə olunmayan qruplara",
-        "sığortalana bilməyən və sığortalana bilən qruplara",
-        " görünən və görünməyən qruplara",
-        " adi və mürəkkəb qruplara"
-      ],
-      "answer": "sığortalana bilməyən və sığortalana bilən qruplara"
-    },
-    {
-      "question": "65. İşgüzar fəaliyyətin risklə bağlı olmaq cəhətini aşağıdakılardan hansılar qəbul etmişdir?",
-      "options": [
-        " A.Volkov, A.Rok, T.Perkiniç, Y.Klyaner",
-        "J.Sey, Zombart, Şumpeter, Marşall",
-        " A.Smit, C.Keyns, D.Fotter, P.Samuelson",
-        " K.Marks, F.Engels, V.Lenin, İ.Stalin",
-        " İ.Stalin, L.Brejnev, N.Kosegin, K.Jukov"
-      ],
-      "answer": "J.Sey, Zombart, Şumpeter, Marşall"
-    },
-    {
-      "question": "66. Sahibkarlıq fəaliyyəti hansı şəraitdə baş verir?",
-      "options": [
-        " fors-major şəraitdə",
-        " fəaliyyəti mümkün olan şəraitdə",
-        " istənilən vaxtda baş verir",
-        "qeyri-müəyyənlik və risk şəraitində baş verir",
-        " arzu olunan şəraitdə"
-      ],
-      "answer": "qeyri-müəyyənlik və risk şəraitində baş verir"
-    },
-    {
-      "question": "67. Tarixi təkamül baxımından sahibkarlıq fəaliyyətini hansı fəaliyyətlərə bölmək olar?",
-      "options": [
-        "klassik (ənənəvi) və innovasiya fəaliyyətinə",
-        " istehsal resurslarının birləşdirilməsi fəaliyyətinə",
-        " İdxal-ixrac fəaliyyətinə",
-        " texnoloji avadanlıqların quraşdırılması fəaliyyətinə",
-        " idarəetmə fəaliyyətinə"
-      ],
-      "answer": "klassik (ənənəvi) və innovasiya fəaliyyətinə"
-    },
-    {
-      "question": "68. Sahibkarın innovasiya ilə bağlı fəaliyyəti haqqında təlim ilk dəfə kim tərəfindən yaradılmışdır?",
-      "options": [
-        " V.Zombart",
-        " S.Simon",
-        " R.Kontilyon",
-        "Y.Şumpeter",
-        " R.Kour"
-      ],
-      "answer": "Y.Şumpeter"
-    },
-    {
-      "question": "69. Sahibkarlıq fəaliyyəti zamanı muzdlu işçilərin əməyindən istifadə edilirmi?",
-      "options": [
-        " lüzum yoxdur",
-        " vacib deyil",
-        " xeyr",
-        " məlum deyil",
-        "bəli"
-      ],
-      "answer": "bəli"
-    },
-    {
-      "question": "70. İşgüzar fəaliyyət zamanı sahibkar tərəfindən hansı işlər yerinə yetirilməlidir?",
-      "options": [
-        " tərəfdaşları seçmək",
-        " işgüzar münasibətlərin qurulması",
-        " işgüzar dairələri müəyyən etmək",
-        "sahibkarlıq fəaliyyətinin növünü, sahəsini, istiqamətini, metodlarını və vasitələrini müəyyən etmək",
-        " məqsədlərini müəyyən etmək"
-      ],
-      "answer": "sahibkarlıq fəaliyyətinin növünü, sahəsini, istiqamətini, metodlarını və vasitələrini müəyyən etmək"
-    },
-    {
-      "question": "71. İqtisad elmində istehsalın üç amili nəzəriyyəsinin banisi kimdir?",
-      "options": [
-        " Y.Şumpeter",
-        "B.Sey",
-        " F.Kotler",
-        " V.Lenin",
-        " A.Smit"
-      ],
-      "answer": "B.Sey"
-    },
-    {
-      "question": "72. İstehsalın ənənəvi üç amilinin qiymət vahidləri kimi nələr çıxış edir?",
-      "options": [
-        " gəlir",
-        " istehsal vahidləri",
-        " istehlak şeyləri",
-        "renta mənfəət və əmək haqqı",
-        " divident"
-      ],
-      "answer": "renta mənfəət və əmək haqqı"
-    },
-    {
-      "question": "73. İstehsal ehtiyyatlarının ən əlverişli kombinasiyasının seçilməsinə təsir edən amillər?",
-      "options": [
-        " amillərin çoxluğu",
-        " siyasi amillər",
-        " xarici mühit amillərinin mövcudluğu",
-        "daxili və xarici iqtisadi və texniki amillər",
-        " daxili mühit amillərinin zəruriliyi"
-      ],
-      "answer": "daxili və xarici iqtisadi və texniki amillər"
-    },
-    {
-      "question": "74. İstehsal amilinə aid deyil?",
-      "options": [
-        " torpaq",
-        " ideya",
-        "müəssisənin strukturu",
-        " kapital",
-        " əmək"
-      ],
-      "answer": "müəssisənin strukturu"
-    },
-    {
-      "question": "75. Sahibkar tərəfindən yerinə yetirilən əsas funksiya hansıdır?",
-      "options": [
-        " kapitalın əldə edilməsi",
-        " sexin strukturu",
-        " resursların çoxluğu",
-        " istehsal prosesinin quruluşu",
-        "iqtisadi resursların birləşdirilməsi"
-      ],
-      "answer": "iqtisadi resursların birləşdirilməsi"
-    },
-    {
-      "question": "76. Sahibkarlıq fəaliyyəti məqsədinə çatmaq üçün sahibkar hansı keyfiyyətlərə malik olmalıdır?",
-      "options": [
-        " tənbəl və məsuliyyətsiz",
-        "iqtisadi, psixoloji, təşkilati, təşəbbüskarlıq",
-        " yenilikçi, novator, uzaqgörən",
-        " idarəedici, strateji, qabaqlayıcı",
-        " mülayim, bacarıqlı, natiq"
-      ],
-      "answer": "iqtisadi, psixoloji, təşkilati, təşəbbüskarlıq"
-    },
-    {
-      "question": "77. Sahibkarlıqda sosial problemlərin formalaşdığı yer:",
-      "options": [
-        " anbar",
-        " sex",
-        " istehsal",
-        "təsərrüfat və cəmiyyət",
-        " sahə"
-      ],
-      "answer": "təsərrüfat və cəmiyyət"
-    },
-    {
-      "question": "78. Sosial-psixoloji və sosial-iqtisadi məqsəd nədir?",
-      "options": [
-        " problemləri həll etmək",
-        " sosial durumun bərpa edilməsi",
-        " qeyri-müəyyən şəraitdən baş çıxarmaq",
-        "rəhbərlik etmək və başqalarına təsir göstərə bilmək, müvəffəqiyyətə doğru addımlamaq",
-        " zəruri tədbirləri həyata keçirmək"
-      ],
-      "answer": "rəhbərlik etmək və başqalarına təsir göstərə bilmək, müvəffəqiyyətə doğru addımlamaq"
-    },
-    {
-      "question": "79. Sahibkarlıq fəaliyyəti qarşısında duran problem?",
-      "options": [
-        " məhsulun çeşidinin yaxşılaşdırılması",
-        " məhsulun qiymətinin yüksəldilməsi",
-        " əmtəənin keyfiyyəti",
-        " istehlakçıların zövqünü oxşamaq",
-        "satışın həcminin artırılması"
-      ],
-      "answer": "satışın həcminin artırılması"
-    },
-    {
-      "question": "80. Sahibkarlıq iqtisadiyyatı deyəndə nə başa düşülür?",
-      "options": [
-        "mənfəət naminə həyata keçirilən fəaliyyət",
-        " sosial yönümlü fəaliyyət",
-        " bazara yönələn fəaliyyət",
-        " cəmiyyət üçün fəaliyyət",
-        " şəxsi marağı təmin etmək üçün fəaliyyət"
-      ],
-      "answer": "mənfəət naminə həyata keçirilən fəaliyyət"
-    },
-    {
-      "question": "81. Mənfəətin yüksək səviyyəsi sahibkarlıq fəaliyyəti üçün hansı rolu oynayır?",
-      "options": [
-        "sahibkarlığın fəaliyyət dairəsini genişləndirmə",
-        " texnoloji prosesi sürətləndirmə",
-        " avadanlıqları əldə etmə",
-        " kənar təsirlərdən qorunma",
-        " zəruri işləri yerinə yetirmə"
-      ],
-      "answer": "sahibkarlığın fəaliyyət dairəsini genişləndirmə"
-    },
-    {
-      "question": "82. Mənfəətin aşağı səviyyəsi biznes üçün hansı rolu oynayır?",
-      "options": [
-        " müəyyənetmə rolunu",
-        " kənarlaşma rolunu",
-        " nəzarət rolunu",
-        " hücum rolunu",
-        "qoruyucu amil rolunu"
-      ],
-      "answer": "qoruyucu amil rolunu"
-    },
-    {
-      "question": "83. İqtisadiyyatın inkişaf mərhələsindən, səviyyəsindən və həcmindən asılı olmayaraq sahibkarlığın məqsədi:",
-      "options": [
-        "mənfəət əldə etmək",
-        " qələbə qazanmaq",
-        " məşğulluğu artırmaq",
-        " rentabelliyi yüksəltmək",
-        " məhsuldarlığa nail olmaq"
-      ],
-      "answer": "mənfəət əldə etmək"
-    },
-    {
-      "question": "84. Dünyada ümumi biznesin neçə faizini KOS (kiçik və orta sahibkarlıq) təşkil edir?",
-      "options": [
-        "90%",
-        " 45%",
-        " 19%",
-        " 30%",
-        " 35%"
-      ],
-      "answer": "90%"
-    },
-    {
-      "question": "85. Kiçik sahibkar müstəqil bir adam kimi məşhurdur-fikrinin müəllifi kimdir?",
-      "options": [
-        " Sey",
-        " Kantilyon",
-        " Lenin",
-        "C.Helbreyt",
-        " Şumpeter"
-      ],
-      "answer": "C.Helbreyt"
-    },
-    {
-      "question": "86. Müəssisələr təsnifləşdirilmə xüsusiyyətinə görə neçə yerə bölünür:",
-      "options": [
-        " 5",
-        " 2",
-        " 1",
-        "3",
-        " 4"
-      ],
-      "answer": "3"
-    },
-    {
-      "question": "87. Kiçik və orta biznesin əsas ehtiyacları hansılardır?",
-      "options": [
-        " Biznes-idarəetmə sisteminin güclü olması",
-        " Güzəştsiz və çətin dövlət tənzimləməsi siyasəti",
-        " İxtisaslı kadrların işə cəlb edə bilməsi",
-        "Məhdud resurslar və tədqiqat imkanlarının məhdud olması",
-        ""
-      ],
-      "answer": ""
-    },
-    {
-      "question": "88. Kiçik sahibkarlığın fəaliyyət dairəsini müəyyən edən səbəblər hansılardır?",
-      "options": [
-        " Mövcud fəaliyyət sahəsinin aşağı təsərrüfat riski ilə səciyyələnməsi",
-        " Orta və iri ölçülü müəssisələrin iqtisadi cəhətdən əlverişsiz davranışı",
-        " Geniş satış bazarı",
-        "Məhdud satış bazarı və məhsul istehsalı üçün zəruri resursların az olması",
-        " Kütləvi istehsalın yeni məhsul buraxılışını operativ şəkildə mənimsəməsi"
-      ],
-      "answer": "Məhdud satış bazarı və məhsul istehsalı üçün zəruri resursların az olması"
-    },
-    {
-      "question": "89. Dünya Bankının yanaşmasına görə kiçik və orta biznesin həcmi əsasən hansı meyarlara görə qruplaşdırılır?",
-      "options": [
-        " 100-500 nəfərlik işçi heyəti və İllik dövriyyəsi, 500 mln. dollardan çox",
-        " 10-50 nəfərlik işçi heyəti və İllik dövriyyəsi, 30 mln. dollardan çox",
-        " 1000-5000 nəfərlik işçi heyəti və İllik dövriyyəsi, 500 mln. dollardan çox",
-        " 1-510 nəfərlik işçi heyəti və İllik dövriyyəsi, 10 mln. dollardan çox",
-        "50-100 nəfərlik işçi heyəti və İllik dövriyyəsi, 50 mln. dollardan çox"
-      ],
-      "answer": "50-100 nəfərlik işçi heyəti və İllik dövriyyəsi, 50 mln. dollardan çox"
-    },
-    {
-      "question": "90. Sahibkarlıq mülkiyyət mənsubiyyətinə görə necə təsnifatlaşdırılır?",
-      "options": [
-        " Kiçik, orta və iri sahibkarlığı",
-        " Sənaye, kənd təsərrüfatı, nəqliyyat və ticarətdə həyata keçirilən sahibkarlığı",
-        " Yerli, region, ümumölkə və beynəlxalq səviyyədə həyata keçirilən sahibkarlığı",
-        " İstehsal, kommersiya, maliyyə və konsaltinq sahibkarlığı",
-        "Fərdi (xüsusi), kollektiv, dövlət və birgə sahibkarlıq"
-      ],
-      "answer": "Fərdi (xüsusi), kollektiv, dövlət və birgə sahibkarlıq"
-    },
-    {
-      "question": "91. Sahibkarlıq fəaliyyət sahəsinə görə hansı sahələr üzrə qruplaşdırılır?",
-      "options": [
-        " Fərdi (xüsusi), kollektiv, dövlət sahibkarlığına və birgə sahibkarlığı",
-        " İstehsal, kommersiya, maliyyə və konsaltinq sahibkarlığı",
-        " Heç bir variant düzgün deyil",
-        "Sənaye, kənd təsərrüfatı, nəqliyyat və ticarətdə həyata keçirilən sahibkarlıq",
-        " Kiçik, orta və iri sahibkarlıq"
-      ],
-      "answer": "Sənaye, kənd təsərrüfatı, nəqliyyat və ticarətdə həyata keçirilən sahibkarlıq"
-    },
-    {
-      "question": "92. İnvestisiya mühitinə nələr aiddir?",
-      "options": [
-        "əlverişli investisiya mühiti",
-        " əmək haqqı",
-        " ÜDM həcmi",
-        " büdcə defisiti",
-        " əmək resursları"
-      ],
-      "answer": "əlverişli investisiya mühiti"
-    },
-    {
-      "question": "93. Sahibkarlıq fəaliyyətinin formaları bir-birilə necə əlaqədardırlar?",
-      "options": [
-        " üzvi əlaqə",
-        " birgə əlaqə",
-        "sıx-qarşılıqlı əlaqə",
-        " uzaq əlaqə",
-        " yaxın əlaqə"
-      ],
-      "answer": "sıx-qarşılıqlı əlaqə"
-    },
-    {
-      "question": "94. Hansı xarakterik cəhət sahibkarı biznesmendən fərqləndirir?",
-      "options": [
-        " vicdan",
-        " inadkarlıq",
-        " özünə inam",
-        "novatorluq",
-        " məsuliyyət"
-      ],
-      "answer": "novatorluq"
-    },
-    {
-      "question": "95. Bazar konyukturası nə deməkdir?",
-      "options": [
-        " sosial şərait",
-        " ticarət",
-        " təşkilat",
-        "ümumi vəziyyət",
-        " qeyri müəyyənlik"
-      ],
-      "answer": "ümumi vəziyyət"
-    },
-    {
-      "question": "96. Sahibkarlıqda mal göstəricilərinə nə aiddir?",
-      "options": [
-        " satış, ixrac, idxal",
-        " malların bölüşdürülməsi, ixrac imkanları",
-        "çeşid, keyfiyyət, qutunun dizaynı",
-        " bölüşdürmə kanalları, marketinq",
-        " reklam büdcəsi, ixrac imkanları"
-      ],
-      "answer": "çeşid, keyfiyyət, qutunun dizaynı"
-    },
-    {
-      "question": "97. SWOT anlayışı nə deməkdir?",
-      "options": [
-        " məhsuldarlıq, trend, səviyyə",
-        " marketinq tədqiqatları, marjinal nöqtə",
-        "müəssisənin güclü və zəif tərəfləri, imkanlar və təhlükələr",
-        " maya dəyəri, mənfəət göstəriciləri",
-        " rentabellik, marketinq araşdırmaları"
-      ],
-      "answer": "müəssisənin güclü və zəif tərəfləri, imkanlar və təhlükələr"
-    },
-    {
-      "question": "98. İri sahibkarlığın fərqli cəhətlərindən biri qeyd edilənlərdən hansıdır?",
-      "options": [
-        " informasiya bolluğu",
-        " informasiya qıtlığı",
-        " masştabın ölçüsü",
-        " inkişaf tempi",
-        "sosial bazanın olması"
-      ],
-      "answer": "sosial bazanın olması"
-    },
-    {
-      "question": "99. İqtisadiyyatda iri sahibkarlığın çatışmazlığına hansı aiddir?",
-      "options": [
-        " müəssisənin optimal həcmi",
-        "tədqiqatların nəticələrinin tez bir zamanda istehsala tətbiqinin məhdud olması",
-        " müəssisənin iri həcmi",
-        " texniki-texnoloji dəyişikliklər",
-        " innovativ dəyişikliklər"
-      ],
-      "answer": "tədqiqatların nəticələrinin tez bir zamanda istehsala tətbiqinin məhdud olması"
-    },
-    {
-      "question": "100. İqtisadiyyatda iri biznesin aparıcı roluna hansı aiddir?",
-      "options": [
-        " istehsalın amortizasiyası",
-        " imkanların məhdud olması",
-        " yaxın strategiyaya malik olmaq",
-        " kadrların ixtisas səviyyəsi",
-        "istehsalın yüksək səviyyədə ictimailəşməsi"
-      ],
-      "answer": "istehsalın yüksək səviyyədə ictimailəşməsi"
-    },
-    {
-      "question": "101. C.Helbreyt kiçik sahibkarı necə xarakterizə edib?",
-      "options": [
-        " Kiçik sahibkar nəticəyə nail olandır.",
-        " Kiçik sahibkar irəlidə gedəndir",
-        " Kiçik sahibkar hər şeyi hiss edəndir.",
-        " Kiçik sahibkar idarəetməni biləndir.",
-        "Kiçik sahibkar müstəqil bir adam kimi məşhurdur."
-      ],
-      "answer": "Kiçik sahibkar müstəqil bir adam kimi məşhurdur."
-    },
-    {
-      "question": "102. Müəssisələrin kiçik, orta və iri sahibkarlığa aid edilməsi hansı ölkələrdə həyata keçirilir?",
-      "options": [
-        " asiya ölkələrində",
-        " avropa ölkələrində",
-        " sosialist ölkələrində",
-        "bazar ölkələrində",
-        " qərb ölkələrində"
-      ],
-      "answer": "bazar ölkələrində"
-    },
-    {
-      "question": "103. Dünya ölkələrinin təcrübəsində sahibkarlıqla məşğul olan müəssisələr hansı göstəricilərə görə təsnifləşdirilir?",
-      "options": [
-        " ümumi milli məhsul, ümumi daxili məhsul, əmək məhsuldarlığı",
-        " işçilərin sayı, məhsuldarlıq, əmək haqqı, vergi dərəcəsi",
-        " fondtutumu, iqtisadi artım, iqtisadi inkişaf, heyətin tərkibi",
-        "işçilərin sayı, əsas kapitalın dəyəri, satlıq məhsulun həcmi, kapital qoyuluşunun həcmi",
-        " işin həcmi, istehsal heyətinin quruluşu, fondverimi"
-      ],
-      "answer": "işçilərin sayı, əsas kapitalın dəyəri, satlıq məhsulun həcmi, kapital qoyuluşunun həcmi"
-    },
-    {
-      "question": "104. Birgə sahibkarlığın məqsədi nədir?",
-      "options": [
-        " divident almaq",
-        " istehlakçı toplamaq",
-        " uğura nail olmaq",
-        "mənfəət əldə etmək",
-        " beynəlxalq bazara çıxış"
-      ],
-      "answer": "mənfəət əldə etmək"
-    },
-    {
-      "question": "105. Xarici investisiyaların cəlb edilməsinin əsas iqtisadi vasitəsi hansıdır?",
-      "options": [
-        " amortizasiya ayırmaları",
-        "vergi güzəştləri",
-        " idxalın səviyyəsi",
-        " informasiya bolluğu",
-        " məşğulluğun səviyyəsi"
-      ],
-      "answer": "vergi güzəştləri"
-    },
-    {
-      "question": "106. Birgə sahibkarlıq məqsədilə həyata keçirilən xarici investisiyalar ölkə iqtisadiyyatında hansı nəticələrə səbəb olur?",
-      "options": [
-        " sosial duruma",
-        " psixoloji inkişafa",
-        " rifah halına",
-        "sosial-iqtisadi nəticələrə",
-        " mədəni inkişafa"
-      ],
-      "answer": "sosial-iqtisadi nəticələrə"
-    },
-    {
-      "question": "107. Sahibkarlıq fəaliyyətinin formalarına hansı aiddir?",
-      "options": [
-        "fərdi, kollektiv, birgə, dövlət",
-        " birgə müəssisə, özəl müəssisə, fərdi sahibkarlıq, tərəfdaş",
-        " özəl, xüsusi, kooperativ, qarışıq",
-        " ictimai, sahə, ərazi, struktur",
-        " beynəlxalq, beynəlmiləl, istehsal, xüsusi"
-      ],
-      "answer": "fərdi, kollektiv, birgə, dövlət"
-    },
-    {
-      "question": "108. Sahibkarlıq fəaliyyətinin səmərəliliyi nədən asılıdır?",
-      "options": [
-        " əmək haqqı, rentabellik, ƏDV, istehsaladan",
-        " fondverimi, fondtutumu, əmək məhsuldarlığından",
-        "iqtisadi şəraitdən, təbii, əmək, kapital və intellektual resurslardan",
-        " müəssisə, şirkət, təşkilat və kooperativlərin sayından",
-        " bazardan, istehlakçıdan, alıcıdan, istehsaldan"
-      ],
-      "answer": "iqtisadi şəraitdən, təbii, əmək, kapital və intellektual resurslardan"
-    },
-    {
-      "question": "109. Sahibkarlıq subyektinin inkişaf səviyyəsinə təsir göstərən amillər:",
-      "options": [
-        " təchizat,satış, xammal, tərəfdaş",
-        " təminat, struktur, xammal, ərazi",
-        "siyasi, iqtisadi, sosioloji, psixoloji",
-        " sosioloji, himayədarlıq, tərəfdaş, sosial",
-        " dövlət dəstəyi, imkanlar, qanun, inam"
-      ],
-      "answer": "siyasi, iqtisadi, sosioloji, psixoloji"
-    },
-    {
-      "question": "110. İri sahibkarlığın təşkilati-hüquqi forması hansıdır?",
-      "options": [
-        " beynəlxalq ticarət",
-        " dünya ticarəti",
-        " beynəlxalq saziş",
-        " bazar",
-        "iri müəssisə"
-      ],
-      "answer": "iri müəssisə"
-    },
-    {
-      "question": "111. Xüsusi sahibkarlığın təşkilati-hüquqi formasına hansı aiddir?",
-      "options": [
-        "müəssisə",
-        " holdinq",
-        " təsərrüfat",
-        " köşk",
-        " mağaza"
-      ],
-      "answer": "müəssisə"
-    },
-    {
-      "question": "112. Sahibkarlıq fəaliyyət xarakterinə görə harda tətbiq edilir?",
-      "options": [
-        " tikinti, xidmət, bələdiyyə",
-        " ticarət, məişət, bazar",
-        " market, dükan, bravo",
-        " anbar, logistika, bazar",
-        "istehsal, kommersiya, xidmət"
-      ],
-      "answer": "istehsal, kommersiya, xidmət"
-    },
-    {
-      "question": "113. Sahibkarlıq fəaliyyət sahəsinə görə hansı sahələrdə həyata keçirilir?",
-      "options": [
-        "sənaye, kənd təsərrüfatı, nəqliyyat, ticarət",
-        " emal, təkrar emal, incəsənnət, birja",
-        " tikinti, xidmət, kosmik, maşınqayırma",
-        " bazar, marketinq, market, birja",
-        " ictimai iaşə, sovxoz, kolxoz, mədəniyyət"
-      ],
-      "answer": "sənaye, kənd təsərrüfatı, nəqliyyat, ticarət"
-    },
-    {
-      "question": "114. Sahibkarlıq fəaliyyət həcminə görə qeyd edilənlərdən hansıdır?",
-      "options": [
-        " transmilli, orta, iri",
-        " kiçik, qarışıq, transmilli",
-        " nəhəng, orta, qarışıq",
-        " beynəlxalq, beynəlmiləl, orta",
-        "kiçik, orta, iri"
-      ],
-      "answer": "kiçik, orta, iri"
-    },
-    {
-      "question": "115. Sahibkarlıq fəaliyyəti mülkiyyət mənsubiyyətinə görə qeyd edilənlərdən hansıdır?",
-      "options": [
-        " qarışıq, kooperativ, ictimai, sosial sahibkarlıq",
-        " özəl, müştərək, sovxoz, qarışıq",
-        " kollektiv, kolxoz, bələdiyyə, sovxoz sahibkarlıq",
-        "fərdi (xüsusi), kollektiv, dövlət, birgə sahibkarlıq",
-        " birgə, dövlət, kooperasiya, özəl sahibkarlıq"
-      ],
-      "answer": "fərdi (xüsusi), kollektiv, dövlət, birgə sahibkarlıq"
-    },
-    {
-      "question": "116. Lizinqin hansı növü fərqləndirilir?",
-      "options": [
-        " avadanlıq lizinqi",
-        " qaytarılma lizinqi",
-        "maliyyə və operativ lizinq",
-        " lizinq müəssisəsi",
-        " sair lizinq"
-      ],
-      "answer": "maliyyə və operativ lizinq"
-    },
-    {
-      "question": "117.",
-      "options": [
-        "bilavasitə əlaqədar olduğu üçün onlarm tələbinə tez bir müddətdə uyğunlaşa bilir\" - bu xüsusiyyətlər aşağıdakılardan hansına aiddir:",
-        " Konsultativ sahibkarlıq",
-        " Biznes-Plan",
-        "Kommersiya sahibkarlığı",
-        " Maliyyə sahibkarlığı"
-      ],
-      "answer": "Kommersiya sahibkarlığı"
-    },
-    {
-      "question": "118. Kommersiya banklarında metodoloji tələbləri və kredit faizini təyin edən qurum:",
-      "options": [
-        " DSMF",
-        "Mərkəzi bank",
-        " Dövlət Gömrük Komitəsi",
-        " Vergilər Nazirliyi",
-        " Milli Elmlər Akademiyası"
-      ],
-      "answer": "Mərkəzi bank"
-    },
-    {
-      "question": "119. “Konsultativ sahibkarlıq” dedikdə nə başa düşülür?",
-      "options": [
-        " tərəflərin razılığı",
-        " düzgün cavab yoxdur",
-        " ikitərəfli saziş",
-        "ödənişli əsaslarla məsləhət",
-        " müqavilə şərtləri"
-      ],
-      "answer": "ödənişli əsaslarla məsləhət"
-    },
-    {
-      "question": "120. Lizinqin neçə növü fərqləndirilir:",
-      "options": [
-        " 6",
-        " 3",
-        " 4",
-        "2",
-        " 5"
-      ],
-      "answer": "2"
-    },
-    {
-      "question": "121. Kommersiya banklarının sırf bank kimi yerinə yetirdiyi vəzifələrə aiddir:",
-      "options": [
-        " tədiyyə dövriyyəsinə xidmət etmək",
-        " dividendlərin və faizlərin verilməsi",
-        " azad pulların qəbul edilməsi",
-        " müxtəlif bazar subyektlərinə (dövlətə, müəssisələrə, əhaliyə) müxtəlif məqsədlərlə müddətli kreditlərin verilməsi",
-        "Bütün variantlar doğrudur"
-      ],
-      "answer": "Bütün variantlar doğrudur"
-    },
-    {
-      "question": "122. Maliyyə sahibkarlığının obyektinə aid olanı seçin:",
-      "options": [
-        " lizinq şirkətləri",
-        " kommersiya bankları",
-        " fond birjaları",
-        "əmtəənin alqı-satqısı prosesi",
-        " sığorta şirkətləri"
-      ],
-      "answer": "əmtəənin alqı-satqısı prosesi"
-    },
-    {
-      "question": "123. Birjanın yerinə yetirdiyi əməliyyatlara aid olmayanı seçin:",
-      "options": [
-        " ticarət mübahisələrini həll etmək",
-        " alqi - satqi ilə bağli əməliyyatlari sürətləndirmək və sadələşdirmək",
-        " məhsulun qiyməti, faydali xüsusiyyətləri haqqında məlumatlari yaymaq",
-        " ticarət sövdələşmələri bağlayanlar arasında vasitəçilik etmək",
-        "süni surətdə birja kursunun enməsi"
-      ],
-      "answer": "süni surətdə birja kursunun enməsi"
-    },
-    {
-      "question": "124. Birjanın yerinə yetirdiyi əməliyyatlara aid olanı seçin:",
-      "options": [
-        " məhsulun qiyməti, faydali xüsusiyyətləri haqqında məlumatlari yaymaq",
-        " alqi - satqi ilə bağli əməliyyatlari sürətləndirmək və sadələşdirmək",
-        " ticarət sövdələşmələri bağlayanlar arasında vasitəçilik etmək",
-        "Bütün variantlar doğrudur",
-        " ticarət mübahisələrini həll etmək"
-      ],
-      "answer": "Bütün variantlar doğrudur"
-    },
-    {
-      "question": "125. İnformasiyanın əsas subyektləri kimi çıxış edirlər:",
-      "options": [
-        " məlumat bankları",
-        " analitik təcrübə orqanları",
-        " bazar infrastrukturları",
-        "Bütün variantlar doğrudur",
-        " ticarət-sənaye palatası"
-      ],
-      "answer": "Bütün variantlar doğrudur"
-    },
-    {
-      "question": "126. İstehsal sahibkarlığı qarşısında dayanan tələblərə aiddir:",
-      "options": [
-        " iqtisadi fəaliyyətə başlamaqdan əvvəl istehsal amillərinin əldə edilməsi",
-        " hazir məhsulun bilavasitə istehlakçilari",
-        " vasitəçi ticarət və nəqliyyat təşkilatlari",
-        "Bütün variantlar doğrudur",
-        " istehsal olunan məhsulun alicmin tələbatma uyğun gəlməsi üçün bazarm marketinqinin aparilmasi"
-      ],
-      "answer": "Bütün variantlar doğrudur"
-    },
-    {
-      "question": "127. İşgüzar informasiyanın əldə edilməsi hansı sistemdən istifadə edilməklə həyata keçirilir?",
-      "options": [
-        " yazılı müraciət sistemindən",
-        " poçt sistemindən",
-        " mobil telefon sistemindən",
-        " faks sistemindən",
-        "elektron kommunikasiya və kompüter sistemindən"
-      ],
-      "answer": "elektron kommunikasiya və kompüter sistemindən"
-    },
-    {
-      "question": "128. Sahibkarlıq fəaliyyəti hansı sahələrdə həyata keçirilir?",
-      "options": [
-        " neft-qaz, daş kömür, neft emalı, idxal-ixrac, aqrar sferada",
-        " istehsal, bölgü, mübadilə, istehlak",
-        " dağ-mədən, filiz, neft emalı, yüngül sənaye, yeyinti sənayesi sferasında",
-        "sənayedə, kənd təsərrüfatında, tikintidə, ticarətdə, maliyyə-bank sferasında",
-        " emal, hasilat, kənd təsərrüfatı, alqı-satqı, nəqliyyat sferasında"
-      ],
-      "answer": "sənayedə, kənd təsərrüfatında, tikintidə, ticarətdə, maliyyə-bank sferasında"
-    },
-    {
-      "question": "129. Audit şirkətlərinin funksiyasına nələr aiddir?",
-      "options": [
-        " qruplaşdırma aparmaq",
-        " kərgüzarlıq işini yerinə yetirmək",
-        " müəssisəni ləğv etmək",
-        " mövcud vəziyyəti qiymətləndirmək",
-        "təsərrüfat fəaliyyətini yoxlamaq və rəy vermək"
-      ],
-      "answer": "təsərrüfat fəaliyyətini yoxlamaq və rəy vermək"
-    },
-    {
-      "question": "130. Audit xidmətinin subyektləri kimlərdir?",
-      "options": [
-        " Qeyri Hökumət Təşkilatları",
-        " ictimai qurumlar",
-        " dövlət strukturları",
-        "sərbəst auditlər və audit şirkətləri",
-        " siyasi partiyalar"
-      ],
-      "answer": "sərbəst auditlər və audit şirkətləri"
-    },
-    {
-      "question": "131. “Konsultant” sözününü mənası nədir?",
-      "options": [
-        " fəaliyyəti başa vurmaq",
-        " problemin üzə çıxarılması",
-        "məsləhət verən",
-        " ekspert xidməti",
-        " alış-veriş"
-      ],
-      "answer": "məsləhət verən"
-    },
-    {
-      "question": "132. Tədiyyə balansı nədir?",
-      "options": [
-        " tədavül xərcləri",
-        " dəyəri ödənilmiş məhsul",
-        "idxalla-ixracın nisbəti",
-        " tədarük edilmiş məhsul",
-        " yola salınmış məhsul"
-      ],
-      "answer": "idxalla-ixracın nisbəti"
-    },
-    {
-      "question": "133. Fond birjaları bazar iqtisadiyyatında hansı rolu oynayır?",
-      "options": [
-        " manometr",
-        " kilometr",
-        " santimetr",
-        "barometr",
-        " voltmetr"
-      ],
-      "answer": "barometr"
-    },
-    {
-      "question": "134. Maliyyə sahibkarlığının subyekti kimi nələr çıxış edir?",
-      "options": [
-        " istehsal obyektləri, müəssisələr",
-        " fabrik və zavodlar",
-        " lizinq şirkətləri, marketin fəaliyyəti",
-        "fond və valyuta birjaları, kommersiya bankları",
-        " tədarük obyektləri, ticarət köşkləri"
-      ],
-      "answer": "fond və valyuta birjaları, kommersiya bankları"
-    },
-    {
-      "question": "135. “Fond birjası” dedikdə nə başa düşülür?",
-      "options": [
-        "qiymətli kağızların alqı-satqısını həyata keçirən bazar",
-        " istiqrazların mübadiləsi",
-        " alqı-satqı işinin təşkili",
-        " qiymətli kağızların istehsalı",
-        " lizinq əməliyyatlarının təşkili"
-      ],
-      "answer": "qiymətli kağızların alqı-satqısını həyata keçirən bazar"
-    },
-    {
-      "question": "136. Bazar iqtisadiyyatı şəraitində reklamın funksiyası:",
-      "options": [
-        "istehsalçı və istehlakçı arasında vasitə",
-        " büllitenin çatdırılması",
-        " ticarət işinin təşkili",
-        " bülletenin çap edilməsi",
-        " sığorta təşkilatlarının yaradılması"
-      ],
-      "answer": "istehsalçı və istehlakçı arasında vasitə"
-    },
-    {
-      "question": "137. Reklam bazar iqtisadiyyatına məxsus olan xidmət növüdür, onun əsasını nə təşkil edir?",
-      "options": [
-        " ictimai münasibətlər",
-        " siyasi münasibətlər",
-        " iqtisadi münasibətlər",
-        " istehsal münasibətləri",
-        "bazar münasibətləri"
-      ],
-      "answer": "bazar münasibətləri"
-    },
-    {
-      "question": "138. Əmtəə birjasında iqtisadi fəaliyyət hansı prinsipə uyğun həyata keçirilir?",
-      "options": [
-        " qeyri-müəyyənlik prinsipi",
-        " ilkin razılaşma prinsipi",
-        " əvvəlcədən ödəniş prinsipi",
-        "birja ticarətinin aşkarlığı prinsipi",
-        " ticarət mübahisələrinin həll prinsipi"
-      ],
-      "answer": "birja ticarətinin aşkarlığı prinsipi"
-    },
-    {
-      "question": "139. “Əmtəə birjası” dedikdə nə başa düşülür?",
-      "options": [
-        " marketinqin idarə edilməsi",
-        " bazar",
-        " yarmarka",
-        "əmtəələrin alqı-satqı prosesi ilə məşğul olan bazarın təşkilati forması",
-        " ictimaiyyətlə əlaqələr"
-      ],
-      "answer": "əmtəələrin alqı-satqı prosesi ilə məşğul olan bazarın təşkilati forması"
-    },
-    {
-      "question": "140. Satış qiyməti satınalma qiymətindən çox olarsa nə baş verər?",
-      "options": [
-        " müəssisə genişlənər",
-        " gəlir aşağı düşər",
-        " müəssisə iflas olar",
-        " istehlakçılar çoxalar",
-        "mənfəət artar"
-      ],
-      "answer": "mənfəət artar"
-    },
-    {
-      "question": "141. Kommersiya sahibkarlığı sahibkarlığın hansı növü ilə sıx əlaqədardır?",
-      "options": [
-        " konsultativ",
-        " marketinq",
-        " innovasiya",
-        "istehsal",
-        " maliyyə"
-      ],
-      "answer": "istehsal"
-    },
-    {
-      "question": "142. Kommersiya sahibkarlığının fərqli cəhətinə aiddir:",
-      "options": [
-        " bazara sərbəst daxilolma",
-        " bazarı zəbt etmək",
-        " müqavilə bağlamadan fəaliyyət",
-        " alqı-satqıda sərbəstlik",
-        "iqtisadi əlaqələrin mürəkkəblik sistemi"
-      ],
-      "answer": "iqtisadi əlaqələrin mürəkkəblik sistemi"
-    },
-    {
-      "question": "143. Kommersiya sahibkarlığının üstün cəhəti hansıdır?",
-      "options": [
-        " işçilərin azlığı",
-        " asan idarəetmə",
-        " öhdəsindən gəlmək",
-        " gəlirin azlığı",
-        "çevikdir"
-      ],
-      "answer": "çevikdir"
-    },
-    {
-      "question": "144. Kommersiya sahibkarlığının təşkilati-hüquqi formasına aiddir:",
-      "options": [
-        " məntəqə",
-        "ticarət firmaları",
-        " pərakəndə satış",
-        " mübadilə",
-        " topdan satış"
-      ],
-      "answer": "ticarət firmaları"
-    },
-    {
-      "question": "145. Kommersiya sahibkarlığına hansılar aiddir?",
-      "options": [
-        " satışın təşkili",
-        " sığorta əməliyyatları",
-        "kommersiya, ticarət xidmətləri",
-        " vergi əməliyyatları",
-        " bank əməliyyatları"
-      ],
-      "answer": "kommersiya, ticarət xidmətləri"
-    },
-    {
-      "question": "146. İnformasiyanın qiyməti vardırmı?",
-      "options": [
-        " xeyr",
-        "bəli",
-        " öyrənməyə dəyər",
-        " düzgün cavab yoxdur",
-        " məlum deyil"
-      ],
-      "answer": "bəli"
-    },
-    {
-      "question": "147. Hazırda işgüzar informasiyanın əldə edilməsi hansı vasitələrdən istifadə etməklə əldə edilir?",
-      "options": [
-        " mobil telefon",
-        " elektron müraciət",
-        "elektron kommunikasiya və kompüter sistemi",
-        " müqavilə",
-        " telefon"
-      ],
-      "answer": "elektron kommunikasiya və kompüter sistemi"
-    },
-    {
-      "question": "148. İnformasiyanın əsas subyekti aşağıdakılardan hansıdır?",
-      "options": [
-        " məntəqə",
-        "sahibkarların birlik və ittifaqları",
-        " menecment",
-        " struktur",
-        " idarə"
-      ],
-      "answer": "sahibkarların birlik və ittifaqları"
-    },
-    {
-      "question": "149. Bazarın infrastruktur elementlərinə daxildir:",
-      "options": [
-        " ticarət köşkü, dükan, mağaza, bravo",
-        "birjalar, audit, reklam, sığorta, lizinq",
-        " su xətti, kanalizasiya, yol, anbar təsərrüfatı",
-        " yol, anbar, nəqliyyat, enerji",
-        " alqı-satqı, ticarət mərkəzi, market, satış məntəqəsi"
-      ],
-      "answer": "birjalar, audit, reklam, sığorta, lizinq"
-    },
-    {
-      "question": "150. Xidmət sferasında sahibkarlığın əsas təşkilati-hüquqi formasına hansı aiddir?",
-      "options": [
-        " ictimai istehsal",
-        " reklam təşkilatı",
-        "agentik və şirkət",
-        " idarəetmə aparatı",
-        " informasiya məlumatı"
-      ],
-      "answer": "agentik və şirkət"
-    },
-    {
-      "question": "151. Qeyri-istehsal təyinatlı xidmət növünə hansı aiddir?",
-      "options": [
-        " servis xidmətləri",
-        " sığorta işinin təşkili",
-        "əhaliyə yönəlmiş xidmət, servis",
-        " marketinqin idarə edilməsi",
-        " ictimai nəqliyyin təmiri"
-      ],
-      "answer": "əhaliyə yönəlmiş xidmət, servis"
-    },
-    {
-      "question": "152. Sahibkarlıq fəaliyyətinin istehsal sferasından kənarda fəaliyyət göstərən növü hansıdır?",
-      "options": [
-        " tədavül",
-        "kommersiya",
-        " marketinq",
-        " əmtəə",
-        " tədarük"
-      ],
-      "answer": "kommersiya"
-    },
-    {
-      "question": "153. İstehsal sahibkarlığı qarşısında duran tələblərə hansı aiddir?",
-      "options": [
-        " tələb və təklif",
-        " müəssisənin strukturunun müəyyənləşdirilməsi",
-        "istehsal amillərinin əldə edilməsi",
-        " idarə heyətinin seçilməsi",
-        " müəssisənin yerinin müəyyənləşdirilməsi"
-      ],
-      "answer": "istehsal amillərinin əldə edilməsi"
-    },
-    {
-      "question": "154. Bazar iqtisadiyyatı şəraitində sahibkarlığın təşkilati-hüquqi formasını nə təşkil edir?",
-      "options": [
-        " birja",
-        "xüsusi və şərikli mülkiyyət üzərində fəaliyyət göstərən müəssisələr",
-        " market",
-        " təşkilat",
-        " bazar"
-      ],
-      "answer": "xüsusi və şərikli mülkiyyət üzərində fəaliyyət göstərən müəssisələr"
-    },
-    {
-      "question": "155. İstehsal sahibkarlığı nədir?",
-      "options": [
-        " yarımfabrikatların istehsala cəlb edilməsi",
-        " işlərin müəyyən edilməsi",
-        " xammalın tədarük edilməsi",
-        " məhsulların təkrar emalı",
-        "müxtəlif növ məhsulların istehsalı"
-      ],
-      "answer": "müxtəlif növ məhsulların istehsalı"
-    },
-    {
-      "question": "156. Sahibkarlıq fəaliyyətinin növlərinə hansı aiddir?",
-      "options": [
-        " istehsal, birja, ticarət, bank",
-        "istehsal, kommersiya, maliyyə, konsultativ",
-        " istehsal, tədarük, emal, satış",
-        " bank, idarəetmə, ticarət, birja",
-        " istehsal, menecment, idarəetmə, maliyyə"
-      ],
-      "answer": "istehsal, kommersiya, maliyyə, konsultativ"
-    },
-    {
-      "question": "157. Danimarkada Antiinhisar qanunvericiliyi nə vaxt qəbul edilmişdir?",
-      "options": [
-        " 1950-ci il",
-        "1937-ci il",
-        " 1940-cı il",
-        " 1955-ci il",
-        " 1944-cü il"
-      ],
-      "answer": "1937-ci il"
-    },
-    {
-      "question": "158. Bazar sistemi ölkələrində inhisarçılıq cəmiyyətə qarşı necə qiymətləndirilir?",
-      "options": [
-        " işsizlik",
-        " bolluq",
-        " azadlıq",
-        "cinayət",
-        " yoxsulluq"
-      ],
-      "answer": "cinayət"
-    },
-    {
-      "question": "159.",
-      "options": [
-        "antiinhisar tənzimlənməsi üzrə tədbirlər neçə yerə bölünür:",
-        " 4",
-        " 6",
-        " 5",
-        " 2"
-      ],
-      "answer": null
-    },
-    {
-      "question": "160. Inhisarçılığın yaranması və inkişafı bazar iqtisadi sistemində necə bir prosesdir?",
-      "options": [
-        " dağıdıcı bir prosesdir",
-        " ədalətsiz bir prosesdir",
-        " ədalətli bir prosesdir",
-        "qanunauyğun bir prosesdir",
-        " tənzimləyici bir prosesdir"
-      ],
-      "answer": "qanunauyğun bir prosesdir"
-    },
-    {
-      "question": "161. Dövlətin atiinhisar tənzimləmə tədbirlərini kimlər həyata keçirir?",
-      "options": [
-        " sex rəisləri",
-        " bələdiyyələr",
-        " idarə heyəti",
-        " direktorlar",
-        "dövlət orqanları"
-      ],
-      "answer": "dövlət orqanları"
-    },
-    {
-      "question": "162. Dövlətin müasir antiinhisar tənzimlənməsi tədbirlərinə aid deyil?",
-      "options": [
-        " düzgün cavab yoxdur",
-        " inzibati-hüquqi tənzimləmə tədbirləri",
-        " inzibati-iqtisadi tənzimləmə tədbirləri",
-        "təhlükəsizliyin təmin edilməsi tədbirləri",
-        " iqtisadi tənzimləmə tədbirləri"
-      ],
-      "answer": "təhlükəsizliyin təmin edilməsi tədbirləri"
-    },
-    {
-      "question": "163. Antiinhisar haqqında qanun hansı problemlərin həllinə yönəldilib?",
-      "options": [
-        "azad bazarın və haqsız rəqabətin təmin edilməsi",
-        " sənədləşmədəki problemlərin aradan qaldırılması",
-        "kərğuzarlıq işinin düzgün təşkili",
-        "",
-        " işsizliyin artmasının qarşısının alınması"
-      ],
-      "answer": "azad bazarın və haqsız rəqabətin təmin edilməsi"
-    },
-    {
-      "question": "164. Sosializm sistemi dağıldıqdan sonra inhisarçılıq əleyhinə qanunlar hansı ölkələrdə qəbul edilmişdir?",
-      "options": [
-        "Polşa, Macarıstan, Çin, Rusiya, Azərbaycan",
-        " Livan, İsrail, Mongolustan, Ermənistan, Gürcüstan",
-        " Braziliya, Argentina, Uruqvay, Meksika, Kanada",
-        " Albaniya, Əlcəzair, Liviya, Koreya, Vyetnam",
-        " Yaponiya, İngiltərə, Türkiyə, Yunanıstan, Kipr"
-      ],
-      "answer": "Polşa, Macarıstan, Çin, Rusiya, Azərbaycan"
-    },
-    {
-      "question": "165. Belçika və Hollandiyada Antiinhisar qanunvericiliyi nə vaxt qəbul edilmişdir?",
-      "options": [
-        " 1933-cü il",
-        " 1945ci il",
-        " 1940-cı il",
-        "1935-ci il",
-        " 1934-cü il"
-      ],
-      "answer": "1935-ci il"
-    },
-    {
-      "question": "166. ABŞ-da 1950-ci ildə qəbul edilmiş Seller-Kefover qanununda nələrə baxılmışdır?",
-      "options": [
-        " yeni qanunun qəbul edilməsi fikri irəli sürülmüşdür",
-        " müqavilələrin şərtlərinin sərtləşdirilməsi müzakirə edilmişdir",
-        "Keyton qanununa yeni əlavələr edilmişdir",
-        " əvvəlki qanunların ləğvi müzakirə edilmişdir",
-        " antiinhisarçılığa qarşı yeni tədbirlər müəyyənləşdirilmişdir"
-      ],
-      "answer": "Keyton qanununa yeni əlavələr edilmişdir"
-    },
-    {
-      "question": "167. Kleyton qanunu nə vaxt qüvvəyə minmişdir?",
-      "options": [
-        " 1900",
-        "1914",
-        " 1908",
-        " 1920",
-        " 1902"
-      ],
-      "answer": "1914"
-    },
-    {
-      "question": "168. Şerman qanununun tələbi nədən ibarət idi?",
-      "options": [
-        " şərtləri pozan müəssisələri cəzalandırmaq",
-        "inhisarlaşdırmaq məqsədi ilə yaradılan ittifaq və ya bağlanmış müqavilə qanunsuz hesab edilir",
-        " qanuna zidd fəaliyyətlərin qarşısını almaq",
-        " təşkilatların fəaliyyətini məhdudlaşdırmaq",
-        " zidd hərəkət edən müəssisələrin fəaliyyətinə xitam vermək"
-      ],
-      "answer": "inhisarlaşdırmaq məqsədi ilə yaradılan ittifaq və ya bağlanmış müqavilə qanunsuz hesab edilir"
-    },
-    {
-      "question": "169. İnhisarçılığa qarşı ABŞ-da qəbul olunmuş qanun necə adlanır?",
-      "options": [
-        " Teylor qanunu",
-        "Şerman qanunu",
-        " Pomeran qanunu",
-        " Keyns nəzəriyyəsi",
-        " X, Y nəzəriyyəsi"
-      ],
-      "answer": "Şerman qanunu"
-    },
-    {
-      "question": "170. İnhisarçılığa qarşı yönəldilmiş ilk qanun harada qəbul edilmişdir?",
-      "options": [
-        " Koreya",
-        "ABŞ",
-        " Rusiya",
-        " Türkiyə",
-        " Hindistan"
-      ],
-      "answer": "ABŞ"
-    },
-    {
-      "question": "171. İnhisarçılığa qarşı yönəldilmiş qanun necə adlanır?",
-      "options": [
-        " əmək qanunu",
-        "antiinhisar qanunu",
-        " əmək məcəlləsi",
-        " konstitusiya qüququ",
-        " mülki qanun"
-      ],
-      "answer": "antiinhisar qanunu"
-    },
-    {
-      "question": "172. İnhisarçılığa qarşı həyata keçirilən fəaliyyət necə adlanır?",
-      "options": [
-        " təmərküzləşmə",
-        "antiinhisar",
-        " ixtisaslaşma",
-        " mübadilə",
-        " kooperasiya"
-      ],
-      "answer": "antiinhisar"
-    },
-    {
-      "question": "173. Dövlət mülkiyyətinin iqtisadiyyatda hökmranlığı hansı cəmiyyətə xasdır?",
-      "options": [
-        " quldarlıq",
-        " kapitalizm",
-        "sosializm",
-        " ibtidai icma",
-        " feodalizm"
-      ],
-      "answer": "sosializm"
-    },
-    {
-      "question": "174. Dövlət inhisarçılığı hansı sahələri əhatə edir?",
-      "options": [
-        " özəl sektoru",
-        "iqtisadiyyatın bütün sahələrini",
-        " bank sektorunu",
-        " kənd təsərrüfatını",
-        " aqrar sahəni"
-      ],
-      "answer": "iqtisadiyyatın bütün sahələrini"
-    },
-    {
-      "question": "175. İnhisarçılıq özünü qabarıq olaraq daha çox harada büruzə verir?",
-      "options": [
-        " şirkətdə",
-        "bazarda",
-        " ictimai yerdə",
-        " sahədə",
-        " müəssisədə"
-      ],
-      "answer": "bazarda"
-    },
-    {
-      "question": "176. İqtisadi təcrübədə inhisarların potensial və real müsbət imkanları qeyd edilir, onlara hansı aiddir?",
-      "options": [
-        " ardıcıl uğurlar haqqında düşünmək",
-        "yeni məhsulların, texnologiyanın yaradılmasına maraq",
-        " bazar payını artırmağa meyllilik",
-        " bazara cəld daxil olmaq",
-        " digərlərini bazardan sıxışdırıb çıxarmaq"
-      ],
-      "answer": "yeni məhsulların, texnologiyanın yaradılmasına maraq"
-    },
-    {
-      "question": "177. İnhisarçılıq nəyin daha çox əldə edilməsinə kömək edir?",
-      "options": [
-        " bazarın",
-        "mənfəətin",
-        " verginin",
-        " sığortanın",
-        " artımın"
-      ],
-      "answer": "mənfəətin"
-    },
-    {
-      "question": "178. Rəqabətli bazar quruluşu fəaliyyət göstərən təsərrüfat subyektlərinin nəyini müəyyən edir?",
-      "options": [
-        " az həcmdə məhsul istehsalını, aşağı əmək məhsuldarlığını",
-        "davranışını, məhsulların qiymətini, mənfəətini, səmərəlilik dərəcələrini",
-        " marketinq fəaliyyətinin səviyyəsini, ictimaiyyətlə əlaqəni",
-        " əmək haqqını, vergini, istehsalın həcmini",
-        " idxalın həcmini, ixracın həcmini, bazar payını"
-      ],
-      "answer": "davranışını, məhsulların qiymətini, mənfəətini, səmərəlilik dərəcələrini"
-    },
-    {
-      "question": "179. İqtisadiyyatın inhisarlaşması səviyyəsinin aşağı olması nəyə təsir edir?",
-      "options": [
-        " birbaşa müəssisənin inkişafına",
-        "rəqabət mühitinin səmərəsinə",
-        " ictimai istehsalın artımına",
-        " zərərin çoxalmasına",
-        " əmək məhsuldarlığına"
-      ],
-      "answer": "rəqabət mühitinin səmərəsinə"
-    },
-    {
-      "question": "180. İnhisarçılığın yaranması və inkişafı bazar iqtisadi sistemində necə bir prosesdir?",
-      "options": [
-        " dağıdıcı",
-        "qanunauyğun",
-        " tənzimləyici",
-        " ötürücü",
-        " təsiredici"
-      ],
-      "answer": "qanunauyğun"
-    },
-    {
-      "question": "181. “Vençur kapitalı” anlayışı ilk dəfə nə vaxt meydana gəlmişdir?",
-      "options": [
-        " XX əsrin 80-ci illərində",
-        "XX əsrin 40-cı illərində",
-        " XX əsrin 50-ci illərində",
-        " XXI əsrin əvvəllərində",
-        " XXI əsrin 20-ci illərində"
-      ],
-      "answer": "XX əsrin 40-cı illərində"
-    },
-    {
-      "question": "182. İnnovasiya sözü mənşəcə hansı dildən götürülmüşdür",
-      "options": [
-        " rus",
-        " ərəb",
-        " Alman",
-        "ingilis",
-        " türk"
-      ],
-      "answer": "ingilis"
-    },
-    {
-      "question": "183. Daxili vençurlar nə zaman geniş yayılmağa başlamışdır:",
-      "options": [
-        " XIX əsrin əvvəllərində",
-        "XX əsrin 70-80-ci illərində",
-        " XX əsrin 30-cu illərində",
-        " XX əsrin 50-ci illərində",
-        " XIX əsrin sonlarında"
-      ],
-      "answer": "XX əsrin 70-80-ci illərində"
-    },
-    {
-      "question": "184. Şumpeterə görə innovasiya prosesi dəyişikliklərinə aid olmayanı seçin:",
-      "options": [
-        " yei xammalın istifadəsi ilə bağlı yeniliklər",
-        " istehsalin təşkilində və onun maddi - texniki təchizat üsullarmda dəyişikliklər",
-        " yeni texnka, yeni texnologiya və istehsalin yeni bazarlarla təmin edilməsi nəticəsində baş verən dəyişiklik;",
-        " yeni xüsusiyyələrə malik məhsulun tədbiqi ilə bağli dəyişikliklər;",
-        "Bütün variantlar doğrudur"
-      ],
-      "answer": "Bütün variantlar doğrudur"
-    },
-    {
-      "question": "185. Vençur kapitalı nə zaman maliyyə kapitalının müsəqil funksional formalarından birinə çevrilmişdir:",
-      "options": [
-        " XIX əsrin sonlarında",
-        " XIX əsrin əvvəllərində",
-        " XX əsrin 50-ci illərində",
-        "XX əsrin 60-70-ci illərində",
-        " XX əsrin 90-cı illərində"
-      ],
-      "answer": "XX əsrin 60-70-ci illərində"
-    },
-    {
-      "question": "186. İnhisarçılığa qarşı yönəldilmiş qanunlara aid deyil:",
-      "options": [
-        " Şerman",
-        " Uebb-Pomeran",
-        " Seller-Kefover",
-        "Uebb-Kefover",
-        " Kleyton"
-      ],
-      "answer": "Uebb-Kefover"
-    },
-    {
-      "question": "187. Yaponiyada innovasiya sahibkarlığının əsas xüsusiyyətlərinə aşağıdakılardan hansı aiddir?",
-      "options": [
-        " idxalın gücləndirilməsi yolu ilə həyat səviyyəsini yaxşılaşdırmaq",
-        " xarici bazarlara çıxışı təmin etmək",
-        " ölkə iqtisadiyyatına, kapital qoyuluşuna nəzarət",
-        "xarici kəşflərdən, ideyalardan, layihələrdən geniş istifadə",
-        " ixracı artırmaqla maliyyə vəziyyətini sabitləşdirmək"
-      ],
-      "answer": "xarici kəşflərdən, ideyalardan, layihələrdən geniş istifadə"
-    },
-    {
-      "question": "188. “Vençur” sözü mənşəcə hansı dildən götürülmüşdür?",
-      "options": [
-        " türk",
-        " rus",
-        "ingilis",
-        " italyan",
-        " alman"
-      ],
-      "answer": "ingilis"
-    },
-    {
-      "question": "189. “Vençur” sözünün mənası nədir?",
-      "options": [
-        " qarışıq müəssisə",
-        " gəlirli müəssisə",
-        " birgə müəssisə",
-        " iri müəssisə",
-        "riskli müəssisə"
-      ],
-      "answer": "riskli müəssisə"
-    },
-    {
-      "question": "190. İdeyanın təhlükəsizliyinə hansı aid deyil?",
-      "options": [
-        " etibarlılığı",
-        " düzgünlüyü",
-        " ətraf mühitə təsiri",
-        " tətbiqinin sosial nəticələri",
-        "tətbiq olunmaması"
-      ],
-      "answer": "tətbiq olunmaması"
-    },
-    {
-      "question": "191. Praktikada hər yeni 10 ideyadan neçəsi istehsalın və satışın son mərhələsinə qədər gəlib çatır?",
-      "options": [
-        " səkkizi",
-        "ikisi",
-        " altısı",
-        " dördü",
-        " onu"
-      ],
-      "answer": "ikisi"
-    },
-    {
-      "question": "192. İnnovasiya aktivliyinin mərkəzi fiqurunu kim təşkil edir?",
-      "options": [
-        " usta",
-        " qaynaqçı",
-        "ixtiraçı",
-        " çilingər",
-        " təmirçi"
-      ],
-      "answer": "ixtiraçı"
-    },
-    {
-      "question": "193. İnnovasiya fəaliyyətinə hansı daxil deyil?",
-      "options": [
-        "qeyri-müəyyənlik",
-        " səmərələşdiricilik",
-        " ixtiraçılıq",
-        " yeni ideyalar",
-        " yeni tədqiqatlar"
-      ],
-      "answer": "qeyri-müəyyənlik"
-    },
-    {
-      "question": "194. İnnovasiya sahibkarlığının fərqli xüsusiyyətinə aid deyil:",
-      "options": [
-        " innovasiya prosesinin üstün cəhətləri",
-        " innovasiya prosesinin tsiklik və ehtimal xarakteri",
-        " yüksək risk dərəcəsi",
-        "əmtəələrin istehsalına çəkilən xərclər",
-        " funksional quruluşunun qeyri-adi çevikliyi"
-      ],
-      "answer": "əmtəələrin istehsalına çəkilən xərclər"
-    },
-    {
-      "question": "195. Sahibkarlığın innovasiya fəaliyyətinin məqsədi nədir?",
-      "options": [
-        " yüksək nəticə əldə etmək",
-        " fond tutumunu artırmaq",
-        " məhsuldarlığı artırmaq",
-        " işçilərin sayını azaltmaq",
-        "mənfəət əldə etmək"
-      ],
-      "answer": "mənfəət əldə etmək"
-    },
-    {
-      "question": "196. “İnnovasiya” anlayışını ilk dəfə iqtisadi kateqoriyalar sisteminə kim gətirmişdir?",
-      "options": [
-        " K.Marks",
-        " V.Lenin",
-        " P.Samuelson",
-        " F.Engels",
-        "Y.Şumpeter"
-      ],
-      "answer": "Y.Şumpeter"
-    },
-    {
-      "question": "197. “İnnovasiya” sözü mənşəcə hansı dildən götürülüb?",
-      "options": [
-        " fars",
-        " rus",
-        " ərəb",
-        "ingilis",
-        " latın"
-      ],
-      "answer": "ingilis"
-    },
-    {
-      "question": "198. İnnovasiya sahibkarlığının formalaşması nələrə səbəb oldu?",
-      "options": [
-        " köhnə avadanlıqların aradan qaldırılmasına",
-        " rentabelliyin aşağı düşməsinə",
-        " fondverimi göstəricilərinin pisləşdirilməsinə",
-        "elm və texnikadan geniş istifadəyə",
-        " fondtutumu göstəricilərinin yaxşılaşdırılmasına"
-      ],
-      "answer": "elm və texnikadan geniş istifadəyə"
-    },
-    {
-      "question": "199. İnnovasiya sahibkarlığının vüsət aldığı dövr?",
-      "options": [
-        " XXI əsrin 22-ci illəri",
-        "XX əsrin 70-ci illəri",
-        " XIX əsrin 90-cı illəri",
-        " XIX əsrin 70-ci illəri",
-        " XXI əsrin 20-ci illəri"
-      ],
-      "answer": "XX əsrin 70-ci illəri"
-    },
-    {
-      "question": "200. Sahibkarlıq fəaliyyətinin xarakteri və istiqaməti nələrlə xarakterizə olunurdu?",
-      "options": [
-        " sahibkarlar ordusunun yaranması, varlı təbəqənin formalaşması",
-        " yeni-yeni sahələrin formalaşması, işsizliyin aradan qaldırılması",
-        "iqtisadi resursların həcmi, çeşidi və onlardan maksimum istifadə",
-        " rəqabət şəraitinin yaranması, haqsız rəqabətin artması",
-        " işsizliyik artması, iqtisadi gərginliyin pisləşməsi"
-      ],
-      "answer": "iqtisadi resursların həcmi, çeşidi və onlardan maksimum istifadə"
-    }
-  ]
+  {
+    "id": 1,
+    "question": "Paket filter paket və ya məlumat ötürülməsi zamanı hansı məlumatlara nəzarət edir?",
+    "options": [
+      " Yalnız mənbə IP ünvanına və TCP portuna",
+      " Yalnız mənbə IP ünvanına və UDP portuna",
+      " Yalnız təyinat IP ünvanına və UDP portuna",
+      " Həm mənbə, həm də təyinat İP ünvanları və TCP / UDP portlarına",
+      " Yalnız təyinat IP ünvanına və TCP portuna"
+    ],
+    "answer": "Həm mənbə, həm də təyinat İP ünvanları və TCP / UDP portlarına"
+  },
+  {
+    "id": 2,
+    "question": "WEP, WPA və WPA2-ni sındırmaq üçün istifadə olunan alətlərə aiddir.",
+    "options": [
+      " Anti NetCut3",
+      " Tinywall",
+      " ZoneAlarm",
+      " Comodo",
+      " coWPAtty"
+    ],
+    "answer": "coWPAtty"
+  },
+  {
+    "id": 3,
+    "question": "Qurğular şəbəkəyə hansı formada qoşula bilər?",
+    "options": [
+      " Host-əsaslı müdaxilə aşkarlama sistemi vasitəsilə",
+      " Təhlükəsizlik divarları vasitəsilə",
+      " Tətbiq şlüzləri vasitəsilə",
+      " Şəbəkə-əsaslı müdaxilə aşkarlama sistemi vasitəsilə",
+      " Simsiz giriş nöqtələri vasitəsilə"
+    ],
+    "answer": "Simsiz giriş nöqtələri vasitəsilə"
+  },
+  {
+    "id": 4,
+    "question": "Şəbəkə-əsaslı müdaxilə aşkarlama sistemlərinin (NIDS) yoxladığı trafik yükünü azaltmaq üçün nə etmək lazımdır?",
+    "options": [
+      " Şəbəkədə yalnız proqram təminatı (software)təhlükəsizlik divarları yerləşdirilməlidir.",
+      " Təhlükəsizlik divarı kimi başqa filtrləmə cihazının arxasına yerləşdirilməlidir.",
+      " Antiviruslardan istifadə olunmalıdır.",
+      " Şəbəkədən keçən trafiki azaltmaq lazımdır.",
+      " Şəbəkədə yalnız hardware təhlükəsizlik divarları yerləşdirilməlidir."
+    ],
+    "answer": "Təhlükəsizlik divarı kimi başqa filtrləmə cihazının arxasına yerləşdirilməlidir."
+  },
+  {
+    "id": 5,
+    "question": "Media Girişinə Nəzarət (MAC) Ünvan Filtrləmə nədir?",
+    "options": [
+      " OSİ modelinin nəqliyyat səviyyəsində qurularaq trafikdəki hər bir paketin məzmununa ayrı-ayrılıqda yoxlayır.",
+      " İntranet şəbəkəsində istifadəçilərin identifikasiyası prosesinin həyata keçirilməsini təmin edən təhlükəsizlik vasitəsidir.",
+      " Texniki avadanlıq və proqram təminatı ilə bağlı problemlərin diaqnostikası və həllinin həyata keçirilməsidir.",
+      " Trafikdəki hər bir paketin məzmununa ayrı-ayrılıqda baxır və çıxış və təyinat IP ünvanlarına, port nömrəsinə və istifadə olunan",
+      " MAC ünvanın simsiz nöqtənin təhlükəsizlik parametrlərinin icazə verilən filtr siyahısına daxil edilməsi və yalnız bu cihazın şəbəkəyə qoşulmasına icazə verilməsidir."
+    ],
+    "answer": "MAC ünvanın simsiz nöqtənin təhlükəsizlik parametrlərinin icazə verilən filtr siyahısına daxil edilməsi və yalnız bu cihazın şəbəkəyə qoşulmasına icazə verilməsidir."
+  },
+  {
+    "id": 6,
+    "question": "Firewallar nə üçün istifadə olunur?",
+    "options": [
+      " Şəbəkədəki müştəri kompütrlərin sistem yenilənmələrini həyata keçirmək üçün",
+      " Cihaz və ya şəbəkə haqqında məlumat toplamaq və bu məlumatları hakerə ötürmək üçün",
+      " Kompüterlərin və internetin sürətini heç bir əlavə alət olmadan bir neçə dəfəyə qədər artırmaq üçün",
+      " Təhlükəsizliyinə şübhə etiyimiz şəbəkə üzrə həm daxili şəbəkəmizlə İnternet arasındakı sərhəddə, həm də daxili şəbəkəmizdə quraşdırmaq üçün",
+      " Texniki avadanlıq və proqram təminatı ilə bağlı problemlərin diaqnostikası və həlli üçün"
+    ],
+    "answer": "Təhlükəsizliyinə şübhə etiyimiz şəbəkə üzrə həm daxili şəbəkəmizlə İnternet arasındakı sərhəddə, həm də daxili şəbəkəmizdə quraşdırmaq üçün"
+  },
+  {
+    "id": 7,
+    "question": "Müştəri və təşkilat arasında qurulur və müştəri mesaj göndərərkən həmin sorğunu alır və onu OSİ modelinin application (tətbiq) səviyyəsində yoxlayır. Bu təhlükəsizlik divarının hansı növüdür",
+    "options": [
+      " Packet Filtering",
+      " Proxy",
+      " Circuit-Level Gateways",
+      " Application Gateways",
+      " Stateful Packet Inspection"
+    ],
+    "answer": "Proxy"
+  },
+  {
+    "id": 8,
+    "question": "Skanerlər (Scanners) ...",
+    "options": [
+      " Penetrasiya testinin həyata keçirildiyi şəbəkə növüdür",
+      " Simsiz şəbəkələr tərəfindən köhnə cihazları dəstəkləmək üçün istifadə edilən təhlükəsizlik standartıdır.",
+      " Yalnız UNIX-ə bənzər əməliyyat sistemlərində şəbəkə qorunma alətidir.",
+      " Şəbəkə və ya protokol analizatorudur, şəbəkədəki trafikə müdaxilə edə bilən bir vasitədir.",
+      " Təhlükəsizlik testi və qiymətləndirilməsi üçün şəbəkə qorunma alətidir."
+    ],
+    "answer": "Təhlükəsizlik testi və qiymətləndirilməsi üçün şəbəkə qorunma alətidir."
+  },
+  {
+    "id": 9,
+    "question": "Simsiz Qorunan Giriş (Wireless Protected Access-WPA) nədir?",
+    "options": [
+      " Hər bir simsiz giriş nöqtəsində olan və cihazlara mövcud şəbəkələri axtarmaq və müəyyən etmək üçün imkan yaradan vasitədir (addır).",
+      " Simsiz şəbəkələr tərəfindən köhnə cihazları dəstəkləmək üçün istifadə edilən təhlükəsizlik standartıdır.",
+      " Təhlükəsizlik testi və qiymətləndirilməsi üçün əsas vasitələrdən biridir.",
+      " Penetrasiya testinin həyata keçirildiyi şəbəkə növüdür",
+      " Şəbəkədəki istifadəçiləri autentifikasiya edən və yalnız təsdiqlənmiş istifadəçilərə simsiz şəbəkələrə qoşulmağa icazə verən vasitədir."
+    ],
+    "answer": "Şəbəkədəki istifadəçiləri autentifikasiya edən və yalnız təsdiqlənmiş istifadəçilərə simsiz şəbəkələrə qoşulmağa icazə verən vasitədir."
+  },
+  {
+    "id": 10,
+    "question": "Paket Filtrləmə (Packet Filtering) təhlükəsizlik divarları necə işləyir?",
+    "options": [
+      " OSI modelin sessiya təbəqəsində, TCP/İP modelinin isə TCP təbəqəsində işləyir.",
+      " OSİ modelinin nəqliyyat səviyyəsində qurularaq trafikdəki hər bir paketin məzmununa ayrı-ayrılıqda yoxlayır.",
+      " Müştəri və təşkilat arasında qurulur və müştəri mesaj göndərərkən həmin sorğunu alır və onu OSİ modelinin application (tətbiq)",
+      " Paketləri fərdi şəkildə deyil, vəziyyət cədvəli adlanan cədvəllərdən istifadə edərək çıxış və təyinat IP ünvanları, istifadə olunan portlar və artıq mövcud şəbəkə trafiki ilə müəyyən edilən verilmiş əlaqə üzərindən trafikə baxa bilir.",
+      "Trafikdəki hər bir paketin məzmununa ayrı-ayrılıqda baxır və çıxış və təyinat IP ünvanlarına, port nömrəsinə və istifadə olunan protokola əsaslanaraq, trafikin keçməsinə icazə verilib-verilməyəcəyini müəyyənləşdirir.."
+    ],
+    "answer": "Trafikdəki hər bir paketin məzmununa ayrı-ayrılıqda baxır və çıxış və təyinat IP ünvanlarına, port nömrəsinə və istifadə olunan protokola əsaslanaraq, trafikin keçməsinə icazə verilib-verilməyəcəyini müəyyənləşdirir."
+  },
+  {
+    "id": 11,
+    "question": "Şəbəkə administratorunun roluna aid deyil.",
+    "options": [
+      " Şəbəkədə zərərli proqramları aşkar etmək və zərərsizləşdirmək",
+      " Şəbəkədə istifadəçi hesablarının avtorizasiyasını həyata keçirmək",
+      " Şəbəkədə istifadəçi hesablarının autentifikasiyasını həyata keçirmək",
+      " Texniki avadanlıq və proqram təminatı ilə bağlı problemlərin diaqnostikası və həlli",
+      " Şəbəkə trafikinin monitorinqini aparmaq"
+    ],
+    "answer": "Texniki avadanlıq və proqram təminatı ilə bağlı problemlərin diaqnostikası və həlli"
+  },
+  {
+    "id": 12,
+    "question": "WAN haqqında deyilən fikirlərdən hansı yanlışdır?",
+    "options": [
+      " Bir-birindən uzun məsafədə olan fərdi kompüterlərin və ya LAN-ların bir-birinə qoşulmasıdır.",
+      " Müxtəlif coğrafi ərazilərdən qoşulan insanların eyni məlumatları əldə edə bilməsinə xidmət edən şəbəkədir.",
+      " Mövcud olan ən böyük WAN İnternetdir.",
+      " Hardware və ya proqram təminatını paylaşmaq üçün yaradılmış şəbəkə növüdür.",
+      " Böyük bir coğrafi əraziyə quraşdırılır və telefon şəbəkəsi və ya radio dalğaları vasitəsilə birləşdirilir."
+    ],
+    "answer": "Hardware və ya proqram təminatını paylaşmaq üçün yaradılmış şəbəkə növüdür."
+  },
+  {
+    "id": 13,
+    "question": "DNS neçənci portdan istifadə edir?",
+    "options": [
+      " 514",
+      " 443",
+      " 53",
+      " 80",
+      " 22"
+    ],
+    "answer": "53"
+  },
+  {
+    "id": 14,
+    "question": "Domen adlar sistemi (DNS) nədir?",
+    "options": [
+      " Domenlərə qadağan olunmuş İP-lərdən daxil olmanı məhdudlaşdıran serverdir.",
+      " Sertifikatsız domen adlar və İP ünvanlar sistemidir.",
+      " Domenləri hücumlardan qorumaq üçün yaradılmış təhlükəsizlik sistemidir.",
+      " İP ünvanların statik və dinamik olmasına qərar verən sistemdir.",
+      " Domen adlarını və onlara bağlı olan İP ünvanları özündə saxlayan serverdir"
+    ],
+    "answer": "Domen adlarını və onlara bağlı olan İP ünvanları özündə saxlayan serverdir"
+  },
+  {
+    "id": 15,
+    "question": "İmzalara əsaslanan Host Əsaslı Müdaxilə Aşkarlama Sistemləri necə işləyir?",
+    "options": [
+      " Lazımsız xidmətləri bloklayaraq şəbəkədəki istifadəçilərin veb resurslardan istifadəsini asanlaşdırır.",
+      " Naməlum təhlükələri müəyyən etmək və zərərli davranışı qeyd etmək üçün maşın öyrənmə üsullarından istifadə edirlər",
+      " İstifadəçilərin identifikasiyası prosesinin həyata keçirilməsini təmin edir.",
+      " Yalnız İntranet şəbəkəsinin qurulması prosesində istifadə olunaraq istifadəçi səlahiyyətlərini özündə saxlayır.",
+      " Məlum təhlükələrin əvvəlcədən proqramlaşdırılmış siyahısından istifadə etməklə fəaliyyət göstərirlər."
+    ],
+    "answer": "Məlum təhlükələrin əvvəlcədən proqramlaşdırılmış siyahısından istifadə etməklə fəaliyyət göstərirlər."
+  },
+  {
+    "id": 16,
+    "question": "Təhlükəsizlik Divarı (Firewall) nədir?",
+    "options": [
+      " Klaviaturada vurulan düymələri izləmək və ya qeyd etmək üçün istifadə edilən hardware və ya proqram təminatına əsaslanan vasitədir",
+      " Sadəcə cihazlara tətbiq oluna bilən təhlükəsizlik tədbirləridir.",
+      " Digər tərəfə sadəcə öz funksiyasını yerinə yetirmək üçün lazım olan mütləq minimum icazənin verilməsidir.",
+      " İstənməyən trafiki aşkar etmək və filtrləmək üçün şəbəkədə host səviyyəsində təhlükəsizlik qatının əlavə edilməsi alətlər dəstidir.",
+      " Lazımsız tətbiqi proqram təminatlarının silinməsi üçün istifadə edilən sistem proqram təminatı vasitəsidir"
+    ],
+    "answer": "İstənməyən trafiki aşkar etmək və filtrləmək üçün şəbəkədə host səviyyəsində təhlükəsizlik qatının əlavə edilməsi alətlər dəstidir."
+  },
+  {
+    "id": 17,
+    "question": "Digər tərəfə sadəcə öz funksiyasını yerinə yetirmək üçün lazım olan mütləq minimum icazənin verilməsi hansı prinsipə əsaslanır?",
+    "options": [
+      " Məxfilik prinsipinə",
+      " Cavabdehlilik prinsipinə",
+      " Bütövlük prinsipinə",
+      " Ən az səlahiyyət prinsipinə",
+      " Faydalılıq prinsipinə"
+    ],
+    "answer": "Ən az səlahiyyət prinsipinə"
+  },
+  {
+    "id": 18,
+    "question": "Host Əsaslı Müdaxilə Aşkarlama Sistemlərinin (HIDS) naməlum təhlükələri müəyyən etmək və zərərli davranışı qeyd etmək üçün maşın öyrənmə üsullarından istifadə etməklə fəaliyyət göstərən növü hansıdır?",
+    "options": [
+      " İmzalara əsaslanan",
+      " Proqram Təminatına əsaslanan",
+      " Şəbəkəyə əsaslanan",
+      " Aparat Təminatına əsaslanan",
+      " Anomaliyalara əsaslanan"
+    ],
+    "answer": "Anomaliyalara əsaslanan"
+  },
+  {
+    "id": 19,
+    "question": "Qeyd edilənlərdən hansı hücum səthini azaltmağın yolu deyil?",
+    "options": [
+      " Lazımsız proqram təminatının silinməsi",
+      " Proqram təminatı yeniləmələrinin vaxtında yerinə yetirilməsi",
+      " Ortaq hesablarda dəyişikliklərin edilməsi",
+      " Yaddaşın düzgün bölüşdürülməsi",
+      " Vacib olmayan xidmətlərin silinməsi və ya söndürülməsi"
+    ],
+    "answer": "Yaddaşın düzgün bölüşdürülməsi"
+  },
+  {
+    "id": 20,
+    "question": "Rootkit troyan -",
+    "options": [
+      " uzaq şəbəkə bağlantısı vasitəsilə kompüterinizə tam nəzarət edə bilər",
+      " şəbəkəni trafiklə dolduraraq əməliyyatları ləğv edir",
+      " antivirus proqramı kimi görünür, lakin içərisində zərərli proqramı gizlədir",
+      " zərərli proqramın cihazınızda işləmə müddətini uzatmaq üçün obyekti gizlətmək və məqsədi daşıyır",
+      " IM platformalarında login və parollarınızı oğurlayır"
+    ],
+    "answer": "zərərli proqramın cihazınızda işləmə müddətini uzatmaq üçün obyekti gizlətmək və məqsədi daşıyır"
+  },
+  {
+    "id": 21,
+    "question": "Botnet nədir?",
+    "options": [
+      " Xüsusi tarifli nömrələr ilə telefon əlaqəsi yaratmağa çalışan bir proqramdır",
+      " Klaviaturada vurulan düymələri izləmək və ya qeyd etmək üçün istifadə edilən hardware və ya proqram təminatına əsaslanan vasitədir",
+      " Qurban haqqında şəxsi məlumatları toplayıb nümayiş etdirdikləri reklamları fərdiləşdirmək üçün vasitədir.",
+      " Cihaz və ya şəbəkə haqqında məlumat toplayan və bu məlumatları hakerə ötürən vasitədir.",
+      " Zərərli proqramı yaymaq üçün istifadə olunan yoluxmuş kompüterlər şəbəkəsidir."
+    ],
+    "answer": "Zərərli proqramı yaymaq üçün istifadə olunan yoluxmuş kompüterlər şəbəkəsidir."
+  },
+  {
+    "id": 22,
+    "question": "- zərərli kodu icra edilə bilən fayllara daxil edir.",
+    "options": [
+      " Backdoor Trojan",
+      " Trojan IM",
+      " Ransom Trojan",
+      " Polimorf virus",
+      " Fayl infeksiyası virusu"
+    ],
+    "answer": "Fayl infeksiyası virusu"
+  },
+  {
+    "id": 23,
+    "question": "Proqram təminatı təhlükəsizliyinin əsas texnikalarına aid olmayanları seçin: 1.Müdafiəçi proqramlaşdırma 2.Əmr inyeksiyası 3.Sandboxing 4.SQL inyeksiyaları 5.Təhdid modelləşdirmə 6.Buferin yüklənməsi",
+    "options": [
+      " 2,4,5",
+      " 1,3,5",
+      " 2,3,4",
+      " 1,3,6",
+      " 2,4,6"
+    ],
+    "answer": "2,4,6"
+  },
+  {
+    "id": 24,
+    "question": "Veb skript virusu necə işləyir?",
+    "options": [
+      " zərərli kodu icra edilə bilən fayllara — sistemdə müəyyən funksiyaları və ya əməliyyatları yerinə yetirmək üçün istifadə edilən fayllara daxil edir",
+      " proqram təminatı üçün istifadə olunan eyni makro dildə yazılır",
+      " Tərkibində virus olan faylı işlətdiyiniz zaman işə düşür",
+      " hər dəfə yoluxmuş fayl icra edildikdə kodunu dəyişir",
+      " Veb-brauzerlərin və veb səhifələrin kodundan istifadə edir"
+    ],
+    "answer": "Veb-brauzerlərin və veb səhifələrin kodundan istifadə edir"
+  },
+  {
+    "id": 25,
+    "question": " ... proqram təminatının potensial risklər altında düzgün işləməyə davam etməsi üçün proqramı zərərli hücumdan və digər hücum risklərindən qorumaq üçün həyata keçirilən prosesdir.",
+    "options": [
+      " Kibercinayətkarlıq.",
+      "  Hardware təhlükəsizliyi",
+      " Hijacking",
+      " Proqram təminatının təhlükəsizliy",
+      " tHacking"
+    ],
+    "answer": "Proqram təminatının təhlükəsizliyi"
+  },
+  {
+    "id": 26,
+    "question": "Fayl üçün hər bir istifadəçi sinfinə verilə biləcək icazələrə aid deyil:",
+    "options": [
+      " İnkar etmək - Denied",
+      " Oxumaq - Read",
+      " Yazmaq - Write",
+      " Silmək - Delete",
+      " İcra etmək - Execute"
+    ],
+    "answer": "Silmək - Delete"
+  },
+  {
+    "id": 27,
+    "question": "Qovluğun və ya Diskin şifrələnməsi hansı məhdudiyyətləri qoyur?",
+    "options": [
+      " Verilənlərin ələ keçirildiyi zaman məlumatın nəzərdə tutulan alıcısı olmayan hər kəsin məlumatı açıb oxumasının qarşısını alır.",
+      " Şəxsi və məxfi məlumatların yalnız nəzərdə tutulan alıcı tərəfindən baxılmasını təmin edir.",
+      " Məlumatların bütövlüyünü təmin edir və məlumatlarınızın hər hansı icazəsiz dəyişdirilməsinin qarşısını alır.",
+      " Şifrənizi unudulduğu zaman, məlumatların bərpa edilməsində problemlər yaranır.",
+      " Şifrələmə sizə sənədin müəllifinin kim olduğunu yoxlamağa imkan verir."
+    ],
+    "answer": "Şifrənizi unudulduğu zaman, məlumatların bərpa edilməsində problemlər yaranır."
+  },
+  {
+    "id": 28,
+    "question": "Sosial Mühəndislik Metodu hansıdır?",
+    "options": [
+      " Skimming",
+      " Information Diving",
+      " Dumpster Diving",
+      " Pretexting",
+      " Fişinq"
+    ],
+    "answer": "Fişinq"
+  },
+  {
+    "id": 29,
+    "question": "Aşağıdakılardan hansı Bulud Komputinqdə təhdid sayıla bilər?",
+    "options": [
+      " Farminq",
+      " Skimminq",
+      " Çiyin Sörfinqi",
+      " Fişinq",
+      " Məxfiliyin Potensial İtkisi"
+    ],
+    "answer": "Məxfiliyin Potensial İtkisi"
+  },
+  {
+    "id": 30,
+    "question": "Data təhlükəsizliyi üçün əsas təhlükələrə aid deyil:",
+    "options": [
+      " Xətalı disklər və disk sürücüləri",
+      " Verilənlərin təsadüfi silinməsi və ya üzərinə yazılması",
+      " Kompüter virusları",
+      " Bulud komputinq",
+      " Sistem qəzaları və hard disk qəzaları"
+    ],
+    "answer": "Bulud komputinq"
+  },
+  {
+    "id": 31,
+    "question": "Data nədir?",
+    "options": [
+      " korporativ məlumatların qorunması və icazəsiz giriş vasitəsilə məlumat itkisinin qarşısının alınması prosesidir.",
+      " qeyri-qanuni olaraq həssas məlumatları əldə etmək məqsədi ilə insanları manipulyasiya etmək və ya təsir etmək üsuludur.",
+      " istifadəçilərə resursları və məlumatları istənilən vaxt və istənilən yerdə digər cihazlarla paylaşmağa imkan verən internet əsaslı komputinq xidmetinin bir novudur",
+      " emal edilməmiş və qeyri-mütəşəkkil faktlar və rəqəmlərdir",
+      " maliyyə və ya şəxsi mənfəət üçün qeyri-qanuni fəaliyyətlər həyata keçirmək üçün internetdən və ya kompüterdən istifadədir."
+    ],
+    "answer": "emal edilməmiş və qeyri-mütəşəkkil faktlar və rəqəmlərdir"
+  },
+  {
+    "id": 32,
+    "question": "Məxfilik ...",
+    "options": [
+      " məlumatların saxlandığı mühitin fiziki vəziyyətinə aiddir.",
+      " məlumatların həqiqi, etibarlı olmasını və pozulmamasını və dəyişdirilməməsini təmin etmək deməkdir.",
+      " Parker heksadının yeganə prinsipidir ki, ikili xarakter daşımır.",
+      " informasiyaya giriş hüququ olan istifadəçilər qrupunun təyini, informasiyanın istifadəsi və onun saxlandığı, emal edildiyi və ötürüldüyü sistemlərə icazəsiz müdaxilələrə məhdudiyyətlərin qoyulmasıdır",
+      " məlumatın sahibi və ya yaradıcısı kimi düzgün atributlara aiddir."
+    ],
+    "answer": "informasiyaya giriş hüququ olan istifadəçilər qrupunun təyini, informasiyanın istifadəsi və onun saxlandığı, emal edildiyi və ötürüldüyü sistemlərə icazəsiz müdaxilələrə məhdudiyyətlərin qoyulmasıdır"
+  },
+  {
+    "id": 33,
+    "question": "İnformasiya Təhlükəsizliyi Təlimatları nədir?",
+    "options": [
+      " İnformasiyaya giriş hüququ olan istifadəçilər qrupunun təyini, informasiyanın istifadəsinə, onun saxlandığı, emal edildiyi və ötürüldüyü sistemlərə kənardan müdaxilələrə məhdudiyyətlərin qoyulmasıdır.",
+      " Rəsmi təsdiq prosesi olmadan paylaşılan məlumatlardır.",
+      " Seçilmiş sahə və ya tətbiq üçün minimum təhlükəsizlik nəzarətləri",
+      " Seçilmiş metodlara, texnikalara və cihazlara müraciət edən informasiya təhlükəsizliyi siyasətlərində təhlükəsizlik tələblərinin təkmilləşdirilməsidir, tətbiqi məcburidir.",
+      " Seçilmiş metodlara, texnikalara və cihazlara müraciət edən informasiya təhlükəsizliyi siyasətlərində təhlükəsizlik tələblərinintəkmilləşdirilməsidir, lakin tətbiqi məcburi deyil"
+    ],
+    "answer": " Seçilmiş metodlara, texnikalara və cihazlara müraciət edən informasiya təhlükəsizliyi siyasətlərində təhlükəsizlik tələblərinintəkmilləşdirilməsidir, lakin tətbiqi məcburi deyil"
+  },
+  {
+    "id": 34,
+    "question": "Qeyd edilən Parker altılığı prinsiplərindən hansı CIA üçlüyünə daxil deyil?",
+    "options": [
+      " Əlçatanlıq",
+      " Tamlıq",
+      " Məxfilik",
+      " Bütövlük",
+      " Həqiqilik"
+    ],
+    "answer": "Həqiqilik"
+  },
+  {
+    "id": 35,
+    "question": "Aşağıdakılardan hansı verilənlər bazası sistemidir?",
+    "options": [
+      " Android",
+      " Python",
+      " Angular",
+      " PostgreSQL",
+      " Fedora"
+    ],
+    "answer": "PostgreSQL"
+  },
+  {
+    "id": 36,
+    "question": "Aşağıdakılardan hansı verilənlər bazası sistemidir?",
+    "options": [
+      " MS Sql",
+      " C#",
+      " Linux",
+      " Swift",
+      " Angular"
+    ],
+    "answer": "MS Sql"
+  },
+  {
+    "id": 37,
+    "question": "Aşağıdakılardan hansı verilənlər bazası sistemidir?",
+    "options": [
+      " Anaconda",
+      " Linux",
+      " Solaris",
+      " Oracle",
+      " Python"
+    ],
+    "answer": "Oracle"
+  },
+  {
+    "id": 38,
+    "question": "Aşağıdakılardan hansı kodun təhlükəsizliyini təmin etmək üçün ən yaxşı təcrübələrdən hesab olunmur?",
+    "options": [
+      " Doğrulama və parolun idarə edilməsi",
+      " Rabitə Təhlükəsizliyi",
+      " Verilənlərin daxil edilməsinin yoxlanılması",
+      " Steqanoqrafik Təcrübələr",
+      " Kriptoqrafik Təcrübələr"
+    ],
+    "answer": "Steqanoqrafik Təcrübələr"
+  },
+  {
+    "id": 39,
+    "question": "Aşağıdakılardan hansı ümumi təhlükələr qrupuna aid edilə bilər?",
+    "options": [
+      " Daxili və xarici istifadəçilər üçün ayrı serverlərdən istifadə",
+      " Veb səhifələri və proqramları sınamaq və sazlamaq üçün ayrıca serverdən istifadə",
+      " Həssas məlumat oğurluğu",
+      " DDOS",
+      " Watchfire kimi proqram skanerlərindən istifadə etmə"
+    ],
+    "answer": "Həssas məlumat oğurluğu"
+  },
+  {
+    "id": 40,
+    "question": "Aşağıdakılardan hansı ümumi təhlükələr qrupuna aid edilə bilər?",
+    "options": [
+      " DDOS",
+      " Watchfire kimi proqram skanerlərindən istifadə etmə",
+      " Daxili və xarici istifadəçilər üçün ayrı serverlərdən istifadə",
+      " Saytlararası sorğu saxtakarlığı (CSRF)",
+      " Veb səhifələri və proqramları sınamaq və sazlamaq üçün ayrıca serverdən istifadə"
+    ],
+    "answer": "Saytlararası sorğu saxtakarlığı (CSRF)"
+  },
+  {
+    "id": 41,
+    "question": "Koda təsir edən təhlükəsizlik zəifliklərini seçin: 1.Qeyri- kafi logging və monitorinq; 2.Injection Flaws; 3.Saytlararası Skriptləmə (XSS)",
+    "options": [
+      "1.2.0",
+      " 3",
+      " 1.30",
+      " 2.30",
+      "1,2,3"
+    ],
+    "answer": "1,2,3"
+  },
+  {
+    "id": 42,
+    "question": "Aşağıdakılardan hansı ümumi təhlükələr qrupuna aid edilə bilər?",
+    "options": [
+      " Daxili və xarici istifadəçilər üçün ayrı serverlərdən istifadə",
+      " Veb səhifələri və proqramları sınamaq və sazlamaq üçün ayrıca serverdən istifadə",
+      "Saytlararası skript (XSS)",
+      " Watchfire kimi proqram skanerlərindən istifadə etmə",
+      " DDOS"
+    ],
+    "answer": "Saytlararası skript (XSS)"
+  },
+  {
+    "id": 43,
+    "question": "Təhlükəsiz proqramlaşdırma dedikdə nəzərdə tutulan anlayış aşağıdakılardan hansıdır?",
+    "options": [
+      " Təhlükəsiz proqramlaşdırma proqram təminatında kodların yazılması üsuludur",
+      " Sistem üçün mümkün təhlükələrin araşdırılması üsullarına təhlükəsiz proqramlaşdırma deyilir",
+      " Təhlükəsiz proqramlaşdırma iş masasının təhlükəsizliyinin təmin edilməsi üsullarından biridir",
+      " Təhlükəsiz proqramlaşdırma hər cür zəifliklərdən, hücumlardan və ya proqram təminatına və ondan istifadə edən sistemə zərər verə biləcək hər hansı bir prosesdən qorunmaq üçün proqram təminatında kodların yazılması üsuludur",
+      " Təhlükəsiz proqramlaşdırma iş masasında yerləşən proqram təminatlarının hazırlanma qaydalarını öyrənən elm sahəsidir"
+    ],
+    "answer": "Təhlükəsiz proqramlaşdırma hər cür zəifliklərdən, hücumlardan və ya proqram təminatına və ondan istifadə edən sistemə zərər verə biləcək hər hansı bir prosesdən qorunmaq üçün proqram təminatında kodların yazılması üsuludur"
+  },
+  {
+    "id": 44,
+    "question": "Aşağıdakılardan hansı proqramlaşdırma dilidir?",
+    "options": [
+      " Django",
+      " Redis",
+      " Centos",
+      " Ubuntu",
+      "PHP"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "id": 45,
+    "question": "Aşağıdakılardan hansı proqramlaşdırma dilidir?",
+    "options": [
+      " Centos",
+      " Oracle",
+      " Pycharm",
+      " Swift",
+      " Fedora"
+    ],
+    "answer": "Swift"
+  },
+  {
+    "id": 46,
+    "question": "Aşağıdakılardan hansı proqramlaşdırma dilidir?",
+    "options": [
+      " C++",
+      " MS SQL",
+      " Pycharm",
+      " Linux",
+      " Centos"
+    ],
+    "answer": "C++"
+  },
+  {
+    "id": 47,
+    "question": "Aşağıdakılardan hansı proqramlaşdırma dilidir?",
+    "options": [
+      " Linux",
+      " Oracle",
+      " Java",
+      " Redis",
+      " My SQL"
+    ],
+    "answer": "Java"
+  },
+  {
+    "id": 48,
+    "question": "Aşağıdakılardan hansı proqramlaşdırma dilidir?",
+    "options": [
+      " Windows",
+      " Numpy",
+      " Ubuntu",
+      " C#",
+      " Scatter"
+    ],
+    "answer": "C#"
+  },
+  {
+    "id": 49,
+    "question": "Aşağıdakılardan hansı proqramlaşdırma dilidir?",
+    "options": [
+      " Pycharm",
+      " Centos",
+      " Matplotlib",
+      " Eclipse",
+      " Python"
+    ],
+    "answer": "Python"
+  },
+  {
+    "id": 50,
+    "question": "Aşağıdakılardan hansı proqramlaşdırma dilidir?",
+    "options": [
+      " Kotlin",
+      " Solaris",
+      " Anaconda",
+      " Linux",
+      " Pycharm"
+    ],
+    "answer": "Kotlin"
+  },
+  {
+    "id": 51,
+    "question": "Etibarsız agentlər hədəflənmiş sistemdə öz skriptlərini icra etmək üçün saytlararası skript qüsurlarından istifadə edə bilərlər. - bukoda təsir edən hansı təhlükəsizlik zəifliyi hesab olunur?",
+    "options": [
+      " Məlum Zəiflikləri Olan Komponentlərdən İstifadə:",
+      " Injection Flaws",
+      " Qeyri- kafi logging və monitorinq",
+      " Saytlararası Skriptləmə (XSS)",
+      " Həssas Məlumatlara məruz qalma"
+    ],
+    "answer": "Saytlararası Skriptləmə (XSS)"
+  },
+  {
+    "id": 52,
+    "question": "Komponent həssasdırsa, o, etibarsız agent tərəfindən istismar edilə bilər  - bu koda təsir edən hansı təhlükəsizlik zəifliyi hesab olunur?",
+    "options": [
+      " Saytlararası Skriptləmə (XSS)",
+      " Məlum Zəiflikləri Olan Komponentlərdən İstifadə",
+      " Injection Flaws",
+      " Qeyri- kafi logging və monitorinq",
+      " Həssas Məlumatlara məruz qalma "
+    ],
+    "answer": "Məlum Zəiflikləri Olan Komponentlərdən İstifadə"
+  },
+  {
+    "id": 53,
+    "question": "Həssas məlumatlar – məsələn, ünvanlar, parollar və hesab nömrələri – lazımi qaydada qorunmalıdır  - bu koda təsir edən hansı təhlükəsizlik zəifliyi hesab olunur?",
+    "options": [
+      " Həssas Məlumatlara məruz qalma",
+      " Saytlararası Skriptləmə (XSS)",
+      " Qeyri- kafi logging və monitorinq",
+      " Injection Flaws",
+      " Məlum Zəiflikləri Olan Komponentlərdən İstifad"
+    ],
+    "answer": " Məlum Zəiflikləri Olan Komponentlərdən İstifad"
+  },
+  {
+    "id": 54,
+    "question": "Injection qüsurları etibarsız məlumatlar əmr və ya sorğunun bir hissəsi kimi göndərildikdə baş verir  - bu koda təsir edən hansı təhlükəsizlik zəifliyi hesab olunur",
+    "options": [
+      " təhlükəsizlik zəifliyi hesab olunur?",
+      " Injection Flaws",
+      " Həssas Məlumatlara məruz qalma",
+      " Qeyri- kafi logging və monitorinq",
+      " Saytlararası Skriptləmə (XSS)"
+    ],
+    "answer": "Injection Flaws"
+  },
+  {
+    "id": 55,
+    "question": "Məlumatlara məntiqi və ya kompüter əsaslı girişə icazə verilməsi və ya rədd edilməsi dedikdə nə başa düşülür?",
+    "options": [
+      " Məntiqi girişə nəzzarət",
+      " Giriş nöqtəsi",
+      " Atribut əsaslı giriş nəzarəti",
+      " Fiiki girişə nəzarət",
+      " İdarəetmə paneli"
+    ],
+    "answer": "Məntiqi girişə nəzzarət"
+  },
+  {
+    "id": 56,
+    "question": "Fiziki giriş nəzarəti nədir?",
+    "options": [
+      " məkana girişin selektiv məhdudlaşdırılmasıdır.",
+      " istifadəçinin kimliyini təsdiq etdikdən sonra, ona sistem üzərində nə etməyə icazə verildiyini müəyyən ediməsidir",
+      " Bir şəxsə və ya sistemə bir resursa giriş icazəsi verdikdən sonra bu giriş icazəsini əlindən alınmasıdır.",
+      " məlumatlara məntiqi və ya kompüter əsaslı girişə icazə vermək və ya rədd etmək vasitəsidir.",
+      " şəxsə lazım olan funksiyaları yerinə yetirmək imkanı vermək üçün yalnız minimum girişə icazə verilməsidir."
+    ],
+    "answer": "məkana girişin selektiv məhdudlaşdırılmasıdır."
+  },
+  {
+    "id": 57,
+    "question": "Qarşılıqlı autentifikasiya çoxfaktorlu autentifikasiya ilə birlikdə istifadə edildiyi zaman çoxfaktorlu autentifikasiya harada baş verməlidir?",
+    "options": [
+      " yalnız müştəri tərəfində",
+      " həm müştəri, həm server tərəfində",
+      " ikisinin birlikdə istifadəsi mümkün deyil",
+      " serverdən müştəriyə doğru",
+      " yalnız serverde"
+    ],
+    "answer": "yalnız müştəri tərəfində"
+  },
+  {
+    "id": 58,
+    "question": "- şəxs və ya proses kimi hər hansı istifadəçinin və ya tətbiqin unikal şəkildə müəyyən edilməsi vasitəsidir.",
+    "options": [
+      " Qarşılıqlı autentifikasiya",
+      " Çoxfaktorlu autentifikasiya",
+      " Autentifikasiya",
+      " Avtorizasiya",
+      "İdentifikasiya"
+    ],
+    "answer": "İdentifikasiya"
+  },
+  {
+    "id": 59,
+    "question": "Qoşulmuş (Connected) Tokenlər necə işləyirlər?",
+    "options": [
+      "Cihaza qoşulmağa və ya hər hansı giriş kodunu daxil etməyə ehtiyac olmadan simsiz əlaqə yaradır və sistem ya girişə icazə verir, ya da redd edir",
+      "Fiziki və məntiqi əlaqəyə, həmçinin xüsusi daxiletmə qurğusuna ehtiyac olmadan, istifadəçinin daxil etdiyi autentifikasiyaməlumatlarını göstərmək üçün ekrandan istifadə edilən token növüdür.",
+      "Fiziki və məntiqi əlaqəyə ehtiyac olmadan, radiotezlik identifikasiyası vasitəsilə autentifikasiya məlumatını ötürür",
+      "Hər hansı fiziki əlaqə tələb etmədən məntiqi əlaqə yaratmaqla, radiotezlik identifikasiyası vasitəsilə autentifikasiya məlumatını ötürən token növüdür.",
+      "Fiziki əlaqə vasitəsilə hardware təhlükəsizlik nişanını oxucuya sürüşdürməyi tələb edir və cihazın autentifikasiya məlumatını sistemə avtomatik daxil edir."
+    ],
+    "answer": "Fiziki əlaqə vasitəsilə hardware təhlükəsizlik nişanını oxucuya sürüşdürməyi tələb edir və cihazın autentifikasiya məlumatını sistemə avtomatik daxil edir."
+  },
+  {
+    "id": 60,
+    "question": "Universallıq nəyə əsasən seçilən biometrik amildir?",
+    "options": [
+      " Müəyyən bir xüsusiyyətin zamanla və yaşla dəyişməyə nə qədər müqavimət göstərməsinə əsasən",
+      " Müəyyən bir xüsusiyyətin fərdlər arasında nə qədər unikal olduğuna əsasən",
+      " hər hansı bir xüsusiyyətin sistemin istifadəçiləri tərəfindən nə dərəcədə qəbul ediləbilən olmasına əsasən",
+      " İstifadəçini daha sonra autentifikasiya edə biləcəyimiz bir xüsusiyyət əldə etməyin asanlıq dərəcəsinə əsasən",
+      "Sistem istifadəçilərinin hamısında mövcud olacaq biometrik xüsusiyyətə əsasən"
+    ],
+    "answer": "Sistem istifadəçilərinin hamısında mövcud olacaq biometrik xüsusiyyətə əsasən"
+  },
+  {
+    "id": 61,
+    "question": "Autentifikasiyanın hansı faktoru fərdin unikal fiziki atributlarına, yəni biometrik məlumatlara əsaslanır?",
+    "options": [
+      " Olduğunuz bir yer",
+      " Bildiyiniz bir şey",
+      " Sahib olduğunuz bir şey",
+      " Olduğunuz bir şey",
+      " Etdiyiniz bir şey"
+    ],
+    "answer": "Olduğunuz bir şey"
+  },
+  {
+    "id": 62,
+    "question": "Autentifikasiya dedikdə nə başa düşülür?",
+    "options": [
+      " İstifadəçilərin 3-cü tərəf tətbiqlərin API-lərini mövcud sistemə quraşdırması üçün vasitədir.",
+      " Sistemə daxil olan istifadəçinin iddia etdiyi şəxs olduğunu sübut etməsi ilə şəxsiyyətinin təsdiqlənməsi prosesidir.",
+      " Şəxs və ya proses kimi hər hansı istifadəçinin və ya tətbiqin unikal şəkildə müəyyən edilməsi vasitəsidir.",
+      "İstifadəçi girişləri müxtəlif istifadəçi hesabları ilə doğrulandıqdan sonra onlara şəxsiyyətlərinə görə müxtəlif resurslara giriş icazəsi",
+      ""
+    ],
+    "answer": "Sistemə daxil olan istifadəçinin iddia etdiyi şəxs olduğunu sübut etməsi ilə şəxsiyyətinin təsdiqlənməsi prosesidir."
+  },
+  {
+    "id": 63,
+    "question": "Twofish-i digər şifrələmə alqoritmlərindən fərqləndirən əsas xüsusiyyət nədir?",
+    "options": [
+      " Əvəzetmə-permütasiya şəbəkəsi prinsipinə əsaslanması",
+      " Əməliyyatları bitlərlə deyil, verilənlərin baytları üzərində həyata keçirməsi",
+      " 128 bitlik açar üçün 12 dövrdən istifadə etməsi",
+      " Əvvəlcədən hesablanmış, açardan asılı əvəzetmə qutularından (S qutuları) istifadə etməsi",
+      " Açar uzunluğunu ikiqat artırmaq performansı zəiflətsə də, gücün eksponensial artması"
+    ],
+    "answer": "Əvvəlcədən hesablanmış, açardan asılı əvəzetmə qutularından (S qutuları) istifadə etməsi"
+  },
+  {
+    "id": 64,
+    "question": "Hash funkisyalarında toqquşma müaviməti xassəsi nəyi təmin edir?",
+    "options": [
+      " Əgər h hash funksiyası z hash dəyərini yaradıbsa, o zaman z-ə hash edən hər hansı x giriş dəyərini tapmaq çətin proses olmalıdır.",
+      " Bir giriş və hash verildiyi zaman, eyni hash ilə fərqli bir giriş tapmaq çətin olmalıdır.",
+      " giriş dəyərinə və onun hashinə malik olan və fərqli dəyəri orijinal daxilolma dəyərinin yerinə qanuni dəyər kimi əvəz etmək istəyən təcavüzkardan qoruyur.",
+      " Eyni hash ilə nəticələnən istənilən uzunluqda iki fərqli girişi tapmaq çətin olmalıdır",
+      " Hash funksiyasını geri qaytarmaq hesablama baxımından çətin olmalıdır."
+    ],
+    "answer": " Eyni hash ilə nəticələnən istənilən uzunluqda iki fərqli girişi tapmaq çətin olmalıdır"
+  },
+  {
+    "id": 65,
+    "question": "3 açarlı 3DES alqoritmi ilə şifrələmə zamanı -",
+    "options": [
+      " 2-ci açarın çıxışı şifrəli mətn hesab olunur.",
+      " K1 açarı ilə tək DES istifadə edərək şifrəli mətn bloklarının şifrəsi açılır..",
+      " K2 açarı ilə tək DES istifadə edərək 1-ci addımın çıxışı şifrələnir.",
+      " K1 açarı ilə tək DES istifadə edərək açıq mətn blokları şifrələnir.",
+      " K1 açarı ilə tək DES istifadə edərək ilkin açıq mətn blokları şifrələnir."
+    ],
+    "answer": "K1 açarı ilə tək DES istifadə edərək açıq mətn blokları şifrələnir."
+  },
+  {
+    "id": 66,
+    "question": "Təhlükəsiz Hash Funksiyası olan SHA-2-nin hansı variantı yoxdur?",
+    "options": [
+      " SHA-384",
+      " SHA-512",
+      " SHA-224",
+      " SHA-256",
+      "SHA-128"
+    ],
+    "answer": "SHA-128"
+  },
+  {
+    "id": 67,
+    "question": "Hash funksiyalarının xüsusiyyətlərinə aid deyil.",
+    "options": [
+      " Uzunlu çıxışı, yəni hash dəyəri sabit olur.",
+      " N bit çıxışı olan hash funksiyası n-bit hash funksiyası adlanır.",
+      " Hash dəyəri giriş məlumatlarından çox kiçik olduğuna görə, hash funksiyaları bəzən sıxılma funksiyaları adlanır.",
+      " Məşhur hash funksiyaları 64-256 bit arasında dəyərlər alır.",
+      " İxtiyari uzunluqdakı məlumatları sabit uzunluğa qədər sıxır."
+    ],
+    "answer": "Məşhur hash funksiyaları 64-256 bit arasında dəyərlər alır."
+  },
+  {
+    "id": 68,
+    "question": "Hansı xüsusiyyət assimmetrik şifrələmənin çatışmazlığıdır?",
+    "options": [
+      " Şəxsi açarların heç kimə ötürülməsi və ya açıqlanması lazım olmadığı üçün təhlükəsizlik səviyyəsi aşağıdır.",
+      " Göndərənin mesajın göndərilməsini inkar edə bilməməsi üçün rədd edilməməyə imkan verir.",
+      " Rəqəmsal imzaların istifadəsi ilə alıcı mesajın konkret göndəricidən gəldiyini yoxlaya bilir.",
+      " Açarların mübadiləsinə ehtiyac olmadığı üçün açar paylama problemi yoxdur.",
+      "Açıq açarların autentifikasiyası olmadığı üçün açıq açarın göstərilən şəxsə məxsus olması təmin edilə bilmir"
+    ],
+    "answer": "Açıq açarların autentifikasiyası olmadığı üçün açıq açarın göstərilən şəxsə məxsus olması təmin edilə bilmir"
+  },
+  {
+    "id": 69,
+    "question": "Elliptik əyri tənliyinin xüsusiyyətlərindən istifadə edən kriptoqrafik alqoritm hansıdır?",
+    "options": [
+      " AES",
+      "ECC alqoritmi",
+      " RSA",
+      " DES",
+      " 3DES"
+    ],
+    "answer": "ECC alqoritmi"
+  },
+  {
+    "id": 70,
+    "question": "RSA alqoritmində -",
+    "options": [
+      " Əsasən 128 və 256 bitlik açarlardan istifadə edilir.",
+      " heç bir açardan istifadə edilmədən məlumatların qorunması həyata keçirilir.",
+      " elliptik əyri nəzəriyyəsinə əsaslanaraq elliptik əyri diskret loqarifmi hesablanır.",
+      " ixtiyari uzunluqdakı məlumatları sabit uzunluğa qədər sıxılır.",
+      "iki böyük sadə ədədin nəticəsi olan böyük tam ədədlərin faktorinqi ilə hesablanır."
+    ],
+    "answer": "iki böyük sadə ədədin nəticəsi olan böyük tam ədədlərin faktorinqi ilə hesablanır."
+  },
+  {
+    "id": 71,
+    "question": "DES şifrələmdə faktiki açar neçə bitlik olur?",
+    "options": [
+      " 128",
+      "56",
+      " 1024",
+      " 2048",
+      " 256"
+    ],
+    "answer": "56"
+  },
+  {
+    "id": 72,
+    "question": "Simmetrik şifrələmənin xüsusiyyətlərinə aid deyil.",
+    "options": [
+      " AES, DES 3DES simmetrik şifrələmə alqoritmləridir.",
+      " Assimetrik şifrələmədən daha sürətlidir.",
+      "Kiçik ölçülü məlumatların ötürülməsi üçün istifadə olunur.",
+      " 128 və ya 256 bitlik açardan istifadə edir.",
+      " Resurslardan az istifadə edir."
+    ],
+    "answer": "Kiçik ölçülü məlumatların ötürülməsi üçün istifadə olunur."
+  },
+  {
+    "id": 73,
+    "question": "Hansı şifrələmədə mesajlar göndərən tərəfindən şifrələnir, vasitəçi nöqtədə – mesajlaşma xidməti provayderinə məxsus üçüncü tərəf serverində qəsdən deşifrə edilir və sonra yenidən şifrələnir və alıcıya göndərilir",
+    "options": [
+      "serverində qəsdən deşifrə edilir və sonra yenidən şifrələnir və alıcıya göndərilir.",
+      " Rest şifrələmə",
+      " Simmetrik şifrələmə",
+      "Tranzit şifrələmə",
+      " Assimmetrik şifrələmə"
+    ],
+    "answer": "Tranzit şifrələmə"
+  },
+  {
+    "id": 74,
+    "question": "Sosial Mühəndislik metodu olan Spear Phishing hücumları necə həyata keçirilir?",
+    "options": [
+      " E-poçtun yüksək vəzifəli heyət üzvlərindən gəldiyi iddia edilir.",
+      " Sosial mediada saxta müştəri xidmətləri hesabları vasitəsilə həyata keçirilir.",
+      " Xüsusi təşkilatları və ya şəxsləri hədəf alır.",
+      " Qanuni şəxslərdən olduğu iddia edilən mətn mesajları 2FA-dan (iki faktorlu autentifikasiya) yan keçmək üçün digər üsullarla birlikdə istifadə olunur.",
+      " Veb trafiki qanuni saytlardan zərərli domenlərə yönləndirir"
+    ],
+    "answer": "Xüsusi təşkilatları və ya şəxsləri hədəf alır."
+  },
+  {
+    "id": 75,
+    "question": "Ucdan-uca şifrələmə haqqında qeyd edilən fikirlərdən hansı yanlşdır?",
+    "options": [
+      " Göndərən və nəzərdə tutulan alıcıdan başqa heç kəsə tranzit zamanı mesaj məlumatını oxumağa icazə vermir",
+      " Mesajın məzmunu ilə birlikdə göndərildiyi tarix və ya mübadilə iştirakçıları kimi məlumatları gizlədir.",
+      " Hücumçular təhlükə altında olan son nöqtələrdən açarları əldə edə və oğurlanmış açıq açarla man-in-the middle hücumunu həyata keçirə bilərlər",
+      " Məlumatlar əldə edilə bilən vasitəçi serverdə saxlanıla bilər.",
+      ".Şifrələnmiş mesajlara müdaxilədən qoruyur."
+    ],
+    "answer": "Mesajın məzmunu ilə birlikdə göndərildiyi tarix və ya mübadilə iştirakçıları kimi məlumatları gizlədir."
+  },
+  {
+    "id": 76,
+    "question": "Aşağıdakılardan hansı tətbiq mərhələsinin addımlarından hesab olunur?",
+    "options": [
+      " Proqram təminatı sisteminin layihələndirilməsi",
+      "Layihənin paket proqramına çevrilməsi",
+      " Forma və alətlərin kodlarının daxil edilməsi",
+      " Formanı işlətməklə sınaqdan keçirmək",
+      " Proqram təminatı sisteminin hazırlanacağı proqramlaşdırma dilinin və verilənlər bazasının seçilməsi"
+    ],
+    "answer": "Layihənin paket proqramına çevrilməsi"
+  },
+  {
+    "id": 77,
+    "question": "Aşağıdakılardan hansı test mərhələsinin addımlarından hesab olunur?",
+    "options": [
+      " Proqram təminatı sisteminin layihələndirilməsi",
+      "Formanı işlətməklə sınaqdan keçirmək",
+      " Forma və alətlərin kodlarının daxil edilməsi",
+      " Layihənin paket proqramına çevrilməsi",
+      " Proqram təminatı sisteminin hazırlanacağı proqramlaşdırma dilinin və verilənlər bazasının seçilməsi"
+    ],
+    "answer": "Formanı işlətməklə sınaqdan keçirmək"
+  },
+  {
+    "id": 78,
+    "question": "Aşağıdakılardan hansı hazırlıq mərhələsinin addımlarından hesab olunur?",
+    "options": [
+      " Proqram təminatı sisteminin layihələndirilməsi",
+      "Proqram təminatı sisteminin hazırlanacağı proqramlaşdırma dilinin və verilənlər bazasının seçilməsi",
+      " Layihəni işlətməklə sınaqdan keçirmək",
+      " Sınaq ediləcək formaların müəyyən edilməsi",
+      " Formanı işlətməklə sınaqdan keçirmək"
+    ],
+    "answer": "Proqram təminatı sisteminin hazırlanacağı proqramlaşdırma dilinin və verilənlər bazasının seçilməsi"
+  },
+  {
+    "id": 79,
+    "question": "Aşağıdakılardan hansı proqramlaşdırma dilidir?",
+    "options": [
+      " SQL",
+      "Java",
+      " VirtualBox",
+      " Vmware",
+      " QEMU"
+    ],
+    "answer": "Java"
+  },
+  {
+    "id": 80,
+    "question": "Aşağıdakılardan hansı təhlil mərhələsinin addımlarından hesab olunur?",
+    "options": [
+      " Proqram təminatı sisteminin hazırlanacağı proqramlaşdırma dilinin və verilənlər bazasının seçilməsi",
+      "Proqram təminatı sisteminin layihələndirilməsi",
+      " Layihəni işlətməklə sınaqdan keçirmək",
+      " Sınaq ediləcək formaların müəyyən edilməsi",
+      " Formanı işlətməklə sınaqdan keçirmək"
+    ],
+    "answer": "Proqram təminatı sisteminin layihələndirilməsi"
+  },
+  {
+    "id": 81,
+    "question": "Aşağıdakılardan hansı güclü parol hesab olunur?",
+    "options": [
+      " Sql231",
+      "InsturctoR^^))80",
+      " 18412596",
+      " DEleTe7612",
+      " PASSw31"
+    ],
+    "answer": "InsturctoR^^))80"
+  },
+  {
+    "id": 82,
+    "question": "Aşağıdakılardan hansı verilənlər bazası sistemidir?",
+    "options": [
+      " Pycharm",
+      "Cassandra",
+      " Anaconda",
+      " Linux",
+      " Python"
+    ],
+    "answer": "Cassandra"
+  },
+  {
+    "id": 83,
+    "question": "Aşağıdakılardan hansı verilənlər bazası sistemidir?",
+    "options": [
+      " Pycharm",
+      "MongoDB",
+      " Matplotlib",
+      " Linux",
+      " Angular"
+    ],
+    "answer": "MongoDB"
+  },
+  {
+    "id": 84,
+    "question": "Aşağıdakılardan hansı verilənlər bazası sistemidir?",
+    "options": [
+      " Fedora",
+      "MariaDB",
+      " Pyhon",
+      " Swift",
+      " Linux"
+    ],
+    "answer": "MariaDB"
+  },
+  {
+    "id": 85,
+    "question": "Aşağıdakılardan hansı verilənlər bazası sistemidir?",
+    "options": [
+      " Linux",
+      "Redis",
+      " Anaconda",
+      " Scatter",
+      " Python"
+    ],
+    "answer": "Redis"
+  },
+  {
+    "id": 86,
+    "question": "Aşağıdakılardan hansı güclü parol hesab olunur?",
+    "options": [
+      " 65410",
+      "CoMPuteR^^))20",
+      " 328905",
+      " CodE27",
+      " App25"
+    ],
+    "answer": "CoMPuteR^^))20"
+  },
+  {
+    "id": 87,
+    "question": "Aşağıdakılardan hansı güclü parol hesab olunur?",
+    "options": [
+      " 1578",
+      "ApPlicaTioN^^))21",
+      " 17403589",
+      " sOfT12",
+      " Python48"
+    ],
+    "answer": "ApPlicaTioN^^))21"
+  },
+  {
+    "id": 88,
+    "question": "Aşağıdakılardan hansı verilənlər bazası sistemidir?",
+    "options": [
+      " Solaris",
+      "IBM Db2",
+      " Numpy",
+      " Anaconda",
+      " Matplotlib"
+    ],
+    "answer": "IBM Db2"
+  },
+  {
+    "id": 89,
+    "question": "Cavab variantlarından hansı Proqram təminatının inkişaf prosesi mərhələlərinin ardıcıllığını düzgün əks etdirir?  1.Təhlil; 2.Hazırlıq; 3.Dizayn; 4.Tətbiq; 5.Test;",
+    "options": [
+      " 1,5,3,2,4",
+      " 1,2,5,3,4",
+      "1,3,2,5,4",
+      " 1,3,5,2,4",
+      " 1,2,3,4,5"
+    ],
+    "answer": "1,3,2,5,4"
+  },
+  {
+    "id": 90,
+    "question": "İnformasiya təhlükəsizliyi nədir?",
+    "options": [
+      "Qarşılaşa biləcək təhlükələrdən xəbərdar olmaq, işin davamlılığını təmin etmək, baş verə biləcək hər cür problemdə itkiləri minimuma endirmək, hər bir şəraitdə fərdlərin və qurumların aktivlərinin yalnız məxfiliyini qorumaq məqsədi daşıyır",
+      "İnformasiya təhlükəsizliyi mümkün hücumları nəzərə almaqla, proqramlaşdırma dillərindən istifadə edərək təhlükəsiz proqram kodlarının yaradılması mexanizmidir.",
+      "Qarşılaşa biləcək təhlükələrdən xəbərdar olmaq, işin davamlılığını təmin etmək, baş verə biləcək hər cür problemdə itkiləri minimuma endirmək, hər bir şəraitdə fərdlərin və qurumların aktivlərinin yalnız bütövlüyünü qorumaq məqsədi daşıyır",
+      "Qarşılaşa biləcək təhlükələrdən xəbərdar olmaq, işin davamlılığını təmin etmək, baş verə biləcək hər cür problemdə itkiləri minimuma endirmək, hər bir şəraitdə fərdlərin və qurumların aktivlərinin məxfiliyini, əlçatanlığını və bütövlüyünü qorumaq məqsədi daşıyır",
+      "Qarşılaşa biləcək təhlükələrdən xəbərdar olmaq, işin davamlılığını təmin etmək, baş verə biləcək hər cür problemdə itkiləri minimuma endirmək, hər bir şəraitdə fərdlərin və qurumların aktivlərinin yalnız əlçatanlığını qorumaq məqsədi daşıyır"
+    ],
+    "answer": "Qarşılaşa biləcək təhlükələrdən xəbərdar olmaq, işin davamlılığını təmin etmək, baş verə biləcək hər cür problemdə itkiləri minimuma endirmək, hər bir şəraitdə fərdlərin və qurumların aktivlərinin məxfiliyini, əlçatanlığını və bütövlüyünü qorumaq məqsədi daşıyır"
+  },
+  {
+    "id": 91,
+    "question": "Aşağıdakılardan hansı proqramlaşdırma dilidir?",
+    "options": [
+      " SQL",
+      " Vmware",
+      " VirtualBox",
+      " C#",
+      " QEMU"
+    ],
+    "answer": "C#"
+  },
+  {
+    "id": 92,
+    "question": "OWASP hansı fərqli ölçüdə işləyir?",
+    "options": [
+      " idarəetmə, yoxlama və quraşdırma",
+      " Səlahiyyələrin verilməsi və konfiqurasiyanın idarə edilməsi",
+      "alətlər, sənədlər və icma",
+      " Səhvlərin İdarə Edilməsi və kriptoqrafiya",
+      " kitabxanalar və kriptoqrafiya"
+    ],
+    "answer": "alətlər, sənədlər və icma"
+  },
+  {
+    "id": 93,
+    "question": "OWASP neçə fərqli üsulda işləyir?",
+    "options": [
+      " 2",
+      " 3",
+      " 4",
+      " 6",
+      " 5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 94,
+    "question": "Rəqəmsal imza necə sistemdir?",
+    "options": [
+      " rəqəmsal",
+      "assimmetrik",
+      " simmetrik",
+      " klassik",
+      " irarxik"
+    ],
+    "answer": "assimmetrik"
+  },
+  {
+    "id": 95,
+    "question": "Xətti cəbrə və modul hesaba əsaslanan poliqram əvəzetmə şifrəsi hansıdır?",
+    "options": [
+      " Playfair",
+      " Bekon",
+      " Sezar",
+      " Vernam",
+      "Hill"
+    ],
+    "answer": "Hill"
+  },
+  {
+    "id": 96,
+    "question": "3DES necə alqoritmdir?",
+    "options": [
+      "Simmetrik",
+      " Rəqəmsal",
+      " Texniki",
+      " Hash",
+      " Assimmetrik"
+    ],
+    "answer": "Simmetrik"
+  },
+  {
+    "id": 97,
+    "question": "randint(4, 1.5, 3.5, 6, 9). Nəticə necə ola bilər?",
+    "options": [
+      " (3.5, 6, 9)",
+      " (4, 3.5, 6)",
+      " (1.5, 6, 9)",
+      "(4,6,9)",
+      " (4, 1.5, 3.5)"
+    ],
+    "answer": "(4,6,9)"
+  },
+  {
+    "id": 98,
+    "question": "2DES texnologiyası neçə bitlik açar ölçüsünə malikdir?",
+    "options": [
+      " 56",
+      " 14",
+      " 28",
+      "112",
+      " 168"
+    ],
+    "answer": "112"
+  },
+  {
+    "id": 99,
+    "question": "list = [3,6,9,15,25,40,50,95] sampling = random.choice(list,k=4). Nəticə necə ola bilər?",
+    "options": [
+      " (1,3,7,15)",
+      " (5,10,15,20)",
+      "(3,8,40,95)",
+      " (5,9,55,95)",
+      " (4,12,30)"
+    ],
+    "answer": "(3,8,40,95)"
+  },
+  {
+    "id": 100,
+    "question": "randrange(3,9). Nəticə necə ola bilər?",
+    "options": [
+      " 10",
+      " 15",
+      " 12",
+      "7",
+      " 1"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": 101,
+    "question": "shuffle(7,2,9,3,5). Nəticə necə ola bilər?",
+    "options": [
+      " (15,2,8,5,12)",
+      " (9,11,15,7,9)",
+      " (13,2,7,1,9)",
+      " (3,12,7,15,9)",
+      "(3,2,7,5,9)"
+    ],
+    "answer": "(3,2,7,5,9)"
+  },
+  {
+    "id": 102,
+    "question": "Əsas mətni açar mətindən istifadə edərək VERNAM şifrələmə metodu ilə şifrələyin. Əsas mətn= \"RANDOM\", açar mətn = \"DES\"",
+    "options": [
+      " pistvh",
+      " ueklsm",
+      " uafgse",
+      " uwqsfh",
+      " uefgse"
+    ],
+    "answer": "uefgse"
+  },
+  {
+    "id": 103,
+    "question": "Assimmetrik şifrələmə zamanı nə baş verə bilər?",
+    "options": [
+      " şifrləmə açarı silinə bilər",
+      " şifrləmə açarı dəyişdirilə bilər",
+      " şifrləmə açarı yayıla bilər",
+      " şifrləmə açarı qoruna bilər",
+      " şifrləmə açarı itirilə bilər"
+    ],
+    "answer": "şifrləmə açarı yayıla bilər"
+  },
+  {
+    "id": 104,
+    "question": "shuffle()-in nəticə necə ola bilər",
+    "options": [
+      " bir ardıcıllığın göstərilən nümunəsini qaytarir",
+      " bir sıra götürür və qarışıq vəziyyətdə qaytarır",
+      " verilmiş ardıcıllıqla təsadüfi nümunə ilə bir siyahını qaytarir",
+      " verilmiş ardıcıllıqla tam ədədləri qaytarır",
+      " təsadüfi say generatorunun daxili vəziyyətini qaytarir"
+    ],
+    "answer": "bir sıra götürür və qarışıq vəziyyətdə qaytarır"
+  },
+  {
+    "id": 105,
+    "question": "Təsadüfi say generatorunun daxili vəziyyətini qaytaran əmr hansıdır?",
+    "options": [
+      " sample()",
+      " setstate()",
+      " choices()",
+      " random()",
+      " shuffle()"
+    ],
+    "answer": "setstate()"
+  },
+  {
+    "id": 106,
+    "question": "Verilmiş ardıcıllıqla təsadüfi nümunə ilə bir siyahını qaytaran əmr hansıdır?",
+    "options": [
+      " setstate()",
+      " choices()",
+      " shuffle()",
+      " random()",
+      " sample()"
+    ],
+    "answer": "choices()"
+  },
+  {
+    "id": 107,
+    "question": "Təsadüfi say generatoru(TSG) nədir?",
+    "options": [
+      " daim təsadüfi bir cümlə yaradır",
+      "daim təsadüfi bir rəqəm yaradır",
+      " daim psevdotəsadüfi bir cümlə yaradır",
+      " daim təsadüfi bir söz birləşməsi yaradır",
+      " daim psevdotəsadüfi bir rəqəm yaradır"
+    ],
+    "answer": "daim təsadüfi bir rəqəm yaradır"
+  },
+  {
+    "id": 108,
+    "question": "Biri müasir kriptoqrafiyanın bölmələrinə aiddir",
+    "options": [
+      " texniki sistemlər",
+      "simmetrik kriptosistemlər",
+      " alqoritmik kriptosistemlər",
+      " qapalı açarlı kriptosistemlər",
+      " assimetrik kriptosistemlər"
+    ],
+    "answer": "simmetrik kriptosistemlər"
+  },
+  {
+    "id": 109,
+    "question": "Qammalaşdırma alqoritmlərin mahiyyəti nədir?",
+    "options": [
+      " şifrələnən mətnin simvolları mətnin tərtib edildiyi əlifbanın simvolları ilə əvəz olunur",
+      "şifrələnən mətn simvollarının qamma şifrəsi simvolları ilə alınır",
+      " təkrarlama və növbələmə ardıcıllığı ilə şifrələnən mətn blokuna çevirməsidir",
+      " şifrələnən mətn simvollarının betta şifrəsi simvolları ilə alınır",
+      " açıq mətnin simvollarının yeri dəyişdirilir"
+    ],
+    "answer": "şifrələnən mətn simvollarının qamma şifrəsi simvolları ilə alınır"
+  },
+  {
+    "id": 110,
+    "question": "Müasir kriptoqrafiyanın neçə mühüm bölməsi var?",
+    "options": [
+      " 5",
+      "4",
+      " 2",
+      " 1",
+      " 3"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 111,
+    "question": "Əvəzetmə alqoritmlərin mahiyyəti nədir?",
+    "options": [
+      " şifrələnən mətn simvolları qamma şifrəsi ilə alınır",
+      " şifrələnən mətn simvollarının qamma şifrəsi simvolları ilə alınır",
+      " təkrarlama və növbələmə ardıcıllığı ilə şifrələnən mətn blokuna çevirməsidir",
+      " şifrələnən mətnin simvolları mətnin tərtib edildiyi əlifbanın simvolları ilə əvəz olunmur",
+      " açıq mətnin simvollarının yeri dəyişdirilir"
+    ],
+    "answer": "şifrələnən mətn simvollarının qamma şifrəsi simvolları ilə alınır"
+  },
+  {
+    "id": 112,
+    "question": "\"Cipher\" mətnini ROT=5 olduqda SEZAR metodu ilə şifrələyin",
+    "options": [
+      " hnwida",
+      " hnumjw",
+      " hnumsk",
+      " awdfje",
+      " hnuska"
+    ],
+    "answer": "hnumjw"
+  },
+  {
+    "id": 113,
+    "question": "Statik açar nəyə deyilir?",
+    "options": [
+      " yeni istifadə olunan açar",
+      "dəfələrlə istifadə olunan eyni bir açar",
+      " Yalnız birdəfə istifadə olunan açar",
+      " Dinamik şifrəni açan açar",
+      " istifadə olunmayan açar"
+    ],
+    "answer": "dəfələrlə istifadə olunan eyni bir açar"
+  },
+  {
+    "id": 114,
+    "question": "\"Texnologiya\" mətnini ROT=13 olduqda SEZAR metodu ilə şifrələyin",
+    "options": [
+      " grkaqtmlope",
+      " grkabybntvl",
+      " grkafnmdtqp",
+      " gsfhgdscbje",
+      " grkastuifbl"
+    ],
+    "answer": "grkabybntvl"
+  },
+  {
+    "id": 115,
+    "question": "ASCII cədvəlinin 33 -dən 127 -ə qədər olan hissəsi nələri kodlaşdırmaq üçün nəzərdə tutulub?",
+    "options": [
+      " əməliyyatları",
+      " latın hərflərinə, rəqəmlərə, hesabi əməliyyat və durğu işarələrinə uyğun gəlir",
+      " psevdaqrafiki simvolları",
+      " digər əlifba simvollarını",
+      " milli əlifba simvolları"
+    ],
+    "answer": "latın hərflərinə, rəqəmlərə, hesabi əməliyyat və durğu işarələrinə uyğun gəlir"
+  },
+  {
+    "id": 116,
+    "question": "ASCII cədvəlinin ilk 33 kodu nələri kodlaşdırmaq üçün nəzərdə tutulub?",
+    "options": [
+      " latın hərflərini",
+      " əməliyyatlar və psevdaqrafiki simvolları",
+      " hesabi əməliyyat və durğu işarələri",
+      " rəqəmləri",
+      " milli əlifba simvollarını"
+    ],
+    "answer": "əməliyyatlar və psevdaqrafiki simvolları"
+  },
+  {
+    "id": 117,
+    "question": "Sezar şifrəsi necə adlanırdı?",
+    "options": [
+      " simmetrik",
+      " monoəlifbalı",
+      " blokvari",
+      " dinamik",
+      " Assimmetrik"
+    ],
+    "answer": "monoəlifbalı"
+  },
+  {
+    "id": 118,
+    "question": "Kriptoqrafiya nədir?",
+    "options": [
+      " informasiya şifrələnməsi haqqında elmdir",
+      " Kriptoqrafiya məlumatın məxfiliyinin neçə təmin olunmasını öyrənən elmdir",
+      " informasiyanın çevrilməsi haqqında elmdir",
+      " informasiya emalı haqqında elmdir",
+      " İnformasiya mühafizəsi üsullarının hazırlanması haqqında elmdi"
+    ],
+    "answer": "Kriptoqrafiya məlumatın məxfiliyinin neçə təmin olunmasını öyrənən elmdir"
+  },
+  {
+    "id": 119,
+    "question": "Kriproqrafiyanın inkişafı hansı dövrü əhatə edir?",
+    "options": [
+      " XI əsrin sonu",
+      " XIV əsrin sonu",
+      " IX əsr",
+      " XIV əsrin əvvəli",
+      " XV əsrin sonu"
+    ],
+    "answer": "XIV əsrin sonu"
+  },
+  {
+    "id": 120,
+    "question": "Əsas mətni BLOK şifrələmə metodu ilə şifrələyin. K=2 Əsas mətn = SERVIS",
+    "options": [
+      " iuhgst",
+      " rbredb",
+      " nskqps",
+      " vdkaic",
+      " asqwyu"
+    ],
+    "answer": "rbredb"
+  },
+  {
+    "id": 121,
+    "question": "Axtarış motoru filtrləri nə edir?",
+    "options": [
+      "Webcontent-in yalnız müəyyən bir hissəsinə giriş təklif edir və hansı məzmunun əldə oluna biləcəyi ilə bağlı qərarı istifadəçi deyil, ISP verir",
+      "İstifadəçilərə axtarış nəticələrindən uyğun olmayan keçidləri süzgəcdən keçirən təhlükəsizlik filtrini təqdim edir",
+      "Fərdi kompüterdə və ya noutbukda proqram təminatı kimi quraşdırılmaqla uyğun olmayan məzmuna çıxışına nəzarət etmək üçün istifadə olunur..",
+      "Müəyyən kontentə baxış üçün istifadəçinin şəxsi kimlik məlumatlarına uyğun olaraq məzmunun nümayişini həyata keçirir.",
+      "Brauzerə əlavə edilə bilən plaginlər vasitəsilə məzmunun filtrasiyasını həyata keçirir."
+    ],
+    "answer": "İstifadəçilərə axtarış nəticələrindən uyğun olmayan keçidləri süzgəcdən keçirən təhlükəsizlik filtrini təqdim edir."
+  },
+  {
+    "id": 122,
+    "question": "Pharming hücumu necə baş verir?",
+    "options": [
+      "Kompüterə yalançı antivirus proqramlar yüklənməsi yolu ilə FK-də arxa qapı açaraq təcavüzkarın kompüterə daxil olmasına şərait yaradır",
+      "Müəyyən veb-saytlarda yerləşdirilmiş reklamlara daxil olmaqla brauzer kukilərinin ələ keçirilməsi həyata keçirilir.",
+      "Brauzerə funksionallığı dəyişdirməyən əlavə funksionallıq təmin edir və nəticədə hücum həyata keçirilir",
+      "Spam mesajlarına zərərli qoşmalar və linklər əlavə edilərək qurbanın həmin əlavəni yükləməsi və daxil olması tələb olunur və istifadəçi kompüterinə virus göndərilir.",
+      "DNS yoluxmasından istifadə etməklə, serverdəki domen adı sistem cədvəli dəyişdirilərək mövcud saytın İP-si başqa İp ilə əvəz edilir, istifadəçilər avtomatik olaraq saxta saytlara yönləndirilir."
+    ],
+    "answer": "DNS yoluxmasından istifadə etməklə, serverdəki domen adı sistem cədvəli dəyişdirilərək mövcud saytın İP-si başqa İp ilə əvəz edilir, istifadəçilər avtomatik olaraq saxta saytlara yönləndirilir."
+  },
+  {
+    "id": 123,
+    "question": "Özünü təkrarlayan və nüsxələrini başqa kompüterlərə göndərən proqram",
+    "options": [
+      " Rootkit",
+      " Backdoor",
+      " Məntiq bombası",
+      " Troyan atı",
+      "Worm"
+    ],
+    "answer": "Worm"
+  },
+  {
+    "id": 124,
+    "question": "HTTP-nin sonuncu təqdim edilən sorğu metodu hansıdır",
+    "options": [
+      " CONNECT",
+      " PUT",
+      " TRACE",
+      "PATCH",
+      " DELETE"
+    ],
+    "answer": "PATCH"
+  },
+  {
+    "id": 125,
+    "question": "HTTP-nin mövcud versiyası neçə sorğu metodundan istifadə edir?",
+    "options": [
+      " 5",
+      " 7",
+      " 8",
+      "9",
+      " 3"
+    ],
+    "answer": "9"
+  },
+  {
+    "id": 126,
+    "question": "Fişinq hücumunun planlaşdırma mərhələsində nə baş verir?",
+    "options": [
+      "Qurbanlardan toplanan məlumatlardan istifadə edərək, cinayətkarlar qanunsuz alış-veriş etməyə və ya qurbanın hesablarından pul köçürməyə başlayırlar",
+      " Qurbanların saxta internet səhifələrinə daxil etdikləri məlumatlar toplanır və qeydə alınır",
+      " Hücumun icraçıları hansı şirkət və ya təşkilatın adından saxtakarlıq edəcəklərinə qərar verir və həmin şirkətin müştəri e-poçt unvanlarının siyahısını necə əldə edəcəyini öyrənir",
+      " Cinayətkarlar saxta e-poçt mesajlarını nəzərdə tutulan qurbanlara göndərirlər",
+      "Təcavüzkarlar saxtakarlıq etmək üçün şirkəti və onların nəzərdə tutulan qurbanlarını müəyyən etdikdən sonra, e-poçt çatdırılması və məlumat toplama üsulları və alətləri hazırlayırlar."
+    ],
+    "answer": " Hücumun icraçıları hansı şirkət və ya təşkilatın adından saxtakarlıq edəcəklərinə qərar verir və həmin şirkətin müştəri e-poçt unvanlarının siyahısını necə əldə edəcəyini öyrənir"
+  },
+  {
+    "id": 127,
+    "question": "İctimai istifadə üçün pulsuzdur",
+    "options": [
+      " AES",
+      "Blowfish",
+      "3DES",
+      "DES",
+      "RSA"
+    ],
+    "answer": "Blowfish"
+  },
+  {
+    "id": 128,
+    "question": "Aşağıdakılardan hansı Autentifikasiya vasitələri kimi istifadə edilə bilər?",
+    "options": [
+      " İş yerinin adı",
+      "Parol və biometrik xarakteristikalar (şəkil, barmaq izləri, səs və s.)",
+      " İnformasiya təhlükəsizliyi üzrə biliklər",
+      " Anket məlumatlar",
+      " Şəxsi əlaqələr"
+    ],
+    "answer": "Parol və biometrik xarakteristikalar (şəkil, barmaq izləri, səs və s.)"
+  },
+  {
+    "id": 129,
+    "question": "Autentifikasiya nədir?",
+    "options": [
+      " Təhlükəsiz proqram təminatının hazırlanması prosesinin təşkilidir",
+      "Subyekt tərəfindən təqdim edilmiş eyniləşdirmə məlumatlarının həqiqiliyinin yoxlanması prosesidir",
+      " İnformasiya mühitində dövlətin, fiziki və hüquqi şəxslərin qorunmasının vəziyyətidir",
+      " Proqram təminatının ilkin qəbulu (installyasiyası) və cari icrasının təhlükəsiz təşkilidir",
+      " Susmaya görə təhlükəsizlik rejiminin qoşulmasıdır"
+    ],
+    "answer": "Subyekt tərəfindən təqdim edilmiş eyniləşdirmə məlumatlarının həqiqiliyinin yoxlanması prosesidir"
+  },
+  {
+    "id": 130,
+    "question": "“Qara qutu” testinin məqsədi nədir?",
+    "options": [
+      " İstismar potensialını ölçmək üçün zəif cəhətlərin yoxlanılması",
+      " Kiber hücumların müəyyən edilməsi",
+      " Məxfilik xassəsinin ödənilməsi",
+      "Kodlaşdırma xətaları üçün mənbə kodunun skan edilməsi",
+      " İstehsalat təcrübələrində zəif cəhətlərin müəyyən edilməsi"
+    ],
+    "answer": "Kodlaşdırma xətaları üçün mənbə kodunun skan edilməsi"
+  },
+  {
+    "id": 131,
+    "question": "Aşağıdakılardan hansı daxiletmənin yoxlanılması üsullarından hesab olunur?",
+    "options": [
+      " Ağ qutu və Boz qutu testi",
+      "Ağ qutu və Qara qutu testi",
+      " Autentifikasiya proseduru",
+      " Avtorizasiya proseduru",
+      " İdentifikasiya proseduru"
+    ],
+    "answer": "Ağ qutu və Qara qutu testi"
+  },
+  {
+    "id": 132,
+    "question": "SAMM modelində biznes funksiyaları və təhlükəsizlik fəaliyyətləri neçə ayrı qrupda idarə olunur?",
+    "options": [
+      " 3",
+      "4",
+      " 8",
+      " 10",
+      " 2"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 133,
+    "question": "Daxiletmənin yoxlanılması üsulları neçə hissəyə bölünür?",
+    "options": [
+      " 3",
+      "2",
+      " 4",
+      " 6",
+      " 5"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 134,
+    "question": "Aşağıdakılardan hansı ağ qutu sınağı ilə qara qutu sınağı arasındakı fərqi ən yaxşı şəkildə təsvir edir?",
+    "options": [
+      " Qara qutu sınağı biznes bölmələrini əhatə edir",
+      "Ağ qutu testi proqramın daxili məntiqi strukturlarını yoxlayır",
+      " Ağ qutu sınağı müstəqil proqramçılar qrupu tərəfindən həyata keçirilir",
+      " Qara qutu sınağı biznes və maliyyə bölmələrini əhatə edir",
+      " Qara qutu sınağı aşağıdan yuxarı yanaşmadan istifadə edir"
+    ],
+    "answer": "Ağ qutu testi proqramın daxili məntiqi strukturlarını yoxlayır"
+  },
+  {
+    "id": 135,
+    "question": "“Trusted Computing Group” tərəfindən irəli sürülən etibarlı hesablama konsepsiyası hansı əsas anlayışa diqqət yetirir?",
+    "options": [
+      " Məxfilik, Bütövlük",
+      "Məxfilik, Bütövlük, Əlçatanlıq və Bərpa Oluna Bilənlik",
+      " Bütövlük, Əlçatanlıq və Bərpa Oluna Bilənlik",
+      " Məxfilik və Bərpa Oluna Bilənlik",
+      " Məxfilik, Əlçatanlıq və Bərpa Oluna Bilənlik"
+    ],
+    "answer": "Məxfilik, Bütövlük, Əlçatanlıq və Bərpa Oluna Bilənlik"
+  },
+  {
+    "id": 136,
+    "question": "“Trusted Computing Group” tərəfindən irəli sürülən etibarlı hesablama konsepsiyası neçə əsas anlayışa diqqət yetirir?",
+    "options": [
+      " 3",
+      "4",
+      " 2",
+      " 1",
+      " 5"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 137,
+    "question": "Tətbiq təhlükəsizliyini qiymətləndirmək və nəzərdən keçirmək nə vaxt daha düzgün addım hesab olunur?",
+    "options": [
+      " Dizayn mərhələsində",
+      "Tətbiqin inkişafının bütün mərhələlərində",
+      " Hazırlıq mərhələsində",
+      " Təhlil mərhələsində",
+      " Test mərhələsində"
+    ],
+    "answer": "Tətbiqin inkişafının bütün mərhələlərində"
+  },
+  {
+    "id": 138,
+    "question": "Aşağıdakılardan hansı OWASP təhlükəsiz kodlaşdırma təcrübələrindəndir?",
+    "options": [
+      " İnzibati nəzarət",
+      "Girişə nəzarət",
+      " Simmetrik nəzarət",
+      " Aktiv nəzarət",
+      " Detektiv nəzarət"
+    ],
+    "answer": "Girişə nəzarət"
+  },
+  {
+    "id": 139,
+    "question": "Aşağıdakılardan hansı sql injection hücum növüdür?",
+    "options": [
+      " SYN Flood",
+      "Error-based SQLi",
+      " Password Dpraying",
+      " ICMP (Ping) Flood",
+      " Credential stuffing"
+    ],
+    "answer": "Error-based SQLi"
+  },
+  {
+    "id": 140,
+    "question": "Aşağıdakılardan hansı sql injection hücum növüdür?",
+    "options": [
+      " Volumetric attacks",
+      "İn-band SQLi",
+      " UDP Flood",
+      " IP Null attack",
+      " Appsec FAQ"
+    ],
+    "answer": "İn-band SQLi"
+  },
+  {
+    "id": 141,
+    "question": "Aşağıdakılardan hansı ddos hücum növü deyil?",
+    "options": [
+      " Volumetric attacks",
+      "Appsec FAQ",
+      " UDP Flood",
+      " IP Null attack",
+      " Protocol attack"
+    ],
+    "answer": "Appsec FAQ"
+  },
+  {
+    "id": 142,
+    "question": "Aşağıdakılardan hansı ddos hücum növü deyil?",
+    "options": [
+      " SYN Flood",
+      "Credential stuffing",
+      " ICMP (Ping) Flood",
+      " UDP Flood",
+      " IP Null attack"
+    ],
+    "answer": "Credential stuffing"
+  },
+  {
+    "id": 143,
+    "question": "Aşağıdakılardan hansı ddos hücum növü deyil?",
+    "options": [
+      " IP Null attack",
+      "Bonets",
+      " UDP Flood",
+      " ICMP (Ping) Flood",
+      " HTTP Flood"
+    ],
+    "answer": "Bonets"
+  },
+  {
+    "id": 144,
+    "question": "Aşağıdakılardan hansı ddos hücum növü deyil?",
+    "options": [
+      " UDP Flood",
+      " ICMP (Ping) Flood",
+      "Password Dpraying",
+      " SYN Flood",
+      " HTTP Flood"
+    ],
+    "answer": "Password Dpraying"
+  },
+  {
+    "id": 145,
+    "question": "Aşağıdakılardan hansı ddos hücum növüdür?",
+    "options": [
+      " LAPSE",
+      " Bonets",
+      " Hybrid brute force attack",
+      " HTTP Flood",
+      " Password Dpraying"
+    ],
+    "answer": " HTTP Flood"
+  },
+  {
+    "id": 146,
+    "question": "OWASP layihəsinin icma ölçüsünə aşağıdakılardan hansı daxildir?",
+    "options": [
+      " LAPSE",
+      " WebScarab",
+      " Metriklər",
+      " test bələdçisi",
+      "Tərcümələr"
+    ],
+    "answer": "Tərcümələr"
+  },
+  {
+    "id": 147,
+    "question": "OWASP layihəsinin sənədlər ölçüsünə aşağıdakılardan hansı daxildir?",
+    "options": [
+      " Live CD",
+      " Forumlar",
+      " Vikilər",
+      " LAPSE",
+      "Test bələdçisi"
+    ],
+    "answer": "Test bələdçisi"
+  },
+  {
+    "id": 148,
+    "question": "OWASP layihəsinin sənədlər ölçüsünə aşağıdakılardan hansı daxildir?",
+    "options": [
+      " Live CD",
+      " Forumlar",
+      " Konfranslar",
+      "Appsec FAQ",
+      " WebScarab"
+    ],
+    "answer": "Appsec FAQ"
+  },
+  {
+    "id": 149,
+    "question": "OWASP layihəsinin alətlər ölçüsünə aşağıdakılardan hansı daxildir?",
+    "options": [
+      " Metriklər",
+      " Appsec FAQ",
+      " Forumlar",
+      "WebScarab",
+      " Bloqlar"
+    ],
+    "answer": "WebScarab"
+  },
+  {
+    "id": 150,
+    "question": "OWASP layihəsinin alətlər ölçüsünə aşağıdakılardan hansı daxildir?",
+    "options": [
+      " Bloqlar",
+      " Appsec FAQ",
+      " Vikiler",
+      " Test bələdçisi",
+      ".NET Research"
+    ],
+    "answer": ".NET Research"
+  },
+  {
+    "id": 151,
+    "question": "OWASP layihəsinin icma ölçüsünə aşağıdakılardan hansı daxildir?",
+    "options": [
+      " Test bələdçisi",
+      " Appsec FAQ",
+      " WebGoat",
+      "Vikiler",
+      " Metriklər"
+    ],
+    "answer": "Vikiler"
+  },
+  {
+    "id": 152,
+    "question": "SAMM modeli hansı fərqli qrupda idarə olunur?",
+    "options": [
+      " alətlər, sənədlər və icma",
+      " Səlahiyyələrin verilməsi və konfiqurasiyanın idarə edilməsi",
+      " Səhvlərin İdarə Edilməsi və kriptoqrafiya",
+      "idarəetmə, tikinti, yoxlama və quraşdırma",
+      " kitabxanalar və kriptoqrafiya"
+    ],
+    "answer": "idarəetmə, tikinti, yoxlama və quraşdırma"
+  },
+  {
+    "id": 153,
+    "question": "Autentifikasiya üçün hansı vasitələrdən istifadə edilə bilər?",
+    "options": [
+      " profil məlumatları",
+      " iş yerinin adı",
+      "parol və biometrik xüsusiyyətlər",
+      " informasiya təhlükəsizliyi bilikləri",
+      " şəxsi əlaqələr"
+    ],
+    "answer": "parol və biometrik xüsusiyyətlər"
+  },
+  {
+    "id": 154,
+    "question": "“Yaxşı Hash Funksiyası” nələri nəzərdə tutur? Tam cavabı qeyd edin",
+    "options": [
+      " düymələr bərabər paylanmır",
+      "asanlıqla hesablanır və düymələr bərabər paylanmalıdır",
+      " çətinliklə hesablanır",
+      " asanlıqla hesablanır",
+      " düymələr bərabər paylanmalıdır"
+    ],
+    "answer": "asanlıqla hesablanır və düymələr bərabər paylanmalıdır"
+  },
+  {
+    "id": 155,
+    "question": "Böyük rəqəmi və ya mətni hash cədvəlində indeks kimi istifadə oluna bilən kiçik tam ədədə çevirən funksiya hansıdır?",
+    "options": [
+      " random funksiya",
+      " müəyyənlik funksiyası",
+      " loqorifmik funskiya",
+      "hash funksiyası",
+      " xətti funksiya"
+    ],
+    "answer": "hash funksiyası"
+  },
+  {
+    "id": 156,
+    "question": "Blok şifrələməsi haqqında hansı doğrudur?",
+    "options": [
+      "şifrlənmiş mətni geri qaytarmaq çətindir",
+      " düz mətnə asanlıqla çevrilə bilər",
+      " şifrələnmiş mətni geri qaytarmaq mümkün deyil",
+      " Heç biri",
+      " yalnız qarışıqlığa əsaslanır"
+    ],
+    "answer": "şifrlənmiş mətni geri qaytarmaq çətindir"
+  },
+  {
+    "id": 157,
+    "question": "Əsas mətni açar mətindən istifadə edərək Affine şifrələmə metodu ilə şifrələyin.a=7, b=5, Əsas mətn = KRYPTO",
+    "options": [
+      " dfgtry",
+      " poklim",
+      "xurgiz",
+      " cvbhnm",
+      " qsdlkm"
+    ],
+    "answer": "xurgiz"
+  },
+  {
+    "id": 158,
+    "question": "Əsas mətni açar mətindən istifadə edərək Affine şifrələmə metodu ilə şifrələyin.a=7, b=5, Əsas mətn = SERVER",
+    "options": [
+      " klpmnb",
+      " bhuwhu",
+      " sdfplo",
+      " wertgh",
+      " scvfgh"
+    ],
+    "answer": "bhuwhu"
+  },
+  {
+    "id": 159,
+    "question": "Bloklu şifrələdə hansından istifadə olunur ?",
+    "options": [
+      " XOR",
+      " AND",
+      " OR",
+      " NOR",
+      " XNOR"
+    ],
+    "answer": "XOR"
+  },
+  {
+    "id": 160,
+    "question": "Bloklu şifrəyə nümunə olaraq şifrləri seçin: 1-DES 2-3DES 3-AES 4-RSA 5-BLOWFİSH",
+    "options": [
+      "1;2;3",
+      " 2;4",
+      " 1;4;5",
+      " 1;5",
+      " 3;4;5"
+    ],
+    "answer": "1;2;3"
+  },
+  {
+    "id": 161,
+    "question": "Əsas mətni açar mətindən istifadə edərək Affine şifrələmə metodu ilə şifrələyin.a=5, b=2, Əsas mətn = LIST",
+    "options": [
+      "FQUZ",
+      " HIJK",
+      " QYXZ",
+      " SFGH",
+      " OPQR"
+    ],
+    "answer": "FQUZ"
+  },
+  {
+    "id": 162,
+    "question": "Sağ dövri sürüşdürmənin düsturu hansıdır?",
+    "options": [
+      " X`=XSHRV",
+      " X`=XROSV",
+      " X`=XROLV",
+      "X`=XRORV",
+      " X`=XSHLV"
+    ],
+    "answer": "X`=XRORV"
+  },
+  {
+    "id": 163,
+    "question": "Əsas mətni açar mətindən istifadə edərək Affine şifrələmə metodu ilə şifrələyin.a=5, b=2, Əsas mətn = KEY",
+    "options": [
+      " STU",
+      " NBD",
+      " YZN",
+      " QJO",
+      " AWO"
+    ],
+    "answer": "AWO"
+  },
+  {
+    "id": 164,
+    "question": "Hesabı sağa sürüşdürmən düsturu hansıdır?",
+    "options": [
+      " X`=XRORV",
+      " X`=XROSV",
+      "X`=XSHRV",
+      " X`=XSHLV",
+      " X`=XROLV"
+    ],
+    "answer": "X`=XSHRV"
+  },
+  {
+    "id": 165,
+    "question": "Hesabı sola sürüşdürmə düsturu hansıdır?",
+    "options": [
+      " X`=XROLV",
+      " X`=XROSV",
+      " X`=XRORV",
+      " X`=XSHLV",
+      " X`=XSHRV"
+    ],
+    "answer": "X`=XSHLV"
+  },
+  {
+    "id": 166,
+    "question": "Proqram təminatının və rəqəmsal imzanın müdafiəsində istifadə olunan sistem hansıdır?",
+    "options": [
+      " DES",
+      " AES",
+      " PGP",
+      " RSA sistemi",
+      " 3DES"
+    ],
+    "answer": "RSA sistemi"
+  },
+  {
+    "id": 167,
+    "question": "Məlumatın deşifrələnməsi şifrələnməsindən daha gec, imzanın yoxlanması isə onun yaradılmasından daha tez gedən alqoritm hansıdır?",
+    "options": [
+      " DES",
+      " PGP",
+      " MOD",
+      "RSA",
+      " 3DES"
+    ],
+    "answer": "RSA"
+  },
+  {
+    "id": 168,
+    "question": "Aşağıdakılardan hansı şifrələmə funksiyasına və əks funksiyanın mürəkkəbliyinə əsaslanır?",
+    "options": [
+      " Alqoritmin xəttiliyi",
+      " Alqoritmin dövrlüyü",
+      " Alqotimin dayanıqlığı",
+      " Alqoritmin qeyri-xəttiliyi",
+      " Alqoritmin zəifliyi"
+    ],
+    "answer": "Alqotimin dayanıqlığı"
+  },
+  {
+    "id": 169,
+    "question": "Blok sifrələməsindən istifadə edən AES və digər alqoritimlərdən daha yavaş alqoritm hansıdır?",
+    "options": [
+      " PGP",
+      " MOD",
+      " 3DES",
+      " DES",
+      "RSA"
+    ],
+    "answer": "RSA"
+  },
+  {
+    "id": 170,
+    "question": "Əsas mətni açar mətindən istifadə edərək PLAYFAIR şifrələmə metodu ilə şifrələyin. Əsas mətn = \"HACK\", açar mətn = \"FAIR\"",
+    "options": [
+      " YJKL",
+      " FBKP",
+      " PSCV",
+      " DBKP",
+      " AFGH"
+    ],
+    "answer": "DBKP"
+  },
+  {
+    "id": 171,
+    "question": "Əsas mətni açar mətindən istifadə edərək PLAYFAIR şifrələmə metodu ilə şifrələyin. Əsas mətn = \"CIPHER\", açar mətn = \"User\"",
+    "options": [
+      " CVBNHJ",
+      " PLKJMN",
+      " QWDFPL",
+      " SDFHJK",
+      "IONKRA"
+    ],
+    "answer": "IONKRA"
+  },
+  {
+    "id": 172,
+    "question": "Dictionary attack hansı funksiyanı yerinə yetirir?",
+    "options": [
+      " mümkün parollari əlifbaya görə tərs düzür",
+      " bütün potensial parolları yoxlamaq",
+      " loginə uyğun yeni parollar hazırlayır",
+      " mümkün parollari əlifbaya görə düzür",
+      " yeni parolları əlifbaya uyğun düzür"
+    ],
+    "answer": "bütün potensial parolları yoxlamaq"
+  },
+  {
+    "id": 173,
+    "question": "Əsas mətni açar mətindən istifadə edərək Hill şifrələmə metodu ilə şifrələyin. Əsas mətn = \"security\", açar mətn = \"(1,3),(8,13)\"",
+    "options": [
+      " bbahdksd",
+      " sjkiplfk",
+      " asvbhjop",
+      " dfkwmvkd",
+      "ycggdzdf"
+    ],
+    "answer": "ycggdzdf"
+  },
+  {
+    "id": 174,
+    "question": "Şifrəni etibarlı şəkildə saxlayan texnologiya hansıdır?",
+    "options": [
+      " Chrome",
+      " PGP",
+      " Firefox",
+      "KEEPASS",
+      " E-poct"
+    ],
+    "answer": "KEEPASS"
+  },
+  {
+    "id": 175,
+    "question": "Əsas mətn = (3,2,4),(7,1,1),(5,3,8), açar mətn = (1,4,2),",
+    "options": [
+      "(1,9,3)",
+      " (2,9,11)",
+      " (7,8,4)",
+      " (19,13,7)",
+      "(3,8,12)"
+    ],
+    "answer": "(19,13,7)"
+  },
+  {
+    "id": 176,
+    "question": "Əsas mətni Atbash şifrələmə metodu ilə şifrələyin. Əsas mətn = CODE",
+    "options": [
+      " LPYH",
+      " VGBH",
+      " SFHJ",
+      " XLWV",
+      " KJFT"
+    ],
+    "answer": "XLWV"
+  },
+  {
+    "id": 177,
+    "question": "Rəqəmsal imza və kriptoqrafik səsvermə üsulları kimi bir neçə kriptoqrafik protokolun qapılarını acan kriptosistem hansidir?",
+    "options": [
+      " PGP",
+      " 3DES",
+      "RSA",
+      " DES",
+      " ECC"
+    ],
+    "answer": "RSA"
+  },
+  {
+    "id": 178,
+    "question": "Əsas mətn= ATTACK, açar mətn =MİDDLE",
+    "options": [
+      "mnhgfs",
+      " asdlpy",
+      " liytdf",
+      " sdfkjq",
+      "mbwdno"
+    ],
+    "answer": "mbwdno"
+  },
+  {
+    "id": 179,
+    "question": "Məlumat ötürülməsi üçün istifadə olunan ilk asimmetrik kriptosistemlərdən biri hansidir?",
+    "options": [
+      " PGP",
+      " 3DES",
+      "RSA",
+      " ECC",
+      " DES"
+    ],
+    "answer": "RSA"
+  },
+  {
+    "id": 180,
+    "question": "Əsas mətni açar mətindən istifadə edərək VİJENER şifrələmə metodu ilə şifrələyin. Əsas mətn = \"trojan\", açar mətn = \"none\"",
+    "options": [
+      " DGKSBF",
+      " LAKDBF",
+      " BVGSKQ",
+      "GFBXNB",
+      " MKJSGQ"
+    ],
+    "answer": "GFBXNB"
+  },
+  {
+    "id": 181,
+    "question": "Ələ keçirilən şifrəli mətnə hücum necə adlanır?",
+    "options": [
+      " read-only attack",
+      " key-only attack",
+      " plaintext-only attack",
+      "ciphertext-only attack",
+      " knownrtext-only attack"
+    ],
+    "answer": "ciphertext-only attack"
+  },
+  {
+    "id": 182,
+    "question": "Əsas mətni Atbash şifrələmə metodu ilə şifrələyin. Əsas mətn = \"SYSTEM\"",
+    "options": [
+      " SIUYLU",
+      " ZCBIMI",
+      " HSNSBH",
+      " RTLVHE",
+      "HBHGVN"
+    ],
+    "answer": "HBHGVN"
+  },
+  {
+    "id": 183,
+    "question": "Əsas mətni açar mətindən istifadə edərək VİJENER şifrələmə metodu ilə şifrələyin. Əsas mətn = \"epidemiya\", açar mətn = \"virus\"",
+    "options": [
+      " ZWWEWHQPU",
+      " AXVXWHQPU",
+      " AWZXUUYPU",
+      " ZXZXWHQPU",
+      " ZVVVUUYQU"
+    ],
+    "answer": "ZXZXWHQPU"
+  },
+  {
+    "id": 184,
+    "question": "Rəqəmsal imzanın funksiyasına aid deyil:",
+    "options": [
+      " məlumatın bütövlüyünə nəzarət",
+      " məlumatın müəllifinin autentifikasiyası",
+      " məlumatın müəllifinin idetifikasiyası",
+      " məlumatın məxfiliyi və əlçatanlığı",
+      " məlumatın müəllifliyindən imtinanın qeyri-mümkünlüyünə zəmanət"
+    ],
+    "answer": "məlumatın məxfiliyi və əlçatanlığı"
+  },
+  {
+    "id": 185,
+    "question": "Əsas mətni açar mətindən istifadə edərək VİJENER şifrələmə metodu ilə şifrələyin. Əsas mətn = \"security\", açar mətn = \"hash\"",
+    "options": [
+      " ZEVCVILG",
+      " AFVBVKLG",
+      " ZEUBYILF",
+      " EUBYILF",
+      " ZFUCJKMM"
+    ],
+    "answer": "ZEUBYILF"
+  },
+  {
+    "id": 186,
+    "question": "Rəqəmsal imza alqoritmlərinə aid deyil",
+    "options": [
+      " RSA",
+      " ECDSA",
+      " DSA",
+      " MAC",
+      " ElGamal"
+    ],
+    "answer": "MAC"
+  },
+  {
+    "id": 187,
+    "question": "Ən Az İmtiyaz Siyasəti (POLP) müəyyən edir ki, istifadəçi müəyyən tapşırığı yerinə yetirmək üçün tələb olunan minimum imtiyazlar dəstinə malik olmalıdır bu fikir hansı prinsipdə nəzərə alınmışdır?",
+    "options": [
+      "Vəzifələrin bölünməsi prinsipi",
+      " Təhlükəsiz şəkildə uğursuzluq prinsipi.",
+      " Təhlükəsizliyi sadələşdirmək prinsipi",
+      " Xidmətlərə etibar edilməməsi prinsipi",
+      "Minimum güzəşt prinsipi"
+    ],
+    "answer": "Minimum güzəşt prinsipi"
+  },
+  {
+    "id": 188,
+    "question": "Aşağıdakılardan hansı İnferensial SQL inyeksiyası növüdür?",
+    "options": [
+      " Error-based SQLi",
+      "Boolen",
+      " Klassik SQLi",
+      " Out-of-Band SQLİ",
+      " Birliyə əsaslanan SQLi"
+    ],
+    "answer": "Boolen"
+  },
+  {
+    "id": 189,
+    "question": "Aşağıdakılardan hansı təhlükəsizlik siyasəti hesab olunur?",
+    "options": [
+      " Secure in Design",
+      " Secure Development Lifecycle (SDL)",
+      " Secure in Deployment",
+      "Dərin Müdafiə Prinsipi",
+      " Secure by Default"
+    ],
+    "answer": "Dərin Müdafiə Prinsipi"
+  },
+  {
+    "id": 190,
+    "question": "Aşağıdakılardan hansı Klassik SQL inyeksiyası (İn-band SQLi) növüdür?",
+    "options": [
+      " Zamana əsaslanan",
+      "Error-based SQLi",
+      " İnferensial SQLi",
+      " Out-of-Band SQLİ",
+      " Boolen"
+    ],
+    "answer": "Error-based SQLi"
+  },
+  {
+    "id": 191,
+    "question": "Kriptoqrafiya nədir?",
+    "options": [
+      " Mətnin oxunması",
+      " İlkin mətnin yazılması",
+      " İlkin mətnin ləğv edilməsi",
+      "İlkin mətnin şifrələnməsi",
+      " İlkin mətnin başqasına çatdırılması"
+    ],
+    "answer": "İlkin mətnin şifrələnməsi"
+  },
+  {
+    "id": 192,
+    "question": "OWASP layihəsində təhlükəsizlik baxımından ilkin layihə hesab olunur?",
+    "options": [
+      " WebScarab",
+      " LAPSE",
+      " .NET Research",
+      " WebGoat",
+      " Live CD"
+    ],
+    "answer": "WebGoat"
+  },
+  {
+    "id": 193,
+    "question": "Tərtibatçılar tətbiqləri üçün təhlükəsizlik nəzarətlərini inkişaf etdirərkən çox mürəkkəb arxitekturalardan istifadə etməkdən çəkinməlidirlər  bu fikir hansı prinsipdə nəzərə alınmışdır",
+    "options": [
+      "Təhlükəsiz şəkildə uğursuzluq prinsipi",
+      " Vəzifələrin bölünməsi prinsipi",
+      " Hücum səthinin sahəsini minimuma endirilməsi prinsipi",
+      " Xidmətlərə etibar edilməməsi prinsipi",
+      "Təhlükəsizliyi sadələşdirmək prinsipi"
+    ],
+    "answer": "Təhlükəsizliyi sadələşdirmək prinsipi"
+  },
+  {
+    "id": 194,
+    "question": "e-ticarət veb saytının istifadəçisi eyni vaxtda administrator kimi irəli çəkilməməlidir, çünki onlar sifarişləri dəyişdirə və məhsulları özlərinə çatdıra bilərlər - bu fikir hansı prinsipdə nəzərə alınmışdır?",
+    "options": [
+      "özlərinə çatdıra bilərlər\" - bu fikir hansı prinsipdə nəzərə alınmışdır?",
+      " Təhlükəsiz şəkildə uğursuzluq prinsipi.",
+      " Hücum səthinin sahəsini minimuma endirilməsi prinsipi",
+      " Təhlükəsizliyi sadələşdirmək prinsipi",
+      "Vəzifələrin bölünməsi prinsipi"
+    ],
+    "answer": "Vəzifələrin bölünməsi prinsipi"
+  },
+  {
+    "id": 195,
+    "question": "Təhlükəsizlik siyasətləri neçə qrupa bölünür?",
+    "options": [
+      " 2",
+      " 5",
+      " 9",
+      "10",
+      " 4"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 196,
+    "question": "Aşağıdakılardan hansı siyasət risklərə müxtəlif yollarla yanaşan çoxsaylı təhlükəsizlik nəzarətlərinin tətbiqin təhlükəsizliyini təmin etmək üçün ən yaxşı seçim olduğu fikrini təsdiqləyir?",
+    "options": [
+      "Təhlükəsiz şəkildə uğursuzluq prinsipi",
+      " Hücum səthinin sahəsini minimuma endirilməsi prinsipi",
+      " Təhlükəsizliyi sadələşdirmək prinsipi",
+      " Dərin Müdafiə Prinsipi",
+      " Xidmətlərə etibar edilməməsi prinsipi"
+    ],
+    "answer": "Dərin Müdafiə Prinsipi"
+  },
+  {
+    "id": 197,
+    "question": "Aşağıdakı siyasətlərdən hansı siyasət tətbiqin standart olaraq təhlükəsiz olmasını müəyyən edir?",
+    "options": [
+      " Dərin Müdafiə Prinsipi",
+      " Xidmətlərə etibar edilməməsi prinsipi",
+      " Təhlükəsiz şəkildə uğursuzluq prinsipi.",
+      "Təhlükəsizlik standartlarının yaradılması prinsipi",
+      " Hücum səthinin sahəsini minimuma endirilməsi prinsipi"
+    ],
+    "answer": "Təhlükəsizlik standartlarının yaradılması prinsipi"
+  },
+  {
+    "id": 198,
+    "question": "\"Hər dəfə proqramçı öz tətbiqlərinə funksiyalar əlavə etdikdə, zəiflik riskini artırır\" bu fikir hansı prinsipdə nəzərə alınmışdır?",
+    "options": [
+      " Təhlükəsiz şəkildə uğursuzluq prinsipi.",
+      " Dərin Müdafiə Prinsipi",
+      " Təhlükəsizliyi sadələşdirmək prinsipi",
+      " Xidmətlərə etibar edilməməsi prinsipi",
+      "Hücum səthinin sahəsini minimuma endirilməsi prinsipi"
+    ],
+    "answer": "Hücum səthinin sahəsini minimuma endirilməsi prinsipi"
+  },
+  {
+    "id": 199,
+    "question": "Avtorizasiya nədir?",
+    "options": [
+      "İstifadəçinin şəxsiyyətinə uyğun olaraq giriş hüquqlarının təyin olunduğu və idarə olunduğu mərhələdir",
+      " İnformasiya mühitində dövlətin, fiziki və hüquqi şəxslərin qorunmasının vəziyyətidir",
+      " Proqram təminatının ilkin qəbulu (installyasiyası) və cari icrasının təhlükəsiz təşkilidir",
+      " Təhlükəsiz proqram təminatının hazırlanması prosesinin təşkilidir",
+      " Susmaya görə təhlükəsizlik rejiminin qoşulmasıdır"
+    ],
+    "answer": "İstifadəçinin şəxsiyyətinə uyğun olaraq giriş hüquqlarının təyin olunduğu və idarə olunduğu mərhələdir"
+  },
+  {
+    "id": 200,
+    "question": "Aşağıdakılardan hansı güclü parol hesab olunur?",
+    "options": [
+      " nuMpPy09",
+      " moBiLe202",
+      " Linux16",
+      " ORACLe19",
+      "CybeR^^((99"
+    ],
+    "answer": "CybeR^^((99"
+  },
+  {
+    "id": 201,
+    "question": "Aşağıdakılardan hansı güclü parol hesab olunur?",
+    "options": [
+      "Practice^^((22",
+      " map15",
+      " LearniNg098",
+      " 5322789",
+      " CoMPuteR54321"
+    ],
+    "answer": "Practice^^((22"
+  },
+  {
+    "id": 202,
+    "question": "Aşağıdakılardan hansı verilənlər bazası sistemidir?",
+    "options": [
+      " Numpy",
+      " Anaconda",
+      "SQLite",
+      " Table",
+      " Linux"
+    ],
+    "answer": "SQLite"
+  },
+  {
+    "id": 203,
+    "question": "Aşağıdakılardan hansı sql injection hücum növüdür?",
+    "options": [
+      " IP Null attack",
+      " SYN Flood",
+      " Appsec FAQ",
+      "Out-of-band SQLi",
+      " HTTP Flood"
+    ],
+    "answer": "Out-of-band SQLi"
+  },
+  {
+    "id": 204,
+    "question": "Aşağıdakılardan hansı sql injection hücum növüdür?",
+    "options": [
+      " Volumetric attacks",
+      " UDP Flood",
+      "Time-based Blind SQLi",
+      " IP Null attack",
+      " Bonets"
+    ],
+    "answer": "Time-based Blind SQLi"
+  },
+  {
+    "id": 205,
+    "question": "Aşağıdakılardan hansı sql injection hücum növüdür?",
+    "options": [
+      " Password Dpraying",
+      " Appsec FAQ",
+      " Bonets",
+      "Boolean-based Blind SQLi",
+      " ICMP (Ping) Flood"
+    ],
+    "answer": "Boolean-based Blind SQLi"
+  },
+  {
+    "id": 206,
+    "question": "Aşağıdakılardan hansı sql injection hücum növüdür?",
+    "options": [
+      " HTTP Flood",
+      " Appsec FAQ",
+      " UDP Flood",
+      "Inferential SQLi",
+      " Credential stuffing"
+    ],
+    "answer": "Inferential SQLi"
+  },
+  {
+    "id": 207,
+    "question": "Aşağıdakılardan hansı sql injection hücum növüdür?",
+    "options": [
+      " IP Null attack",
+      " UDP Flood",
+      " Password Dpraying",
+      " Bonets",
+      "Union-based SQLi"
+    ],
+    "answer": "Union-based SQLi"
+  },
+  {
+    "id": 208,
+    "question": "Aşağıdakı variantlardan hansında Tətbiqə təsir edə biləcək təhdidlər düzgün qeyd edilmişdir?",
+    "options": [
+      "Şəbəkə, Host və Proqram təhdidləri",
+      " Host və Proqram təhdidləri",
+      " Yalnız şəbəkə təhdidləri",
+      " Yalnız Proqrm təhdidləri",
+      " Kod təhdidləri"
+    ],
+    "answer": "Şəbəkə, Host və Proqram təhdidləri"
+  },
+  {
+    "id": 209,
+    "question": "OWASP neçə sahəni özündə əks etdirən təhlükəsiz kodlaşdırma təcrübəsi təqdim edir?",
+    "options": [
+      " 6",
+      " 12",
+      " 10",
+      "14",
+      " 8"
+    ],
+    "answer": "14"
+  },
+  {
+    "id": 210,
+    "question": "Aşağıdakılardan hansı təhlükəsiz kodlaşdırma üçün istifadə edilən alətlərdəndir?",
+    "options": [
+      " Auty",
+      " Visual Studio",
+      " Visual Code",
+      "Arachni",
+      " İDLE"
+    ],
+    "answer": "Arachni"
+  },
+  {
+    "id": 211,
+    "question": "Aşağıdakılardan hansı təhlükəsiz kodlaşdırma üçün istifadə edilən alətlərdəndir?",
+    "options": [
+      " Visual Code",
+      " İDLE",
+      " Google Autentificator",
+      "Code Warrior",
+      " Visual Studio"
+    ],
+    "answer": "Code Warrior"
+  },
+  {
+    "id": 212,
+    "question": "Qeyri-müəyyənliyə əsaslanan təhlükəsizliyə heç vaxt etibar edilməməsi lazım olduğunu bildirir bu fikir hansı prinsipdə nəzərə alınmışdır",
+    "options": [
+      "Təhlükəsizliyi sadələşdirmək prinsipi",
+      " Hücum səthinin sahəsini minimuma endirilməsi prinsipi",
+      " Təhlükəsiz şəkildə uğursuzluq prinsipi.",
+      " Xidmətlərə etibar edilməməsi prinsipi",
+      "Qeyri-müəyyənlik səbəbindən təhlükəsizlikdən əmin olmamaq prinsipi"
+    ],
+    "answer": "Qeyri-müəyyənlik səbəbindən təhlükəsizlikdən əmin olmamaq prinsipi"
+  },
+  {
+    "id": 213,
+    "question": "Tətbiqdə təhlükəsizlik problemi aşkar edilərsə, tərtibatçılar problemin əsas səbəbini müəyyən etməlidirlər bu fikir hansı prinsipdə nəzərə alınmışdır?",
+    "options": [
+      "Dərin Müdafiə Prinsipi?",
+      " Hücum səthinin sahəsini minimuma endirilməsi prinsipi",
+      " Xidmətlərə etibar edilməməsi prinsipi",
+      "Təhlükəsizlik problemlərinin düzgün şəkildə həll edilməsi prinsipi",
+      " Təhlükəsiz şəkildə uğursuzluq prinsipi."
+    ],
+    "answer": "Təhlükəsizlik problemlərinin düzgün şəkildə həll edilməsi prinsipi"
+  },
+  {
+    "id": 214,
+    "question": "Aşağıdakı variantlardan hansında Avtorizasiya prosesi düzgün izah olunmuşdur?",
+    "options": [
+      " Susmaya görə təhlükəsizlik rejiminin qoşulmasıdır",
+      " Proqram təminatının ilkin qəbulu (installyasiyası) və cari icrasının təhlükəsiz təşkilidir",
+      " İnformasiya mühitində dövlətin, fiziki və hüquqi şəxslərin qorunmasının vəziyyətidir",
+      "İstifadəçinin şəxsiyyətinə uyğun olaraq giriş hüquqlarının təyin olunduğu və idarə olunduğu mərhələdir",
+      " Təhlükəsiz proqram təminatının hazırlanması prosesinin təşkilidir"
+    ],
+    "answer": "İstifadəçinin şəxsiyyətinə uyğun olaraq giriş hüquqlarının təyin olunduğu və idarə olunduğu mərhələdir"
+  },
+  {
+    "id": 215,
+    "question": "Media girişinə nəzarət ünvanı(MAC ünvanı) hansıdır?",
+    "options": [
+      "MIC",
+      " DES",
+      " 3DES",
+      " PGP",
+      " RSA"
+    ],
+    "answer": "MIC"
+  },
+  {
+    "id": 216,
+    "question": "Əsas mətni BLOK şifrələmə metodu ilə şifrələyin. K=2 Əsas mətn = SYSTEM",
+    "options": [
+      " vndjsa",
+      " mkjdsa",
+      "wvjzeb",
+      " dvjcns",
+      " dfwplk"
+    ],
+    "answer": "wvjzeb"
+  },
+  {
+    "id": 217,
+    "question": "217.Ölkə daxilində kriptoqrafiyanın tətbiqi və ikili təyinatlı proqram vasitələrinin ixracına müəyyən nəzarəti həyata keçirmək niyyətində olan ölkələr qrupu hansıdır",
+    "options": [
+      "olan ölkələr qrupu hansıdır?",
+      "sarı qrup",
+      " ağ qrup",
+      " qara qrup",
+      " qırmızı qrup"
+    ],
+    "answer": "sarı qrup"
+  },
+  {
+    "id": 218,
+    "question": "Əsas mətni BLOK şifrələmə metodu ilə şifrələyin. K=1 Əsas mətn = SYSTEM",
+    "options": [
+      " wergfh",
+      "temwvj",
+      " poebhf",
+      " rtyhjk",
+      " lkjqnk"
+    ],
+    "answer": "temwvj"
+  },
+  {
+    "id": 219,
+    "question": "Kiminsə şəxsi mülahizəsindən, alınma üsulundan asılı olmayan, yaxud çox az asılı olan informasiya necə informasiya hesab edilir?",
+    "options": [
+      " aktual",
+      " anlayışlı",
+      " güvənli",
+      " etibarlı",
+      "bütöv"
+    ],
+    "answer": "bütöv"
+  },
+  {
+    "id": 220,
+    "question": "Kriptoqrafiyanın tətbiqini praktiki olaraq məhdudlaşdırmayan ölkələr qrupu hansıdır?",
+    "options": [
+      " qara qrup",
+      " sarı qrup",
+      " qırmızı qrup",
+      "yaşıl qrup",
+      " ağ qrup"
+    ],
+    "answer": "yaşıl qrup"
+  },
+  {
+    "id": 221,
+    "question": "221.Hansı hashing növündə ilk dəfə kompüter oyun proqramlarında şahmat vəziyyətlərini kompakt şəkildə təmsil etmək üsulu kimi təqdim etmişdilər?",
+    "options": [
+      "Zobrist hashing",
+      " Trival",
+      " dəqiqlik hash funksiyası",
+      " Folding",
+      " dinamik hash"
+    ],
+    "answer": "Zobrist hashing"
+  },
+  {
+    "id": 222,
+    "question": "Elektron rəqəmsal imza yaradılarkən istifadə olunur ...",
+    "options": [
+      "ümumi parametrlər, məxfi açar və açıq açar",
+      " gizli açar və gizli açarın ümumi parametrləri",
+      " məxfi açar və təhlükəsizlik zərfi",
+      " gizli açarın ümumi parametrləri",
+      " açıq açar"
+    ],
+    "answer": "ümumi parametrlər, məxfi açar və açıq açar"
+  },
+  {
+    "id": 223,
+    "question": "Əsas mətni BLOK şifrələmə metodu ilə şifrələyin. K=2 Əsas mətn = SİMVOL",
+    "options": [
+      " plmnhg",
+      " sdfjkl",
+      " podhfj",
+      "retehz",
+      " uthgbf"
+    ],
+    "answer": "retehz"
+  },
+  {
+    "id": 224,
+    "question": "Assosiativ massivlər və dinamik dəstlər nə vasitəsi ilə həyata keçirilir?",
+    "options": [
+      " riyazi hesablama",
+      " xətti alqoritmlər",
+      "hash cədvəlləri",
+      " şifrləmə",
+      " kodlaşdırma"
+    ],
+    "answer": "hash cədvəlləri"
+  },
+  {
+    "id": 225,
+    "question": "Əsas mətni BLOK şifrələmə metodu ilə şifrələyin. K=1 Əsas mətn = SİMVOL",
+    "options": [
+      " ertghk",
+      " iuytrh",
+      "volret",
+      " plkjhg",
+      " ythgjf"
+    ],
+    "answer": "volret"
+  },
+  {
+    "id": 226,
+    "question": "Aşağıdakılardan hansı İnformasiya təhdidi anlayışıdır?",
+    "options": [
+      " Əməkdaşlara qarşı yönələn təhlükələr başa düşülür",
+      "Obyekt üçün informasiya təhlükəsi yaradan amil və ya amillər toplusu başa düşülür",
+      " Qəsdən törədilmiş təhlükələr başa düşülür",
+      " Təbii fəlakətlər və təsadüfi proseslər başa düşülür",
+      " Texniki avadanlıqlara qarşı yönələn təhlükələr başa düşülür"
+    ],
+    "answer": "Obyekt üçün informasiya təhlükəsi yaradan amil və ya amillər toplusu başa düşülür"
+  },
+  {
+    "id": 227,
+    "question": "Hücumçu mərkəzli yanaşma necə izah olunur?",
+    "options": [
+      "Əsas diqqət təcavüzkarın xüsusiyyətlərini, bacarıq dəstini və ya xidməti təhlükə altına almaq üçün hansı ssenarilərdən istifadə edə biləcəyini profilləşdirməyə yönəldilir.",
+      "Diqqət qurulan proqram təminatına və dizayn, kodlaşdırmasında hansı zəifliklərin təqdim olunacağına yönəldilir",
+      "Əsas diqqət qorunmağa ehtiyacı olan sistemə və ya proqram təminatına həvalə edilmiş aktivlərə (proqram tərəfindən işlənmiş məlumatlar) yönəldilir",
+      " Əsas diqqət sadəcə proqram koduna yönəldilir",
+      " Əsas diqqət proqramın dizaynına yönəldilir"
+    ],
+    "answer": "Əsas diqqət təcavüzkarın xüsusiyyətlərini, bacarıq dəstini və ya xidməti təhlükə altına almaq üçün hansı ssenarilərdən istifadə edə biləcəyini profilləşdirməyə yönəldilir."
+  },
+  {
+    "id": 228,
+    "question": "Aktiv mərkəzli yanaşma necə izah olunur?",
+    "options": [
+      "Əsas diqqət təcavüzkarın xüsusiyyətlərini, bacarıq dəstini və ya xidməti təhlükə altına almaq üçün hansı ssenarilərdən istifadə edə biləcəyini profilləşdirməyə yönəldilir.",
+      "Diqqət qurulan proqram təminatına və dizayn, kodlaşdırmasında hansı zəifliklərin təqdim olunacağına yönəldilir",
+      "Əsas diqqət qorunmağa ehtiyacı olan sistemə və ya proqram təminatına həvalə edilmiş aktivlərə (proqram tərəfindən işlənmiş məlumatlar) yönəldilir",
+      " Əsas diqqət proqramın dizaynına yönəldilir",
+      "• Əsas diqqət sadəcə proqram koduna yönəldilir"
+    ],
+    "answer": "Əsas diqqət qorunmağa ehtiyacı olan sistemə və ya proqram təminatına həvalə edilmiş aktivlərə (proqram tərəfindən işlənmiş məlumatlar) yönəldilir"
+  },
+  {
+    "id": 229,
+    "question": "Aşağıdakılardan hansı təhdid modelləşdirilməsinə yanaşma hesab olunur?",
+    "options": [
+      " Sadəcə hücum mərkəzli yanaşma",
+      " Proqram mərkəzli, Aktiv mərkəzli yanaşma",
+      " Aktiv mərkəzli və Hücum mərkəzli yanaşma",
+      "Proqram mərkəzli, Aktiv mərkəzli və Hücum mərkəzli yanaşma",
+      " Sadəcə Proqram mərkəzli yanaşma"
+    ],
+    "answer": "Proqram mərkəzli, Aktiv mərkəzli və Hücum mərkəzli yanaşma"
+  },
+  {
+    "id": 230,
+    "question": "Təhdid modelləşdirilməsi yanaşmaları neçə qrupa bölünür?",
+    "options": [
+      "3",
+      " 5",
+      " 4",
+      " 2",
+      " 10"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 231,
+    "question": "Xakerlərin yoxlama-yanılma yolu ilə şifrələri həll etmək üçün istifadə etdiyi bir rəqəmsal və kriptoloji hücum üsuludur?",
+    "options": [
+      " Smishing",
+      " SQL İnyeksiyası",
+      " DDOS",
+      " Brute - Force",
+      " İn-Band SQLİ"
+    ],
+    "answer": "Brute - Force"
+  },
+  {
+    "id": 232,
+    "question": "Dictionary attack (Lüğət hücumu) - hansı kiber hücum növunə aiddir?",
+    "options": [
+      " Smishing",
+      " İn-Band SQLİ",
+      " Brute - Force",
+      " DDOS",
+      " SQL İnyeksiyası"
+    ],
+    "answer": "Brute - Force"
+  },
+  {
+    "id": 233,
+    "question": "Paylanmış xidmətdən imtina hücumu aşağıdakılardan hansıdır?",
+    "options": [
+      " Vishing",
+      " Brute-Force",
+      " Qrupdankənar (Out-of-Band) hücumu",
+      " İn-Band (Klassik) hücum",
+      " DDOS"
+    ],
+    "answer": "DDOS"
+  },
+  {
+    "id": 234,
+    "question": "Aşağıdakılardan hansı Brute-Force hücum növləridir ?",
+    "options": [
+      " Qrupdankenar (Out-of-Band) SQLi və in - Band (klassik) hücum",
+      " Lüğət hücumu və vishing",
+      " smishing və vishing",
+      " Lüğət hücumu və sadə kobud güc hücumu",
+      " in-band (Klassik) SQLi və Lüğət hücumu"
+    ],
+    "answer": "Lüğət hücumu və sadə kobud güc hücumu"
+  },
+  {
+    "id": 235,
+    "question": "Brute-Force hücumu - ..... kiber hücum növüdür?",
+    "options": [
+      " İstifadəçini müxtəlif yollarla eyni olan, amma saxta hansısa sayta və ya digər resursa yönəldən hücum",
+      " Verilənlər bazasında səhv mesajları yaratmağa səbəb olan hərəkətləri yerinə yetirən hücum",
+      "Vahid HTTP cavabı almaq üçün verilənlər bazası tərəfindən yaradılan çoxsaylı seçilmiş ifadələri birləşdirən UNION SQL operatorundan istifadə edən hücum",
+      "Güclü məlumat axının təsiri ilə e-poçt, sosial şəbəkə və s. hesab şifrələrinin qırılmasına kömək edən hücum",
+      "Səsin avtomatik simuliyasiyası texnologiyasından istifadə olunan hücum"
+    ],
+    "answer": "Güclü məlumat axının təsiri ilə e-poçt, sosial şəbəkə və s. hesab şifrələrinin qırılmasına kömək edən hücum"
+  },
+  {
+    "id": 236,
+    "question": "SQL inyeksiya neçə alt kateqoriyadan ibarətdir?",
+    "options": [
+      " 2",
+      " 4",
+      " 5",
+      "3",
+      " 6"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 237,
+    "question": "237.Verilənlər bazası fəaliyyətinin monitorinqi və məlumat itkisinin qarşısının alınması vasitələrinə nəzarət etmək üçün hansı nəzarətdən istifadə edilir",
+    "options": [
+      "Aktiv nəzarət",
+      " Simmetrik nəzarət",
+      " Profilaktik nəzarət",
+      " İnzibati nəzarət",
+      "Detektiv nəzarət"
+    ],
+    "answer": "Detektiv nəzarət"
+  },
+  {
+    "id": 238,
+    "question": "Giriş, şifrələmə, tokenləşdirmə və maskalanmanı idarə etmək üçün hansı nəzarətdən istifadə edilir?",
+    "options": [
+      " İnzibati nəzarət",
+      " Aktiv nəzarət",
+      " Simmetrik nəzarət",
+      "Profilaktik nəzarət",
+      " Detektiv nəzarət"
+    ],
+    "answer": "Profilaktik nəzarət"
+  },
+  {
+    "id": 239,
+    "question": "Verilənlər bazası üçün quraşdırma, dəyişiklik və konfiqurasiya idarəetməsini idarə etmək üçün hansı nəzarətdən istifadə edilir?",
+    "options": [
+      " Detektiv nəzarət",
+      " Aktiv nəzarət",
+      " Simmetrik nəzarət",
+      "İnzibati nəzarət",
+      " Profilaktik nəzarət"
+    ],
+    "answer": "İnzibati nəzarət"
+  },
+  {
+    "id": 240,
+    "question": "240.Verilənlər bazasının əsas təhlükəsizlik növlərini seçin:1.İdentifikasiya 2.Verilənlər Bazasının Şifrələnməsi 3.Ehtiyat verilənlər bazası 4.Fiziki Təhlükəsizlik 5.Tətbiq Təhlükəsizliyi",
+    "options": [
+      " 1,4,5",
+      " 2,4,5",
+      " 1,3,4,5",
+      "1,2,3,4,5",
+      " 1,2,3"
+    ],
+    "answer": "1,2,3,4,5"
+  },
+  {
+    "id": 241,
+    "question": "Perimetr səviyyəsinə aşağıdakılardan hansı aiddir?",
+    "options": [
+      " Tokenləşdirmə",
+      " Şifrələmə",
+      " Makalanma",
+      "Firewalllar",
+      " Girişə nəzarət siyahıları"
+    ],
+    "answer": "Firewalllar"
+  },
+  {
+    "id": 242,
+    "question": "Giriş səviyyəsinə aşağıdakılardan hansı aiddir?",
+    "options": [
+      " Tokenləşdirmə",
+      " Firewalllar",
+      " Şifrələmə",
+      "Girişə nəzarət siyahıları",
+      " Makalanma"
+    ],
+    "answer": "Girişə nəzarət siyahıları"
+  },
+  {
+    "id": 243,
+    "question": "Verilənlər bazası səviyyəsinə aşağıdakılardan hansı aiddir?",
+    "options": [
+      " Virtual şəxsi şəbəkələr",
+      " Firewalllar",
+      "Şifrələmə",
+      " İcazələr",
+      " Girişə nəzarət siyahıları"
+    ],
+    "answer": "Şifrələmə"
+  },
+  {
+    "id": 244,
+    "question": "Verilənlər bazası səviyyəsinə aşağıdakılardan hansı aiddir?",
+    "options": [
+      " Girişə nəzarət siyahıları",
+      "Maskalanma",
+      " Firewalllar",
+      " Virtual şəxsi şəbəkələr",
+      " İcazələr"
+    ],
+    "answer": "Maskalanma"
+  },
+  {
+    "id": 245,
+    "question": "Aşağıdakılardan hansı ddos hücum növüdür?",
+    "options": [
+      " Appsec FAQ",
+      "SYN Flood",
+      " Out-of-Band SQLİ)",
+      " Bonets",
+      " İn-band SQLi"
+    ],
+    "answer": "SYN Flood"
+  },
+  {
+    "id": 246,
+    "question": "Aşağıdakılardan hansı ddos hücum növüdür?",
+    "options": [
+      " Live CD",
+      "ICMP (Ping) Flood",
+      " WebScarab",
+      " Bonets",
+      " Credential stuffing"
+    ],
+    "answer": "ICMP (Ping) Flood"
+  },
+  {
+    "id": 247,
+    "question": "Aşağıdakılardan hansı ddos hücum növüdür?",
+    "options": [
+      " Bonets",
+      "UDP Flood",
+      " Credential stuffing",
+      " Hybrid brute force attack",
+      " WebScarab"
+    ],
+    "answer": "UDP Flood"
+  },
+  {
+    "id": 248,
+    "question": "Aşağıdakılardan hansı ddos hücum növüdür?",
+    "options": [
+      " WebScarab",
+      "Volumetric attacks",
+      " Credential stuffing",
+      " Bonets",
+      " LAPSE"
+    ],
+    "answer": "Volumetric attacks"
+  },
+  {
+    "id": 249,
+    "question": "Aşağıdakılardan hansı ddos hücum növüdür?",
+    "options": [
+      " İn-band SQLi",
+      "Protocol attack",
+      " Bonets",
+      " Credential stuffing",
+      " Password Dpraying"
+    ],
+    "answer": "Protocol attack"
+  },
+  {
+    "id": 250,
+    "question": "Aşağıdakılardan hansı brute force hücum növü deyil?",
+    "options": [
+      " Hybrid brute force attack",
+      "IP Null attack",
+      " Bonets",
+      " Credential stuffing",
+      " Password Dpraying"
+    ],
+    "answer": "IP Null attack"
+  },
+  {
+    "id": 251,
+    "question": "Aşağıdakılardan hansı brute force hücum növü deyil?",
+    "options": [
+      " Credential stuffing",
+      "WebGoat",
+      " Bonets",
+      " Hybrid brute force attack",
+      " Password Dpraying"
+    ],
+    "answer": "WebGoat"
+  },
+  {
+    "id": 252,
+    "question": "Aşağıdakılardan hansı brute force hücum növü deyil?",
+    "options": [
+      " Bonets",
+      "Whaling attack",
+      " Credential stuffing",
+      " Hybrid brute force attack",
+      " Password Dpraying"
+    ],
+    "answer": "Whaling attack"
+  },
+  {
+    "id": 253,
+    "question": "Aşağıdakılardan hansı brute force hücum növü deyil?",
+    "options": [
+      " Credential stuffing",
+      "Ping Flood",
+      " Bonets",
+      " Hybrid brute force attack",
+      " Password Dpraying"
+    ],
+    "answer": "Ping Flood"
+  },
+  {
+    "id": 254,
+    "question": "Aşağıdakılardan hansı brute force hücum növü deyil?",
+    "options": [
+      " Password Dpraying",
+      "CharGEN Flood",
+      " Credential stuffing",
+      " Bonets",
+      " Hybrid brute force attack"
+    ],
+    "answer": "CharGEN Flood"
+  },
+  {
+    "id": 255,
+    "question": "Aşağıdakılardan hansı brute force hücum növüdür?",
+    "options": [
+      " WebScarab",
+      "Bonets",
+      " Session attack",
+      " Smurf attack",
+      " Appsec FAQ"
+    ],
+    "answer": "Bonets"
+  },
+  {
+    "id": 256,
+    "question": "Aşağıdakılardan hansı brute force hücum növüdür?",
+    "options": [
+      " WebScarab",
+      "Credential stuffing",
+      " Error-based",
+      " Session attack",
+      " LAPSE"
+    ],
+    "answer": "Credential stuffing"
+  },
+  {
+    "id": 257,
+    "question": "Aşağıdakılardan hansı təhdidlərin modelləşdirməsi yanaşmasıdır?",
+    "options": [
+      " Qeyr-aktiv mərkəzli",
+      "Hücumçu mərkəzli",
+      " İdarəetmə mərkəzli",
+      " Konfiqurasiyanın idarə edilməsi",
+      " Səlahiyyələrin verilməsi"
+    ],
+    "answer": "Hücumçu mərkəzli"
+  },
+  {
+    "id": 258,
+    "question": "Aşağıdakılardan hansı təhdidlərin modelləşdirməsi yanaşmasıdır?",
+    "options": [
+      " Konfiqurasiyanın idarə edilməsi",
+      " Səlahiyyələrin verilməsi",
+      "Aktiv mərkəzli",
+      " İdarəetmə mərkəzli",
+      " Qeyr-aktiv mərkəzli"
+    ],
+    "answer": "Aktiv mərkəzli"
+  },
+  {
+    "id": 259,
+    "question": "Aşağıdakılardan hansı təhdidlərin modelləşdirməsi yanaşmasıdır?",
+    "options": [
+      " Səlahiyyələrin verilməsi",
+      " Konfiqurasiyanın idarə edilməsi",
+      " Qeyr-aktiv mərkəzli",
+      " İdarəetmə mərkəzli",
+      "Proqram mərkəzli"
+    ],
+    "answer": "Proqram mərkəzli"
+  },
+  {
+    "id": 260,
+    "question": "Aşağıdakılardan hansı brute force hücum növüdür?",
+    "options": [
+      " Whaling attack",
+      " CharGEN Flood",
+      " IP Null attack",
+      "Password Dpraying",
+      " Smurf attack"
+    ],
+    "answer": "Password Dpraying"
+  },
+  {
+    "id": 261,
+    "question": "Aşağıdakılardan hansı brute force hücum növüdür?",
+    "options": [
+      " IP Null attack",
+      " Ping Flood",
+      " Session attack",
+      "Dictionary attack",
+      " Error-based"
+    ],
+    "answer": "Dictionary attack"
+  },
+  {
+    "id": 262,
+    "question": "Aşağıdakılardan hansı hücum mərkəzli yanaşmadır?",
+    "options": [
+      "Əsas diqqət qorunmağa ehtiyacı olan sistemə və ya proqram təminatına həvalə edilmiş aktivlərə (proqram tərəfindən işlənmiş məlumatlar) yönəldilir",
+      "Əsas diqqət proqramın dizaynına yönəldilir",
+      " Əsas diqqət sadəcə proqram koduna yönəldilir",
+      "Əsas diqqət təcavüzkarın xüsusiyyətlərini, bacarıq dəstini və ya xidməti təhlükə altına almaq üçün hansı ssenarilərdən istifadə edə biləcəyini profilləşdirməyə yönəldilir.",
+      "Əsas diqqət proqramın dizaynına yönəldilir"
+    ],
+    "answer": "Əsas diqqət təcavüzkarın xüsusiyyətlərini, bacarıq dəstini və ya xidməti təhlükə altına almaq üçün hansı ssenarilərdən istifadə edə biləcəyini profilləşdirməyə yönəldilir."
+  },
+  {
+    "id": 263,
+    "question": "Aktiv mərkəzli yanaşma dedikdə nə nəzərdə tutulur?",
+    "options": [
+      " Əsas diqqət sadəcə proqram koduna yönəldilir",
+      " Diqqət qurulan proqram təminatına və dizayn, kodlaşdırmasında hansı zəifliklərin təqdim olunacağına yönəldilir",
+      "Əsas diqqət təcavüzkarın xüsusiyyətlərini, bacarıq dəstini və ya xidməti təhlükə altına almaq üçün hansı ssenarilərdən istifadə edə biləcəyini profilləşdirməyə yönəldilir.",
+      "Əsas diqqət qorunmağa ehtiyacı olan sistemə və ya proqram təminatına həvalə edilmiş aktivlərə (proqram tərəfindən işlənmişməlumatlar) yönəldilir",
+      "Əsas diqqət proqramın dizaynına yönəldilir"
+    ],
+    "answer":  "Əsas diqqət qorunmağa ehtiyacı olan sistemə və ya proqram təminatına həvalə edilmiş aktivlərə (proqram tərəfindən işlənmişməlumatlar) yönəldilir"
+  },
+  {
+    "id": 264,
+    "question": "SQL İnyeksiyasının növləri hansı variantda düzgün verilmişdir?",
+    "options": [
+      " MS SQL, MySQL",
+      " İn-Band (Klassik), Qrupdankənar (Out-of-band) SQL inyeksiyası",
+      " Vishing, Smishing",
+      "İn-Band (Klassik), İnferensial (Kor), Qrupdankənar (Out-of-band) SQL inyeksiyası",
+      " Brute-Forse, DDOS"
+    ],
+    "answer": "İn-Band (Klassik), İnferensial (Kor), Qrupdankənar (Out-of-band) SQL inyeksiyası"
+  },
+  {
+    "id": 265,
+    "question": "Aşağıdakılardan hansı Autentifikasiya anlayışını izah edir?",
+    "options": [
+      " Təhlükəsiz proqram təminatının hazırlanması prosesinin təşkilidir",
+      " Proqram təminatının ilkin qəbulu (installyasiyası) və cari icrasının təhlükəsiz təşkilidir",
+      " İnformasiya mühitində dövlətin, fiziki və hüquqi şəxslərin qorunmasının vəziyyətidir",
+      "Subyekt tərəfindən təqdim edilmiş eyniləşdirmə məlumatlarının həqiqiliyinin yoxlanması prosesidir",
+      " Susmaya görə təhlükəsizlik rejiminin qoşulmasıdır"
+    ],
+    "answer": "Subyekt tərəfindən təqdim edilmiş eyniləşdirmə məlumatlarının həqiqiliyinin yoxlanması prosesidir"
+  },
+  {
+    "id": 266,
+    "question": "Simple brute force attack (Sadə kobud güc hücumu) - hansı kiber hücum növunə aiddir?",
+    "options": [
+      " İn-Band SQLİ",
+      " FDCS",
+      " SQL İnyeksiyası",
+      " DDOS",
+      "Brute - Force"
+    ],
+    "answer": "Brute - Force"
+  },
+  {
+    "id": 267,
+    "question": "Siyasi, kommersiya, reklam və digər növ məlumatları kütləvi və anonim şəkildə istədiyi yerə göndərə bilən xüsusi proqrama ..... deyilir.",
+    "options": [
+      " Brute-Force",
+      " DDOS",
+      " Smishing",
+      " Vishing",
+      "SPAM"
+    ],
+    "answer": "SPAM"
+  },
+  {
+    "id": 268,
+    "question": "Klassik SQL inyeksiyası (İn-band SQLi) necə izah olunur?",
+    "options": [
+      "Təcavüzkar proqramdan nəticə qaytarmağı tələb edən verilənlər bazasına SQL sorğusu göndərir. Nəticə sorğunun doğru və ya yalan olmasından asılı olaraq dəyişir.",
+      "Təcavüzkar bu hücum formasını yalnız veb proqram tərəfindən istifadə edilən verilənlər bazası serverində müəyyən funksiyalar işə salındıqda həyata keçirə bilər",
+      "təcavüzkar hücumlarına başlamaq və nəticələrini toplamaq üçün eyni rabitə kanalından istifadə edir",
+      "Hücumçu verilənlər bazasına SQL sorğusu göndərir ki, bu da verilənlər bazasını reaksiya verməzdən əvvəl (bir neçə saniyə ərzində) gözləməyə məcbur edir.",
+      "Təcavüzkar serverə məlumat yükü göndərir və onun strukturu haqqında daha çox öyrənmək üçün serverin reaksiyasını və davranışını müşahidə edir."
+    ],
+    "answer": "təcavüzkar hücumlarına başlamaq və nəticələrini toplamaq üçün eyni rabitə kanalından istifadə edir"
+  },
+  {
+    "id": 269,
+    "question": "Kor SQL inyeksiyası (İnferensial SQLi- Blind) aşağıdakılardan hansıdır?",
+    "options": [
+      " Təcavüzkar verilənlər bazasında səhv mesajları yaratmağa səbəb olan hərəkətləri yerinə yetirir",
+      "Bu texnika vahid HTTP cavabı almaq üçün verilənlər bazası tərəfindən yaradılan çoxsaylı seçilmiş ifadələri birləşdirən UNION SQL operatorundan istifadə edir",
+      "Təcavüzkar proqramdan nəticə qaytarmağı tələb edən verilənlər bazasına SQL sorğusu göndərir.Nəticə sorğunun doğru və ya yalan olmasından asılı olaraq dəyişir",
+      "Təcavüzkar serverə məlumat yükü göndərir və onun strukturu haqqında daha çox öyrənmək üçün serverin reaksiyasını və davranışını müşahidə edir",
+      "Hücumçu verilənlər bazasına SQL sorğusu göndərir ki, bu da verilənlər bazasını reaksiya verməzdən əvvəl (bir neçə saniyə ərzində) gizləməyə məcbur edir"
+    ],
+    "answer": "Təcavüzkar serverə məlumat yükü göndərir və onun strukturu haqqında daha çox öyrənmək üçün serverin reaksiyasını və davranışını müşahidə edir"
+  },
+  {
+    "id": 270,
+    "question": "Error-based SQLi aşağıdakılardan hansıdır?",
+    "options": [
+      "Təcavüzkar serverə məlumat yükü göndərir və onun strukturu haqqında daha çox öyrənmək üçün serverin reaksiyasını və davranışını müşahidə edir",
+      "Təcavüzkar proqramdan nəticə qaytarmağı tələb edən verilənlər bazasına SQL sorğusu göndərir.Nəticə sorğunun doğru və ya yalanolmasından asılı olaraq dəyişir.",
+      "Hücumçu verilənlər bazasına SQL sorğusu göndərir ki, bu da verilənlər bazasını reaksiya verməzdən əvvəl (bir neçə saniyə ərzində)gözləməyə məcbur edir.",
+      "Təcavüzkar verilənlər bazasında səhv mesajları yaratmağa səbəb olan hərəkətləri yerinə yetirir",
+      "bu texnika vahid HTTP cavabı almaq üçün verilənlər bazası tərəfindən yaradılan çoxsaylı seçilmiş ifadələri birləşdirən UNION SQL operatorundan istifadə edir."
+    ],
+    "answer": "Təcavüzkar verilənlər bazasında səhv mesajları yaratmağa səbəb olan hərəkətləri yerinə yetirir"
+  },
+  {
+    "id": 271,
+    "question": "Zamana əsaslanan SQLİ dedikdə nə nəzərdə tutulur?",
+    "options": [
+      "Təcavüzkar serverə məlumat yükü göndərir və onun strukturu haqqında daha çox öyrənmək üçün serverin reaksiyasını və davranışını müşahidə edir",
+      "Bu texnika vahid HTTP cavabı almaq üçün verilənlər bazası tərəfindən yaradılan çoxsaylı seçilmiş ifadələri birləşdirən UNION SQL operatorundan istifadə edir.",
+      "Təcavüzkar proqramdan nəticə qaytarmağı tələb edən verilənlər bazasına SQL sorğusu göndərir.Nəticə sorğunun doğru və ya yalan olmasından asılı olaraq dəyişir.",
+      "Təcavüzkar verilənlər bazasında səhv mesajları yaratmağa səbəb olan hərəkətləri yerinə yetirir",
+      "ücumçu verilənlər bazasına SQL sorğusu göndərir ki, bu da verilənlər bazasını reaksiya verməzdən əvvəl (bir neçə saniyə ərzində)gözləməyə məcbur edir."
+    ],
+    "answer": "ücumçu verilənlər bazasına SQL sorğusu göndərir ki, bu da verilənlər bazasını reaksiya verməzdən əvvəl (bir neçə saniyə ərzində)gözləməyə məcbur edir."
+  },
+  {
+    "id": 272,
+    "question": "Boolean SQLi dedikdə nə nəzərdə tutulur?",
+    "options": [
+      "Təcavüzkar proqramdan nəticə qaytarmağı tələb edən verilənlər bazasına SQL sorğusu göndərir.Nəticə sorğunun doğru və ya yalan olmasından asılı olaraq dəyişir.",
+      "Təcavüzkar verilənlər bazasında səhv mesajları yaratmağa səbəb olan hərəkətləri yerinə yetirir",
+      "Hücumçu verilənlər bazasına SQL sorğusu göndərir ki, bu da verilənlər bazasını reaksiya verməzdən əvvəl (bir neçə saniyə ərzində)gözləməyə məcbur edir.",
+      " Təcavüzkar serverə məlumat yükü göndərir və onun strukturu haqqında daha çox öyrənmək üçün serverin reaksiyasını və davranışını müşahidə edir",
+      "Bu texnika vahid HTTP cavabı almaq üçün verilənlər bazası tərəfindən yaradılan çoxsaylı seçilmiş ifadələri birləşdirən UNION SQL operatorundan istifadə edir."
+    ],
+    "answer": "Təcavüzkar proqramdan nəticə qaytarmağı tələb edən verilənlər bazasına SQL sorğusu göndərir.Nəticə sorğunun doğru və ya yalan olmasından asılı olaraq dəyişir."
+  },
+  {
+    "id": 273,
+    "question": "Klassik SQL inyeksiyası (İn-band SQLi) neçə alt kateqoriyadan ibarətdir?",
+    "options": [
+      " 5",
+      " 4",
+      " 3",
+      " 6",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 274,
+    "question": "Texnoloji səhvlər neçə alt kateqoriyadan ibarətdir?",
+    "options": [
+      "12",
+      " 10",
+      " 4",
+      " 5",
+      " 6"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": 275,
+    "question": "Verilənlər bazası səviyyəsinə aşağıdakılardan hansı aiddir?",
+    "options": [
+      " Virtual şəxsi şəbəkələr",
+      " İcazələr",
+      " Girişə nəzarət siyahıları",
+      "Tokenləşdirmə",
+      " Firewalllar"
+    ],
+    "answer": "Tokenləşdirmə"
+  },
+  {
+    "id": 276,
+    "question": "Aşağıdakılardan hansı verilənlər bazasının təhlükəsizliyinin səviyyələrindən hesab olunur?",
+    "options": [
+      " Sahə səviyyəsi",
+      " Yoxlama səviyyəsi",
+      " Test səviyyəsi",
+      "Giriş səviyyəsi",
+      " Tətbiq səviyyəsi"
+    ],
+    "answer": "Giriş səviyyəsi"
+  },
+  {
+    "id": 277,
+    "question": "Verilənlər bazasının təhlükəsizliyinin neçə səviyyəsi mövcuddur?",
+    "options": [
+      " 6",
+      " 4",
+      " 2",
+      " 5",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 278,
+    "question": "Aşağıdakılardan hansı verilənlər bazasının təhlükəsizliyinə aiddir?",
+    "options": [
+      "Qarşılaşa biləcək təhlükələrdən xəbərdar olmaq, işin davamlılığını təmin etmək, baş verə biləcək hər cür problemdə itkiləri minimuma endirmək, hər bir şəraitdə fərdlərin və qurumların aktivlərinin yalnız əlçatanlığını qorumaq məqsədi aiddir",
+      "Qarşılaşa biləcək təhlükələrdən xəbərdar olmaq, işin davamlılığını təmin etmək, baş verə biləcək hər cür problemdə itkiləri minimuma endirmək, hər bir şəraitdə fərdlərin və qurumların aktivlərinin yalnız məxfiliyini qorumaq məqsədi aiddir",
+      "Verilənlər bazasının özünün, onun ehtiva etdiyi verilənlərin, verilənlər bazası idarəetmə sisteminin və ona daxil olan müxtəlif proqramların qorunması aiddir. ",
+      "Təhlükəsiz lahiyəhələndirmə prinsiplərinin tətbiqi, yəni mümkün hücumların nəzərə alınması və onların aradan qaldırılması üsulların reallaşdırılması aiddir",
+      "Təhlükəsiz proqram təminatının hazırlanması prosesinin təşkili aiddir"
+    ],
+    "answer": "Verilənlər bazasının özünün, onun ehtiva etdiyi verilənlərin, verilənlər bazası idarəetmə sisteminin və ona daxil olan müxtəlif proqramların qorunması aiddir"
+  },
+  {
+    "id": 279,
+    "question": "Aşağıdakılardan hansı verilənlər bazasının təhlükəsizliyinə aiddir?",
+    "options": [
+      " Təhlükəsiz proqram təminatının hazırlanması prosesinin təşkili aiddir",
+      "Qarşılaşa biləcək təhlükələrdən xəbərdar olmaq, işin davamlılığını təmin etmək, baş verə biləcək hər cür problemdə itkiləri minimuma endirmək, hər bir şəraitdə fərdlərin və qurumların aktivlərinin yalnız əlçatanlığını qorumaq məqsədi aiddir",
+      "Qarşılaşa biləcək təhlükələrdən xəbərdar olmaq, işin davamlılığını təmin etmək, baş verə biləcək hər cür problemdə itkiləri minimuma endirmək, hər bir şəraitdə fərdlərin və qurumların aktivlərinin yalnız məxfiliyini qorumaq məqsədi aiddi",
+      "Verilənlər bazasının təhlükəsizliyinə verilənlər bazasının məxfiliyini, bütövlüyünü və əlçatanlığını yaratmaq və qorumaq üçün nəzərdə tutulmuş alətlər, nəzarət vasitələri və tədbirlər sırasına aiddir",
+      "Təhlükəsiz lahiyəhələndirmə prinsiplərinin tətbiqi, yəni mümkün hücumların nəzərə alınması və onların aradan qaldırılması üsulların reallaşdırılması aiddir"
+    ],
+    "answer": "Verilənlər bazasının təhlükəsizliyinə verilənlər bazasının məxfiliyini, bütövlüyünü və əlçatanlığını yaratmaq və qorumaq üçün nəzərdə tutulmuş alətlər, nəzarət vasitələri və tədbirlər sırasına aiddir"
+  },
+  {
+    "id": 280,
+    "question": "Diqqət qurulan proqram təminatına və dizayn, kodlaşdırma və ya quraşdırma inteqrasiyasında hansı zəifliklərin və zəifliklərin təqdim olunacağına yönəldilir bu fikir hansı təhdid modelləşdirilməsinə yanaşma üsulunu izah edir?",
+    "options": [
+      "olunacağına yönəldilir\" bu fikir hansı təhdid modelləşdirilməsinə yanaşma üsulunu izah edir?",
+      " Passiv mərkəzli",
+      "Proqram mərkəzli",
+      " Hücumçu mərkəzli",
+      " Aktiv mərkəzli"
+    ],
+    "answer": "Proqram mərkəzli"
+  }
+]
