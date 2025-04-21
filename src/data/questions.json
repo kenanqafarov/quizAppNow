@@ -115,7 +115,7 @@
       " OSİ modelinin nəqliyyat səviyyəsində qurularaq trafikdəki hər bir paketin məzmununa ayrı-ayrılıqda yoxlayır.",
       " Müştəri və təşkilat arasında qurulur və müştəri mesaj göndərərkən həmin sorğunu alır və onu OSİ modelinin application (tətbiq)",
       " Paketləri fərdi şəkildə deyil, vəziyyət cədvəli adlanan cədvəllərdən istifadə edərək çıxış və təyinat IP ünvanları, istifadə olunan portlar və artıq mövcud şəbəkə trafiki ilə müəyyən edilən verilmiş əlaqə üzərindən trafikə baxa bilir.",
-      "Trafikdəki hər bir paketin məzmununa ayrı-ayrılıqda baxır və çıxış və təyinat IP ünvanlarına, port nömrəsinə və istifadə olunan protokola əsaslanaraq, trafikin keçməsinə icazə verilib-verilməyəcəyini müəyyənləşdirir.."
+      "Trafikdəki hər bir paketin məzmununa ayrı-ayrılıqda baxır və çıxış və təyinat IP ünvanlarına, port nömrəsinə və istifadə olunan protokola əsaslanaraq, trafikin keçməsinə icazə verilib-verilməyəcəyini müəyyənləşdirir."
     ],
     "answer": "Trafikdəki hər bir paketin məzmununa ayrı-ayrılıqda baxır və çıxış və təyinat IP ünvanlarına, port nömrəsinə və istifadə olunan protokola əsaslanaraq, trafikin keçməsinə icazə verilib-verilməyəcəyini müəyyənləşdirir."
   },
@@ -292,9 +292,9 @@
     "question": " ... proqram təminatının potensial risklər altında düzgün işləməyə davam etməsi üçün proqramı zərərli hücumdan və digər hücum risklərindən qorumaq üçün həyata keçirilən prosesdir.",
     "options": [
       " Kibercinayətkarlıq.",
-      "  Hardware təhlükəsizliyi",
+      " Hardware təhlükəsizliyi",
       " Hijacking",
-      " Proqram təminatının təhlükəsizliy",
+      " Proqram təminatının təhlükəsizliyi",
       " tHacking"
     ],
     "answer": "Proqram təminatının təhlükəsizliyi"
@@ -1443,9 +1443,9 @@
     "id": 121,
     "question": "Axtarış motoru filtrləri nə edir?",
     "options": [
-      "Webcontent-in yalnız müəyyən bir hissəsinə giriş təklif edir və hansı məzmunun əldə oluna biləcəyi ilə bağlı qərarı istifadəçi deyil, ISP verir",
-      "İstifadəçilərə axtarış nəticələrindən uyğun olmayan keçidləri süzgəcdən keçirən təhlükəsizlik filtrini təqdim edir",
-      "Fərdi kompüterdə və ya noutbukda proqram təminatı kimi quraşdırılmaqla uyğun olmayan məzmuna çıxışına nəzarət etmək üçün istifadə olunur..",
+      "Webcontent-in yalnız müəyyən bir hissəsinə giriş təklif edir və hansı məzmunun əldə oluna biləcəyi ilə bağlı qərarı istifadəçi deyil, ISP verir.",
+      "İstifadəçilərə axtarış nəticələrindən uyğun olmayan keçidləri süzgəcdən keçirən təhlükəsizlik filtrini təqdim edir.",
+      "Fərdi kompüterdə və ya noutbukda proqram təminatı kimi quraşdırılmaqla uyğun olmayan məzmuna çıxışına nəzarət etmək üçün istifadə olunur.",
       "Müəyyən kontentə baxış üçün istifadəçinin şəxsi kimlik məlumatlarına uyğun olaraq məzmunun nümayişini həyata keçirir.",
       "Brauzerə əlavə edilə bilən plaginlər vasitəsilə məzmunun filtrasiyasını həyata keçirir."
     ],
@@ -1503,13 +1503,13 @@
     "id": 126,
     "question": "Fişinq hücumunun planlaşdırma mərhələsində nə baş verir?",
     "options": [
-      "Qurbanlardan toplanan məlumatlardan istifadə edərək, cinayətkarlar qanunsuz alış-veriş etməyə və ya qurbanın hesablarından pul köçürməyə başlayırlar",
-      " Qurbanların saxta internet səhifələrinə daxil etdikləri məlumatlar toplanır və qeydə alınır",
-      " Hücumun icraçıları hansı şirkət və ya təşkilatın adından saxtakarlıq edəcəklərinə qərar verir və həmin şirkətin müştəri e-poçt unvanlarının siyahısını necə əldə edəcəyini öyrənir",
-      " Cinayətkarlar saxta e-poçt mesajlarını nəzərdə tutulan qurbanlara göndərirlər",
+      "Qurbanlardan toplanan məlumatlardan istifadə edərək, cinayətkarlar qanunsuz alış-veriş etməyə və ya qurbanın hesablarından pul köçürməyə başlayırlar.",
+      " Qurbanların saxta internet səhifələrinə daxil etdikləri məlumatlar toplanır və qeydə alınır.",
+      " Hücumun icraçıları hansı şirkət və ya təşkilatın adından saxtakarlıq edəcəklərinə qərar verir və həmin şirkətin müştəri e-poçt unvanlarının siyahısını necə əldə edəcəyini öyrənir.",
+      " Cinayətkarlar saxta e-poçt mesajlarını nəzərdə tutulan qurbanlara göndərirlər.",
       "Təcavüzkarlar saxtakarlıq etmək üçün şirkəti və onların nəzərdə tutulan qurbanlarını müəyyən etdikdən sonra, e-poçt çatdırılması və məlumat toplama üsulları və alətləri hazırlayırlar."
     ],
-    "answer": " Hücumun icraçıları hansı şirkət və ya təşkilatın adından saxtakarlıq edəcəklərinə qərar verir və həmin şirkətin müştəri e-poçt unvanlarının siyahısını necə əldə edəcəyini öyrənir"
+    "answer": " Hücumun icraçıları hansı şirkət və ya təşkilatın adından saxtakarlıq edəcəklərinə qərar verir və həmin şirkətin müştəri e-poçt unvanlarının siyahısını necə əldə edəcəyini öyrənir."
   },
   {
     "id": 127,

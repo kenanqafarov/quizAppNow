@@ -7,7 +7,7 @@ import "react-toastify/dist/ReactToastify.css";
 function App() {
   const [started, setStarted] = useState(false);
   const [minIndex, setMinIndex] = useState(0);
-  const [maxIndex, setMaxIndex] = useState(200);
+  const [maxIndex, setMaxIndex] = useState(280);
   const [customRange, setCustomRange] = useState("");
   const [useCustomRange, setUseCustomRange] = useState(false);
   const [showCorrectToggle, setShowCorrectToggle] = useState(false);
@@ -23,8 +23,8 @@ function App() {
       if (minIndex < 0 || minIndex >= maxIndex) {
         newErrors.min = "Başlanğıc sual düzgün deyil.";
       }
-      if (maxIndex > 200) {
-        newErrors.max = "Maksimum sual sayı 200-dür.";
+      if (maxIndex > 280) {
+        newErrors.max = "Maksimum sual sayı 280-dir.";
       }
     } else {
       if (parseCustomRange(customRange).length === 0) {

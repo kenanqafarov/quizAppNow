@@ -16,7 +16,7 @@ function Quiz({ minIndex, maxIndex, customRange, showCorrectToggle }) {
   useEffect(() => {
     const questionIndices = customRange ?? Array.from({ length: maxIndex - minIndex }, (_, i) => i + minIndex);
     const shuffledIndices = [...questionIndices].sort(() => Math.random() - 0.5);
-    const selectedQuestions = shuffledIndices.map((i) => {
+    const selectedQuestions = shuffledIndices.slice(0, 30).map((i) => {
       const q = { ...questionsData[i] };
       q.options = [...q.options].sort(() => Math.random() - 0.5);
       return q;
@@ -95,7 +95,7 @@ function Quiz({ minIndex, maxIndex, customRange, showCorrectToggle }) {
     }
 
     const total = questions.length;
-    const score =correctCount;
+    const score = correctCount;
 
     return { correctCount, wrongCount, emptyCount, score };
   };
