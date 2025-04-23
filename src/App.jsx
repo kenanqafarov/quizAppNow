@@ -7,7 +7,7 @@ import "react-toastify/dist/ReactToastify.css";
 function App() {
   const [started, setStarted] = useState(false);
   const [minIndex, setMinIndex] = useState(0);
-  const [maxIndex, setMaxIndex] = useState(280);
+  const [maxIndex, setMaxIndex] = useState(692);
   const [customRange, setCustomRange] = useState("");
   const [useCustomRange, setUseCustomRange] = useState(false);
   const [showCorrectToggle, setShowCorrectToggle] = useState(false);
@@ -23,7 +23,7 @@ function App() {
       if (minIndex < 0 || minIndex >= maxIndex) {
         newErrors.min = "Başlanğıc sual düzgün deyil.";
       }
-      if (maxIndex > 280) {
+      if (maxIndex > 692) {
         newErrors.max = "Maksimum sual sayı 280-dir.";
       }
     } else {
@@ -91,7 +91,7 @@ function App() {
   return (
     <div className="start-screen">
       <p className="start-title">Quiz App</p>
-      <p className="subject">Fənn: Təhlükəsiz proqramlaşdırma</p>
+      <p className="subject">Fənn: Sahibkarlığın əsasları və biznesə giriş</p>
 
       {useCustomRange ? (
         <div className={`custom-input-wrapper ${useCustomRange ? "open" : ""}`}>
