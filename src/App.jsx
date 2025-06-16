@@ -7,7 +7,7 @@ import "react-toastify/dist/ReactToastify.css";
 function App() {
   const [started, setStarted] = useState(false);
   const [minIndex, setMinIndex] = useState(0);
-  const [maxIndex, setMaxIndex] = useState(692);
+  const [maxIndex, setMaxIndex] = useState(700);
   const [customRange, setCustomRange] = useState("");
   const [useCustomRange, setUseCustomRange] = useState(false);
   const [showCorrectToggle, setShowCorrectToggle] = useState(false);
@@ -39,8 +39,8 @@ function App() {
 
     setErrors({});
 
-    if (questionCount < 30) {
-      toast.warn("Seçilmiş sual sayı 30-dan azdır. Davam edilir...");
+    if (questionCount < 50) {
+      toast.warn("Seçilmiş sual sayı 50-dən azdır. Davam edilir...");
       setTimeout(() => setStarted(true), 2000);
     } else {
       setStarted(true);
@@ -131,7 +131,7 @@ function App() {
               type="number"
               placeholder={maxIndex}
               min={1}
-              max={200}
+              max={700}
               className={errors.max ? "error" : ""}
               onChange={(e) =>
                 setMaxIndex(parseInt(e.target.value) || 200)
